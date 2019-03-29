@@ -156,9 +156,6 @@ chagarina (-C!J)
 chayajuna (-Tt)
 quishquiyana (-TI)
 cainij shamuna (-TT)
-
-
-
 ACLARAR (EL DIA)
 achigyana
 p'unllayana (-~1 -CU -TI -PE
@@ -166,44 +163,44 @@ p'unllayana (-~1 -CU -TI -PE
 punllayana (-IL -GZ)
 punllayachina (-TL)
 p'unllayachina (-SA)
-nunchayana (-ZA)
+punchayana (-ZA)
 punzhayana (-SG)
 achigana (-SG)
-achiyarnuna (-NI)
+achiyamuna (-NI)
 luziyana (-CS)
 usyana (-SG)
-curnpafiana
-curnpafiasha purina (-MI -ClJ)
-cumpafiasha rina (-\11 -SI)
+ACOMPAÑAR
+cumpañana
+cumpañasha purina (-MI -ClJ)
+cumpañasha rina (-\11 -SI)
 cumbana (-IL)
-curnafiana (-PF.)
-ACOR DAR
+cumañana (-PF.)
+ACORDAR
 yuyachina
 yuyana (-IL -ST +GZ +SG)
-~CORDARSE
+ACORDARSE
 yuyarina
-~COST 1\RSE
+ACOSTARSE
 siririna
-9
-ACHinTF.
+ACHIOTE
 achuti
-culur (+IL -MI -ClJ -GU)
+cúlur (+IL -MI -ClJ -GU)
 ADELANTARSE
-iiaupana
-iiurnpana (-SI -GZ)
-yurnpana (-ZA)
-fiaub ana ( - SA)
-iiugpana. (-SI)
-ADEL ANTE
-fiaupa
-fiaupaj (-IL -CU -GU)
-fiurnpai (-SI -GZ)
-fiugpai (-SI)
-fiagpai (-PE)
-fiaupi (-TI)
-iiaubuqui (-SA)
-yurnpi (-ZA)
-ADE NT RO
+ñaupana
+ñumpana (-SI -GZ)
+yumpana (-ZA)
+ñaubana ( - SA)
+ñugpana (-SI)
+ADELANTE
+ñaupa
+ñaupaj (-IL -CU -GU)
+ñurnpai (-SI -GZ)
+ñugpai (-SI)
+ñagpai (-PE)
+ñaupi (-TI)
+ñaubuqui (-SA)
+yumpi (-ZA)
+ADENTRO
 ucu
 ADIVINAR
 ADOBE
