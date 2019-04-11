@@ -976,949 +976,585 @@ randina
 CONCLUIR
 tucuchina
 puchucana (+IL +SA)
-
-
-
-IL - l!um3n, Imbabura; ZA - Z3mbiza, Pichincha; Ml - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua; SA - Salasac'a,
-Tungurahua; GU - Guapante, Tungurahua; TR - Troje, Chimborazo; NI - Nizag, Chimborazo; CS -
-Cachisahua, BoHvar; SI - Sigsihuaicu, Caiiar; GZ · Gullanshapa, Azuay; ~G - Saraguro, Lo]a.
-( +) Seiiala que en la zona especificada se usa otra forma ademas de la primera palabra quichua.
-( - ) Seiiala que en la zona especificada nose usa la primera palabra qmchua.
-ALFALFA
-ALFALFA
-aljua
-alp'a (-TI -PE -SA -~I -er - SG) ,,,
-qu'ihua (-CU -SA -GU)
-alp'a qu'ihua (-MI -CU)
-alfa (-IL)
-alp'alp'a qu'ihua (-MI)
-alp'alp'a jihua (-ZA)
-alp'a jihua (-PE)
-AL GU I EN
-maiian
-huaquin (-~H -GU -CS)
-pi taj (+NI +SI +GZ)
-pichari (-·ZA -GU)
-maijin (-PE -NI)
-shuj (-TI -SA)
-shuj ca (-SA)
-pipash (+IL)
-pi sh (-HI)
-pishi (-PE)
-maijun (-ZA)
-majin (-CU)
-maican (-SG)
-ALI SAR
-llambuyachina
-llamhuna (-PE -CS -GZ)
-pambayachina (-TI -PE)
-llamhuchina (-SG)
-lisana (-MI)
-planuyachina (-CU)
-llagyana (-TI)
-fiutuchina (-GU)
-lluchcayachina (+SA)
-lluchca rurana (+SA)
-planu pc_mba rur~na (-TI)
-ALMA
-alma
--Gl
-aya (-~1I -CU -GU -NI -GZ -SG)
-sumbra (-CU)
-huafiushca (-SG)
-alma huaiiushca (-TI)
-ALMO!IADA
-s2una
-cabisira (+MI -GU)
-12 AMAR LE
-ALREDEDOR DE
-muyundi i
-muyundi. (-TL -\1T -CU -PE -SI)
-siqui (-GU +TR)
-huasha (+TR -SI)
-ridundu (-TI)
-4LTO (DE UNA PARTE)
-j ahua
-~ltu (+ZA +TR -CS)
-~a tun (-TI +TR)
-pna (+GU)
-ALTO (DE UNA PERSONA)
-j a tun
-ALVERJA
-al bis
-alb~ja (-NI -SI -GZ)
-alb~J ~~ (-CU -GU -CS)
-alhirJlS (+MI -TI)
-alhirja (-PE -SG)
-alhrijis (-PE)
-albijas (-IL)
-alus (+MI)
-AL ZAR
-alzana
-marcana (+ZA -CU -TI -PE -GIJ)
-Jahuayachina (-Sil +TR) ·
--! ahuachina (-SI)
-ia~ar~chrna (-SI)
-hu1ch1yachi na (+TR)
-al tsana (-SA)
-ALLI
-chai
-chi (+MT +PE +S.A -SG)
-chailla (-GZ -SG)
-chi~ha (-TI +GU)
-cha1nanita (+MI)
-AMAR LE
-c'uya
-alll (-ZA -TI -SA -NI -SG)
-c'uyai (-CS)
-juyashca (-PE)
-juyanayai (-IL)
-carifiusn (-Gll)
-amurusu (-G1J)
-alli shungu(yuj) (-SA)
-l\MANECER
-pacarina
-p'unllayana (+MT +CU -TI -PE
-+ S.A +GU)
-punllayana (+TL)
-punchayana (+ZA)
-achigyana (+TR)
-achiyana (+NI)
-pacarimuna (-GZ)
-AMAR
-c'uyana
-juyana (-IL -ZA -PE)
-AMARGO
-j ayaj
-j ayij (MI -TI -SA -Gll)
-AMARILLO
-quillu
-qu'illu (-PE -SA -NI -CS)
-j i llu (-CU -TI)
-A.MARRA.R
-huatana
-ts agnana (+IL)
-chagllana (+SA)
-/\\H\ATO
-Jamb a tu
-Ambatu (-ZA +TI -NI -CS -SI
--GZ -SG)
-13
-AMPLIO
-AM BOS
-ishquindij
-ishquindi (-MI -CU -TI -PE -GU)
-ishcandij (-NI -GZ -SG)
-ishcandi (-IL -SI)
-ishquindin (-ZA)
-AMIGO
-amigu
-cumpafiiritu (+PE +SI)
-cumba (+IL)
-AMO NT ON AR
-muntunana
-bancuna (+MI +CU +TR)
-culmana (-IL -ZA +SA)
-tardachina (-ZA +CS +SI)
-mundunana ( - IL)
-jalsana (-ZA)
-banquillana (+TR)
-banquilluna (+TR)
-buntunana (-NI)
-paltanacuna (+SI)
-AMOR
-c'uyai
-c'uyana (-MI -SA -GU +SI)
-juyana (-IL -ZA -PE)
-juyai (-IL)
-AMORTIGUAR
-huafiurina
-huafiuchina (-SA -NI -SG)
-upayana (+IL -CU -GU)
-upayachina (-ZA -CU -SA)
-chinina (-MI)
-puzuquichina (-TI)
-llumiyachina (-SA)
-mansuyachina (-SA)
-AMPLIO
-lugar
-anchu (-ZA -MI -CU -TI -SA
--GU -GZ)
-IL - Human, Imbabura; ZA - · Zambiza, Pichincha; MI - San Miguel de Sa!Cedo; Cotopaxi; CU -
-Cusubamba, Cotopaxi; Tl - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua; SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - Troje, Chimborazo; NI - Nizag, Chimborazo; CS ·
-Cachisahua, Bolivar; SI - Sigsihuaicu, Cafiar; GZ - Gullanshapa, Azuay; EiG - Saraguro, Loja.
-· ( +') Sefiala que en la zona especificada se usa otra forma ademas de la prim era palabra quichua.
-(,) Sefiala queen la zona especificada nose usa la primera palabra qu1chua.
-AMPLIO
-jatun (-MI -SA -SI)
-campu (-ZA -MI)
-pamba ( - PE)
-ampliu (-SG)
-AN CHO
-anchu
-anllu (-IL)
-j atunlla (-MI)
-p'ataj (+SA)
-AND AR
-purina
-ANDRAJOSO
-llachapa
-tsuntsu (-ZA -MI -CU -TI -PE
-+SA)
-trapusu (-ZA -GU)
-zunllu (+IL)
-sunzu (-CS)
-p'utyu (+SA)
-chi rchi (+SI)
-chapu (+SI)
-ANGOSTO
-quichqui
-quishqui (-ZA -CU -TI -GU)
-utilla {-MI +PE)
-quichiqui (-IL)
-angustu (-SI)
-ANILLO
-surtij as
-surtijis (-MI -CU - TI - PE
--SA - GU)
-surtiquis (-ZA)
-Q
-anillo
-ANIMARSE
-yuyarina
-animarina (-IL -ZA -MI -NI
--CS -SI -GZ)
-animana (-CU - TI -SA -GU -SG)
-14
-ANO
-sinchiyana (-SI)
-sinlliyajuna (-IL)
-c'ariyana (-SA)
-siqui
-ANADIR
-ucuti (-IL +SA -GZ -SG)
-siqui tullu (-MI -CU -TI)
-siqui utcu (-P£ +SA)
-siqui utuju (-IL)
-siqui ujtu (-ZA)
-siqui pungu (-CS)
-ANOCHECER
-tutayana
-ansayana (+CU +GU)
-amsayana (+IL)
-ANTEAYER
-cainapaj caina
-caina yallij (-ZA +TR -SI)
-chaishuj caina (-SA -GU)
-caina sarun (-CU -SI)
-caina mincha (-NI -GZ)
-sarun (-NI)
-sarun p'unlla (-TI)
-Af:IO
-huata
-APAGAR (LA LUZ)
-huaiiuchina
-IJ..l"-hu'-h;n,._
-AP:\RECER
-ricurina
-APAREJO
-pariju
-albarda (-IL - MI)
-c'alma (-CU -GU)
-jalma (-SA)
-aparina (-TI)
-iaquima {-SG)
-AP ARTE
-chic an
-sipa~adu {-ZA +SA -SG)
-libri (-MI -TI)
-shican (-IL)
-shuj shujta (+SA)
-15
-APLASTAR
-llapina
-ARANA
-llapichina (-IL -ZA -TI +TR)
-fiitina (-SI -SG)
-llapchina (-SI)
-p' aquina (-MI)
-p'aquichina (-Tl)
-APRENDER
-yachacuna
-yachana (-ZA -CU -TI -PE -GU
--NI -CS +SG)
-yachajuna (-IL -MI)
-yachaguna {-SA)
-APRETAR
-ajushtana
-nitina (+IL -SI -GZ -SG)
-sipina (-ZA -SA)
-capina (+MI +TR)
-llapina {-SA -GU +TR -CS)
-apurtana ( - IL)
-apitana (-NI)
-AQUI
-caipi
-sarun punzha (-SG) APELLIDO
-caibi (-MI -CU -TI -SA -GU -NI)
-quibi (+TI)
-. -jainapu-jainand.L(-,.PE) ___ _
-chashuj caina (-MI) '-----apillidushuti
-(-IL -ZA -MI +TR +NI) AQUEL
-chai
-ANTERIOR
-iiaupa
-ii.umpa (-SI -GZ)
-fiugpa (-SI)
-ii.agpa (-PE)
-ii.auba (-SA)
-yumpa (-ZA)
-yumpuj ( - ZA)
-punta (+SG)
-punda (+IL)
-rucu (+MI)
-sarun (-SA)
-ANADIR
-yapana
-mirachina (-IL -ZA -PE +TR -NJ)
-yapachini (-IL -ZA)
-ariyana (+GU)
-afiadina (-GZ)
-puntana (-SG)
-apilativu (-IL - MI +GU)
-yapa shuti (-TI)
-apillidu shuti (-SA)
-aillu shuti (-SI)
-!\PLANAR
-pambayachina
-yata pascana (-CU -GU)
-planyana (-SI)
-planana (+NI)
-llambuna (-CS)
-llambuchina (+SG)
-llanuyachina (+TR)
-layachina (-SA)
-pambachina (-GZ)
-parnbada rurana (-Tl)
-chi (-ZA +MI +TI +PE +SA -GU
+rana
+rurana
+CONDOR
+cundur
+CONEJILLO DE INDIAS (CUY)
+cuyi
+cui (-IL +MI +SA +GU +TR -CS)
+curbiñu (-GZ)
+CONEJO
+cunu
+cuniju (+MI -PE -SA +r,u -NI
+-SI _-GZ -SG)
+CONOCER
+rijsina
+CONSTRUIR
+huasichina
+rurana (+IL -ZA -TI -PE -SA
+-NI -sr -SG)
+shayachina (+IL -MI -CU -TI
+-PE -SA -GU)
+ruhuana (-SI -GZ -SG)
+urana (-MI -CU)
+callarina (+IL -CS)
+rana (-PE)
+trabajana (+IL)
+CONTAR
+yunana
+cuintana (+IL -ZA H1I +SA -NI)
+parlana
+cuintana (+GU)
+rimana (-IL)
+CONTENTO
+cushi
+cuntintu (-ZJ\ +MI -CU -TI +SJ\)
+cushilla (+SA +SI +GZ)
+alli (+MI +PE)
+aliri (-PE)
+jushca (- IL)
+CONTINUAR
+catina
+callarina (-ZA -CS)
+c'atina (-SI -GZ)
+CONVENCER
+mishana
+binsina (-MI +TI -SA)
+cumbinsina (-CU -SG)
+atina (-SI -GZ)
+crichina (-IL)
+mandana (-ZA)
+yallina (-PE)
+umana (+TR)
+yalli parlana (-CS)
+CONVERSAR
+parlanacuna
+parlana (-ZA +MI -CU -TI -PE
+-SA -GU -SI -GZ -SG)
+parlanucuna (-SA) ·
+parlanajuna (-IL)
+CONVERTIRSE
+tucuna
+trucana (+IL)
+cambiyana (+IL)
+builtarina (+SA)
+COPO
+huangu
+millma huangu (-S-\ -GIJ)
+puchcana huangu (-PE)
+puchcana maitu (-PE)
+ulca (+IL)
+CORAZON
+shungu
+curasun (+SA +SI)
+CORDERO
+batiuj
+ubija (-PE +SA -GU -NI -CS -SI
+- GZ)
+huahua llama (-IL -ZA -MI -CU)
+llama (-IL -GU)
+hatiu (-PE)
+huahua uhijita (-SI)
+uchuil ufia (-SG)
+llullu llama (-TI)
+CORTAR
+cuchuna
+p'itina (-1-~IT +CU +TR +PE +SA
++GlJ +TR -es +SI -GZ
 +SG)
-A RADO
-arma
-yapuna (-ZA -CU -CS -SG)
-aradu (-MI -TI -SA)
-charina (-MI -GU)
-yapuna aradu (-IL -PE)
-llugu (-MI)
-timun (-MI)
-ARANA
-arafia
-ariana (-ZA -MI +CU -TI)
-IL - Human, Imbabu.ra; ZA : Zambiza, Pi~hincha; !V!I - San Miguel de Salcedo, Cotopaxi; cu -
-Cusubamba, Cotopaxi; TI - T1gua, Cotopaxi; PE - Ch1buleo San Pedro, Tungurahua; SA - Salasaca
-Tun~rahua; GlJ - Guapai;it~, T~ngurahua; TR - Troje, Chimborazo; NI - Nizag, Chimborazo; CS'.
-Cach1sa!ma, Bohvar; SI- S1gs1hu~1cu, Caiiar; GZ - Gullanshapa1 Azuay; ~G - Saraguro, Loja.
-( +) Se~ala que en la zona espec1ficada se usa otra forma ademas de la primera palabra quichua.
-( - ) Senala queen la zona especificada nose usa la primera palabra qmchua.
-ARAR
-ARAR
-yapuna
-ARBOL
-yura
-quiru (-IL +TI -NI)
-ARCO (DEL PIF.)
-chaqui shungu
-chaqui pamba (-TI -SG)
-chaqui ucu (-ZA)
-chaqui planta (-MI)
-chaqui arcuyashca (-CU)
-chaqui curvas (-GU)
-chaupi chaqui (-IL)
-ARCO IRIS
-cuichi
-cuyuchij (-IL)
-hualambari (-IL)
-ari chiri (+MI)
-ARD ER
-rupana
-raurana (+IL +ZA +CU -SA)
-cunujchina (-PE)
-cunugyana (-PE)
-cunyana (+Sr)
-ARENA
-t'iyu
-tiyu (-IL -SG)
-jarina (-SA -GU)
-yugzi (-TI -SA)
-zugzi (-PE)
-16
-alpa (-ZA)
-allpa (-PE)
-l lt..gzi ashpa (-MT)
-llugzi allpa (-ClJ)
-ARETE
-sarsillu
-ARRJMAR
-sarsillus (-IL -GlJ -SI -GZ)
-urijiris (-IL -MT -CU)
-urijis (-MI -CU)
-aritis (-PE -GlJ)
-s a rs i 1 i s ( - ZA)
-sarsisu (-TI)
-rinri huachca (-SI\)
-rinri urij is (-SA)
-ARIS CO
-qu' i ta
-jita (-IL -ZA -PE)
-p' ifia (-MI -GU)
-ariscu (-CU -GU)
-jitun (-TI)
-l\RRANCAR
-p' it ina
-tirana (-TI -PE -GU +NI -CS)
-fitina (-IL)
-llujshichina (-SA)
+fichina (+IL)
+CORTAR HIERBA
+qu'ihuata cuchuna
+qu'ihuana (-MI -Cll -TI -SA -GU
+- SG)
+jihuana (-ZA -SA)
+qu'ihuada cuchuna (-MI -GU)
+qu'ihuata c'uchuna (-SI)
+jihuata cuchuna (-IL)
+jihuada cuchuna (-ZA)
+qu'ihuata p'itina (-GZ)
+CORTAR PELO
+rutuna
+rutuchina (+\lJ -CU -TI -rE +SA)
+muchuna (-IL)
+n'itina (-ZA)
+nituna (-SI)
 cuchuna (-SG)
-liquina (-IL)
-ARREGLAR
-allichina
-parijana (+MI -CU -SA)
-cumpunina (-PE)
-cumbunina ( - IL)
-alichina (-IL)
-riglana (-SA)
-l\RRIBI\
-j ahua
-j anaj (+IL +SA +TR)
-j ana (<-MI)
-huichi (+MI)
-ichi (+SA)
-ARRIMAR
-cuchuyachina
-arrimana (-TI -CU +PE -SA -NI
--SI -GZ)
-l\RRIMAR
-qu1mina (-TL -ZI\)
-quimichina (-SI\ -SG)
-muntunana (-\lI -GU)
-laduchina (-MT)
-tanclach i na (-TI)
-chayachina (-SG)
-cuchuchina (-SG)
-ARRODTLLARSE
-cungurina
-AR RUG A
-sipu
-zuzuj (-TI -GU)
-zuzugyashca (-MI)
-sipurina (-ZA)
-s ipushca ( -SG)
-ASAR
-AST
-cusana
-chashna
-cashna (+IL -SA +TR -SI -GZ)
-shina (+IL +MI +SA +GU +TR)
-china (+MI -CU -TI -PE)
-chasna (-ZI\)
-ASOMARSE
-ricurina
--\SPERO
-shagra
-paza (-CU -TI -PE -SA -GU -CS)
-p'ala (-ZA)
-11uru lluru (-MI)
-zharu (+SI)
-sagruzu (-SG)
-l\SlJSTARSE
-mancharina
-rnanl larina (-IL)
-sustarina (-TT)
-17 AVE
-l\TAJAR
-j arcana
-ATAR
-huatana
-ATRANCAR
-j arcana
-trancana (-IL +CU -TI -PE -SA
-+TR -NI -CS)
-AT RAS
-huasha
-huajta (-ZA)
-ATRASARSE
-qu' ipayana
-jichurina (-NI -CS -SI -GZ -SG)
-jipayana (-IL -ZA -PE -CS)
-huashayana (-PE -SA)
-huashamuna (-MI)
-quichurina (-MI)
-atrazana (-SA)
-huashada shamuna (-TI)
-AUMENT AR
-AVE
-mirachina
-mirana (+IL +MI -CU -NI -CS
-+SI -GZ -SG)
-yapana (-GU)
-pishcu
-pishquitu (-NI
-bishu (-SG)
-munchi (-CS)
-ave
-IL - Human, lmbabura; ZA - Zambiza, Pichincha; Ml - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotupaxi; PE - Chibule? San Pedro, Tun_gurahua; SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - TroJe, Chimborazo; NI - N1zag, Chimborazo; CS -
-Cachisahua, Bolivar; SI - Sigsihuaicu, Cafiar; GZ - Gullanshapa, Azuay; EiG - Saraguro, Loja.
-( +) Senala que en la zona especificada se usa otra forma ademas de la _primera palabra quichua.
-( - ) Sefiala queen la zona especificada nose usa la primera palabra qmchua.
-AVENTADOR
-AVENTADOR
-huairachidur
-abintadur (-MI -CU -PE -NI
--CS -SI -GZ)
-hua i rachi na ( - ZA -SA)
-p'ucuchina (-ZA)
-abintana (-TI)
-abintu (-PE)
-abanicu (-GU)
-supladur (+SG)
-AVENT AR
-huairachina
-abintana (+MI +TR -NI -CS -GZ)
-p'ucuna (+ZA -SG)
-suplana (-SG)
-AVERGONZARSE
-pingarina
-pingui tucuna (-ZA -SA +TR)
-pingai tucuna (-IL -NI)
-pinganayana (-MI -CU)
-pinganayarina (-IL)
-pinganachina (-TI)
-pinganayachina (-PE)
-pinganana (-GU)
-AVERIGUAR
-ta pun a
-abiriguana (+CU +SG)
-taripana (+ZA +SI)
-ahrigana (+SI)
-AV I SAR
-huillana
-villana (-IL)
-illana (-SA)
-AYER
-caina
-AYUDAR
-ayudana
-AZADO'l
-azadun
-1 8 '~:
-~
-A ZIJL f
-a2aclu (-C:lJ)
-a zadu cahu ( -'1!)
-AZ OTAR
-azutina
-huajtana (+SA -'H -ST +SG)
-pigana (+TR -GZ)
-dalina (+SA -ST)
-llulluna c-~lT)
-astina (-IL)
-casht igana ( +GlT)
-llibachina (+GlJ)
-AZOTE
-azil
-azuti (+ZA -MI -TI -CS)
-cara huasca (+IL +ZA)
-azutina (-CU -PE)
-chicuti -SI -GZ)
-bulliru (-GU)
-AZUL
-azul
-aururu (+SA)
-la ru (+SI)
-BA BAS
-B
-ty'uca
-ch'uca (-PE -GlT -GZ)
-11ausa (-IL _SI)
-ha has ( - TL - S ~ - Gll - SI - S G)
-hahus (-C.U -TT -SA -GlJ)
-t'uca (-TT -SG)
-tuca (-ZA)
-1ausR (-ZA)
-Bi\ ILAR
-hailana
-danzRna (+\11 +CU +TI -SA +GU
-+SG)
-tushuna (+IL +ZA -PE)
-- R.<\.TARSE
-uricuna
-uriyana (-SA +TR -CS)
-urijuna (-ZA -MI -CU -GU)
-uraicuna (-SI -SG)
-uriyajuna (-IL)
-urtarina (-TI)
-huaiquiyana (-PE)
-BUO (LUGAR)---
-ura
-UC\l (+TR -NI +GZ)
-_ pamhalla (-TL +TR)
-pamhala (-ZA +TR)
-haju (-IL -SA)
-urai (-IL)
-a1pa1 la (-IL)
-Rlpala (-ZA)
-uri lla (+MI)
-huaicu (-PE)
-RA.JO (PFRSONA)
-uchi lla
-utilla (-'IT -PE -SA -GU -NI
--CS)
-utila (-ZA -Cll -TI)
-uchi la (+TR)
-19 BASU RA
-BAFlARSE
-armana
-armarina (-IL -ST -GZ -SG)
-BARBA
-harhus
-harbas (-IL +TR -NI -CS -SI
--GZ -SG)
-BARRER
-p' ichana
-pichana (-ZA -TI -PE -GZ +SG)
-fichana ( - IL)
-BARRIGA
-huijsa
-vijsa (-IL)
-ijsa (-SA)
-huigsa (-SI)
-BARRO
-turu
-ludu (-CU +TR)
-~uzu (+TR)
-ashpa turu (-TI)
-yacu ludu (-PE)
-achpa (-SA)
-BAST ANTE
-ache a
-ashca (-ZA -MI -CU -TI -GU
-+TR -CS)
-milga (+SA)
-mirga (+SA)
-ashtaca (-IL)
-achija (-IL)
-BASTON
-tauna
-caspi (-MI -CU +TR)
-tauna caspi (-IL +TI)
-BASURA
-map a
-basura (-TI -Gll +TR)
-IL - Human, lmbabura; ZA - Zambiza, Pichincha; Ml - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; Tl - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua; SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - Troje, Chimborazo; NI - N1zag, Chimborazo; CS -
-Cachisahua, Bo!!var; SI - Sigsihuaicu, Caiiar; G Z - Gullanshapa, Azuay; :'iG - Saraguro, Loia.
-( +) Seiiala queen la zona especificada se usa otra forma ademas de la prim era palabra qutchua.
-( - ) Seiiala queen la zona especificada nose usa la primera palabra qu1chua.
-BASU RA
-jupa (-ZA -PE)
-c'arca (-MI -CU)
-p'unzu (-CS)
-p'untsu (-SA)
-BATEA DE MADERA
-batia
-bacha (+TR)
-caspi huigru (+SI)
-hunqui (-SG)
-batea de madera
-BAT IR
-c'ahuina
-batina (-IL -CU -GU +TR -NI
-+SI -GZ -SG)
-jahuina (-ZA -CU -PE)
-cuyuchina (-PE -SG)
-cavina ( - IL)
-nishina (+MI)
-BAUL
-bahuil
-haul (-ZA -PE -SA +TR -CS
--SI -GZ)
-cajun (-MI +TR -NI -SG)
-baulu (-IL)
-bahual (-PE)
-llAUTIZAR
-shut china
-baut sana (+NI -GZ +SG)
-baut zana (+TR +SI)
-20 BIZ CO
-BAUTIZO
-shut china
-shut chi (-MI -CU -TI -SG)
-haut zu (-SI -GZ)
-haut zmu (-SG)
-haut zana (-IL)
-BA YET A
-hai ta
-bayi ta (-SA -GU)
-anacu (-MI -CU)
-p'achalli (+TR -CS)
-ribusu (-TI)
-BEBE
+CORTEZA
+yura cara
+cara (-IL -ZA -SA -\/I -SI -GZ
+-SG)
+caspi cara (+MI -CU -PE -CS)
+quiru cara (-IL -TI)
+yura shimi (-GU)
+CORTO
+uchila
+utilla (-MI -CU -PE -SA -CS)
+uchilla (-IL -MI -SI -GZ)
+uchula (-ZA)
+uchuj (+TI)
+umuta (-Gll)
+putu (-IL)
+c'utu (-SA)
+cutu (-SG)
+jurula (-ZA)
+chilla (-SA)
+CORRAL
+cúrral
+quinlla (-MI +CU -TI)
+cúrrul (-ZA. -TI +SA)
+huichcana (-SG)
+CORREDOR
+currídur
+currídur pungu (-TI -PE)
+pungu (-SI)
+pugra (-MI)
+curdur (-GZ)
+huasi ñaupaj (+TR)
+canlla pungu (-SA)
+CORRER
+callpana
+bulana (+MI -CU +PE -GU +TR
+-es +sGJ
+currina (+MI -CU -TI -SA)
+calpana (-IL -ZA)
+curriyana (+SI)
+saltana (-SA)
+utca purina (+PE)
+COSECHAR
+cuzichana
+cuchuna (+MI +TR +SG)
+cuzuchana (-Gll)
+pallana (+IL)
+tandachina (+SA)
+chagrana (+SA)
+chagllana ( +SA)
+COSER
+sirana
+COSQUILLEAR
+shijshichina
+cusquichina (-SG)
+pishpichina (+SA)
+COSTILLA
+custilla
+cushtilla (-IL -SG)
+cushtillas (-CS)
+cushtilis (-MI)
+custijis (-CU)
+curtilis (-TI)
+cushtis (-SA)
+custis (-SA)
+cushtiris tullu (-GU)
+cartilis quinri (-TI)
+COSTUMBRE
+cushtumbri
+custumbri (-TI -PE +SA -GZ -SG)
+yachashca (-IL +TR)
+yacharishca (-ZA)
+yachai (-IL)
+COYUNTURA
+mucu
+juntashca (-SG)
+CRECER
+huiñana
+jatunyana (-IL +ZA +TI +PE +SI)
+viñana (-IL)
+iñana (-SA)
+mirana (-IL)
+mirachina (+ZA)
+CREER
+crina
+criyina (-ZA -MI -CU -TI -GU
+-SI -G:'. -SG)
+CRESPO
+crispu
+tipu (-SI -GZ -SG)
+mirinu (-IL -CU)
+zirbu (-SI -GZ)
+zhirbu (-SI)
+zupi (-MI)
+zipu (-Gil)
+izupu (-SA)
+lluru (-PE)
+tsirapa (-IL)
+chirilu (-IL)
+chivilu (-IL)
+crispuma (-ZA)
+churu uma (-CS)
+CRIAR
+huiñachina
+criana (+GZ +SG)
+viñachina (- IL)
+iñachina (-SA)
+CRIATURA
 huahua
-REBER
-uhiana
-upiana (-IL -ZA -NI -GZ -SG)
-BE CERRO
-bi zi
-billi (-ZA -MI -CU -TI -PE
--SA -GU)
-shicu (-IL)
-BE SAR
-muchana
-BESO
-much a
-muchana (-GU -SG)
-muchai (+IL)
-BIEN
-alli
-bin (+SA -SG)
-ali (-IL)
-BIZ CO
-tuirtu
-hiscu (-IL -NI -CS)
-carglan (-PE)
-ishtuda ricuj (-SA)
-huistu nahui (-SI)
-RTZCO
-hi zgu (-Gll)
-turtu (-TT)
-RL~'JCO (COLOR)
-yuraj
-yuruj (-ZA -MI -CU -TI -SA
--GU)
-RI.USA
-hluza
-camiza (-IL -ZA -MI -CU -PE
--SA -SG)
-cutuna (-Gll) ·
-talpa (-SI)
-pulca (-GZ)
-bulsa (-TT)
-HOl.I\
-shimi
-ROl.A ARAJO
-uri singa
-urai singa (-IL -SI -GZ -SG)
-ura singa (-ZA)
-uri shimi (-OJ)
-shimi pambabi (-TI)
-shimi huaicupi (-PE)
-ROCA ARRIRA
-;illagman
-huichi singa (-ZA -MI -CU -PE
--GU -l.S)
-h~ichai singa (-GZ -SG)
-'.'1chai singa (-TL)
-ichi singa (-SA)
-shirni jahua (-TI -PE)
-illlagma (-ST)
-ROCA DO
-;imul l i
-hucaclu (-\IT -DJ +Gll -SI -SG)
-p'iticu (-l.lJ -TI)
-r'itihua (-ZA)
-nitillahua (-PE)
-amullihua (-TI)
-21
-amulliflahua (-PE)
-malina (-IL)
-shimi junda (-IL)
-BOLSA TEJIDA
-shigra
-sigra (-TI -SA)
-igra (+MI -CU)
-jigra (-CU)
-muchilu (+MI)
-hulsa shigra (-ZA)
-B.Q.1'H-T8
-alaja
-BORRACHO
-sumaj (+IL +MI +PE +SA -CS
+llullu huahua (-ZA -TI -SA)
+utilla huahua (-MI +PE)
+uchilla huahua (-SI)
+utilla huambra (-MI)
+llullu mara (-SA)
+CRIBAR
+shushuna
+sidasuna (+TI)
+ajichana (-CS)
+maillana (-SG)
+CRUCIFICAR
+chacatana
+CRUDO
+chahua
+jalun (-IL)
+c'alun (+TR)
+CRUZAR
+chimbana
+cruzana (+IL -CU +SA -GU -SI)
+pasana (+TR -NI +GZ)
+pasuna (-TI)
+cruzarina (-CS)
+dirichina (+MI)
+CUADRAR
+cuadrana
+llagllana (-IL -ZA -MI -CU -SA·
+. -SG)
+cuadrarina (-ZA)
+cuadriana (-GZ)
+labrana (-GU)
+cuadrachina (-SI)
+cuadraduda rurana (-TI)
+chuscu isquinata rana (-PE)
+¿CUAL?
+maijan
+maijin
+maican
+maijun
+¿CUANDO?
+ima ura
+ima uras
+imauras
+imaura
+jaica
+imura
+imuras
+ima urusta (+ZA)
+ima ratu (+SI)
+ima caica (-MI)
+¿CUANTO?
+mashna
+CUARTO (HABITACION)
+ucu
+CUATRO
+chuscu
+CUCHARON
+mama cuchara
+mama juchara (-PE)
+visha (-IL)
+huishla (-ZA)
+cuchárun (+NI)
+cucharún (-SG)
+CUELLO
+cunga
+CUERDA
+huasca
+cuirda (+TR +CS -GZ) -
+cauchu
+angu
+alambri
+pajpa cuirda (+SG)
+largu cauchu (-PE)
+angu huasca (-TI)
+CUERO
+cara
+CUERNO
+gachu
+cachu (-IL -ZA -MI -CU -TI -PE
+-SA -GU -es -GZ)
+c'achu ( -MI)
+CUESTA
+huichi
+huichai (-NI -SI -GZ -SG)
+vichai (-IL)
+ichi (-SA)
+ladira (-IL)
+luma (+CU)
+CUEVA
+utcu
+jutcu (+TR -NI -GZ)
+machai (-TI -SI -SG)
+ujtu (-ZA -GU)
+huaicu ujtu (-MI -CU)
+sucabún (-ZA -MI)
+utuju (-IL)
+jujtu ( +TR)
+matsi (-TI)
+matsai (-TI)
+c'ac'a utcu (-SA)
+huaicu chuchu (-MI)
+CUIDADO
+pajta
+p'ajta (-MI -CU -TI -SA)
+cuidadu (+ZA -GU -SI)
+cuidai (+SG)
+CUIDAR
+cuidana
+ricuna (+IL +ZA +TR +CS)
+ricurana (+MI +GU +SI)
+chapana (-PE +SA)
+ricush cuidana (-SG)
+CULPA
+jucha
+culpa (-ZA -MI -CU -TI +TR -NI
 +SI -SG)
-c'uilla (+MI +CU +TI +SA -GU
--NI)
-alli UPE •TR)
-c'uyailla (+MI)
-r: 'uyana (+PE)
-c'uidi (+SA)
-juila (-ZA)
-juyailla (+IL)
-sumaimana (+SI)
-sumita (-SG)
-BORDE
-many a
-p'ilu (-ZA -CU -PE_+GU +TR) __ _
-huilu (+TR)
-pata (+IL)
-maya (-TI)
-mujun (-CS)
-urilla (-GZ)
-ladu (-GZ)
-BORRACHO
+juchachi (-TL)
+causa (-MI)
+cauza (-Gll)
+CULPAR
+juchachina
+culpana (+TI -NI -SG)
+achacana (+TI -SI)
+cargunchina (+GZ)
+CUMBRE
+jahua punta
+urcu punta (-ZA -MI -CU -SA -NI
+-SI -SG)
+urcu uma (-IL -TI -PE)
+urcu luma (-GU -CS)
+jahua luma (-GZ)
+urcu punda (-IL)
+luma punda (-IL)
+CUMPLIR
+pajtachina
+cumplina (-ZA -MI -CU -TI -PE
+-SA -SI -GZ)
+p'ajtana (-SA)
+pagtachina (-SI)
+ubidisina (-GU)
+CUÑADA
+c'achun
+cuñada (-ZA +MI -GU -SI -SG)
+jachun (-IL -ZA -PE)
+cachun (-NI -CS)
+masha (-SI)
+pani masha (-GZ)
+ñaña masha (-GZ)
+CUÑADO
+masha
+cuñado (+ZA -GU +ST -SG)
+CURANDERO
+jambidur
+jambij (-IL -MI -SA -GZ -SG)
+jampij (-NI)
+yachij (-ZA)
+miticuj (-GZ)
+jambij yumbu (-TI)
+CHARCO
+tamia yacu
+cucha
+cuchayashca
+charcu
+tamia cucha
+yacu cucha
+tamia laguna
+utilla cuchahua
+yacu puza
+
+
+
+r:IIR \H
+jamhina
+jamhichina (-SI)
+-miticuna (+GZ)
+CIIRV\
+quingu
+curha (-C1J -TT -SI)
+huílta(-PE)
+cumu (-ST)
+muyuna (-GZ)
+muyui (+SG)
+CHAMUSCAR
+caspana
+CH
+rupachina (+IL -ZA -MI -NI -SG)
+chaspana (+SI -GZ)
+chasparina (-SG)
+c'aspana (-CS)
+chamuscana (-CU)
+chuchulquina (-TI)
+CHANCHO
+c'uchi
+cuchi (-ZA -NI -es -SG)
+juchi (-!L -PE)
+37 CHICO (adj.)
+CHARCO
+tamia yacu
+cucha (-IL -ZA -~I -SA -NI -GZ
+-SG)
+cuchayashca (-SI)
+charcu (-MI)
+tamia cucha (-CU)
+yacu cucha (-TI)
+tamia laguna (-GU)
+utilla cuchahua (-PE)
+yacu puza (-CS)
+CHARQUI
+irqui
+tsarqui (-IL -MI -PE -NI)
+chaquishca aicha (-ZA -CU -SA
+-GU)
+charqui (-CS -SI -GZ -SG)
+CHATO
+ñatu singa
+ñatu (-IL -CU -PE -SA -GZ)
+llapa singa (+TR -NI)
+llapi singa (-SA)
+singa tablayashca (-ZA)
+p'ataj singa (-MI)
+ñapi singa (-TI)
+llapirishca (+GU)
+singa (-CS)
+CHICO (adj.)
+uchila
+utilla (-CU -MI -PE -SA -GU -CS)
+uchilla (-IL -SA -SI -GZ)
+uticu (-MI -CU -TI)
+uchuj ( -ZA)
+uchiquilla (-ZA)
+u cha ( -MI)
+uchulla (-MI)
+chuzu (-MI)
+utila (-TI)
+u ti j 1 a ( + TR)
+uchuilla (-SG)
+IL - Ilumán, Imbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
+Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibule? San Pedro, Tun_gurahua¡ SA - Sal~saca,
+Tungurahua; GU - Guapante, Tungurahua; TR - TroJe, Ch1mbor2zo; NI - N1zag, Ch1mborazo, CS -
+Cachisahua, Bolívar; SI - Sigsihuaicu, Cañar; GZ - Gullanshapa, Azuay; ~G - Saraguro, -LoJa.
+(+)Señala que en la zona espec!ficada se usa otra forma ademas de la pnmera palabra quichua.
+( - ) Señala que en la zona especificada no se usa la pnmera palabra quichua.
+CHICHA
+eJU-ettA
+as-hua
+asua (tMI +CU -TI -GU +SG)
+. asuhua (-PE -SA -CS)
+CHICHERIA
+asua huasi
+ishtancu (+IL·+MI ~cu -SG)
+asuhua huasi (-ZA -NI)
+ishtincu (-CU)
+istancu (+TR)
+asuaría (-GZ)
+lsuhua ucu ( -TI)
+asuhua c'atu (-GU)
+asuhua c'atuj (-CS)
+asua.c'atuna (-SI)
+asuhua jatuj huasi (-PE)
+asuhua c'atuj huasi (-SA)
+CHILLAR
+caparina
+aullana (-MI -CU +PE)
+huacana (-IL -TI -GU)
+bullayana (-SI -GZ)
+huillijana (-ZA)
+huizaj nina (-CS)
+CHISTE
+chanza
+asichina (-IL -NI -SI)
+burla (+MI -PE -SG)
+burlana (-CU -GU)
+bruma (-GZ)
+pugllana (-TI)
+chisti (+TR)
+CHIVO
+chita
+chibu (-SI -SG)
+cabru (-GZ)
+G+lOGHO
+tauri
+chuchu (-SI -SG) ~o muru (+GZ) ~(
+chocho
+38
+CHOCLO
+chugllu
+CHOZA
+chuglla
+CHUPAR
+ujsha huasi (-MI -CU -TI -SA)
+sijsi huasi (-MI -CU)
+chuglla huasi (-MI)
+puntsu huasi (-SA)
+carpa (-SA)
+CHUMARSF.
+machana
+shingayana (-ZA +PF.)
+macharina (+MI)
+CllUMADO
 machashca
-macha (+MI -CU -TI -GU)
-shinga (+ZA +PE)
-ubiashca (+PE +TR)
-ufiashca (+IL)
-rnacharishca (+~I)
-mashca (+MI)
-shingashca (+SA)
-IL - Iluman, Imbabura; ZA - Zambiza, Pichincha; Ml - San Miguel de Salcedo, Cotopaxi; CU ·
-Cusubamba, Cotopaxi; Tl - Ti,!';ua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua; SA - Salesaca,
-Tungurahua; GU - Guapante, lungurahua; TR - Troje, Chimborazo; NI · N1zag, Chimborazo; CS·
-Cachisahua, Bohvar; SI· Sigsilrnaicu, Caiiar; GZ · Gullanshapa, Azuay; ~G - Saraguro, Loja.
-( +) Sefiala que en la zona especificada se usa otra forma ademas de la primera palabra quichua.
-( - ) Sefiala queen la zona especificada nose usa la primera palabra qu1chua.
-BOSTEZAR
-BO STE ZAR
-j ayaj chaina
-anina (-MI -SA)
-ampana (-IL)
-jalla nina (-ZA)
-agulana (-CU)
-aulajina (-TI)
-ja nina (-PE)
-yarijachina (-SA)
-shimi pascana (-GU)
-huai nina (-NI)
-pufiunachina (-CS)
-hustizana (-SI)
-jairichina (-GZ)
-BOT AR
-shitana
-sitana (-MI -CU -TI -GU)
-jicupana (-MI -CU)
-j ichuna (+IL)
-BOTON DE PLANTA
-llullu muyu
-muyu (-TI -NI -CS)
-butun (-IL -ZA -MI -GU)
-fiahui (-IL -SI)
-sisa tucuna (-MI)
-butu (-CU)
-puluj (+TR)
-mugmu (-SI)
-pi tu (-GZ) ...
-muru (-SG)
--BRAVO
-p'ifia
-culira (-ZA +TI)
-millai (-IL -SG)
-fifia ( - IL)
-pifiashca (-GZ)
-chiqui (+GU)
-payuzu (-CZ)
-B~AZO
-rigra
-22 RRnTAR (PLANTAS)
-RRTLLAR
-achii nina
-rupa~a (-MI -CU)
-p'ala nina (-PE -SA)
-punllayachina (-TL)
-punchayachina (-ZA1
-p'aglinijuna (-TI)
-p'alaquina (-SA)
-yuragyana (+NI)
-luziyana (-CS)
-llipana (-ST)
-achillana (-GZ)
-hrillana ( -SG)
-BRINCAR
-saltana
-tincana (+ZA)
-tushuna (+SI)
-hrincana (+IL)
+macha (+MI -TI -GlJ)
+shinga (-ZA +PE)
+shingayishca (-ZA)
+mashca ( +MI)
+machaj ( -CU)
+machishca · (-SA)
+CLLUPAR
+chupana
+tsupana (-!'JI +SI)
+tsungana (+IL -PE +SA -GU -CS)
+J1A!'JZAR
+Jll\'-IZAR
+danzana
+D
+hailana (+IL +ZA +TI -PE +TR
++NI -es -GZ •SG)
+tushuna (-PE +TR)
 fahuana (+IL)
 yumbuna (+IL)
-BRINDAR
+JlAf;JA R
+huagllina
+dañana (+ZA -MI -CU 0 NI -CS -SI
+-GZ -SG)
+huagllichina (-TI -PE -GU -SI)
+huaglina (-IL)
+huagllirina (+TR)
+dañuna ( -M1) ·
+cuna
+DAR A LlJZ
+huachana
+unguna (-IL +MI -GU)
+mirana (+SA -GZ)
+pacarina (+ZA)
+sajhuarina (-SI)
+huacash unguna (-TI)
+DAR DF. CO~lER
 carana
-cumbidana (-MI +CU -TI -PE -GU·
--NI -CS -GZ -SG) .
-cuna (+TR -SI -GZ)
-llROMA
-chanza
-burla (-MI -CU -PE -GZ +SG)
-pugllana (-TI +TR)
-transia (-IL)
-chascu (-ZA)
-hrumana (-SI)
-chisti (-SG)
-BROTAR (PLANTAS)
-huifiana
-huifiamuna (-MI -CU -TI)
-tugyana (-IL -ZA +TR)
-hrutana (+TR -GZ)
-vifiamuna (-IL)
-hutuyana (-SA)
-lluj shina (-GZ)
-sisana (-SG)
-tigyana (-SG)
-. nRnn !'LORAL llE "1AIZ 23 \:A REZA
-------------~----~------------ ---·-----------·
-HRnT!' fJ,nlU\L DE ~IA 1 z
-tu i tu
-t 1 i1jtu (-.\IT -ClJ -SA -GU +SG)
-chugllu si sa (-TT -PE +TR)
-tutui (-ZA)
-t'uci1 (-TT)
-llRIJ.J/\
-h ru i u
-vachai (-TL -ZA +m +TR +ST
--SG)
-vumhu (-Gl!)
-·salamanga (+PE)
-ichiziru (-GZ)
-RRllJEAR
-hrujyana ..
-hrujiyana (-CS -SG)
-hruiune (-ZA -"1I)
-p'a]tachina (-TI -GU)
-hruj ana _(-IL c SA)
-hrujuyena (-CU)
-p'ucuchine (-PE)
-hrujuchina (-PE)
-chiquiyana (-SA)
-- maluyana (+TR)
-ichisana (-GZ)
-BUENO
--· ---a-ni- -ali
-(-IL)
-- RlJIJO
-cusungu
-p'ucungu (-MT -SA -NI -CS)
-chushuj (-CU -TI -SG)
-chushaj (-PE -SA)
-chushi.i (+TR)
-nillij (-S.I\)
-chuscu i\ahui (-GU)
-buho
-BULTn
-qui pi
-quipipacha (+GU)
-BlJRlllJJA
-yacu bumha
-puscu (-SA -NI -SI -GZ)
-yacu bula (-ZA -CU -TI)
-juirsti juirsti (-IL)
-ispuma (-MT)
-yacu t'imbu (-CU)
-p'utsul nina (-CS)
-yacu pirlas (-SI)
-.BU SCAR
-mashcana
-mascana (-IL -ZA -MI -CU -TI
-- GU)
+micuchina (+MI +TI)
+cuna (+PE)
+DAR VUELTAS
+muyuna
+39
+DEBMO DE
+ucu
+ura ucu (-CU)
+ura (-"H +Gll)
+DEBER (v.)
+dihina
+dibiyana (+CU)
+cuna cana (-PE)
+p'iana (-PE)
+DEBIL
+irqui
+t'ala (-MI -Gll)
+tullu (-CS -GZ)
+t'alayashca (-MI)
+p'luju (-CU)
+p'lujulla (-TI)
+zala ( -NI)
+pishi (+SI)
+DECIR
+nina
+rimana (+IL +TR +SG)-
+DEDO
+didu
+DEFECAR
+ismana
+cacana (-PE)
+ismashcana (-SG)
+ismascana (-SG)
