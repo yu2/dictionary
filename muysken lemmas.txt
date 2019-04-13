@@ -2338,21 +2338,19 @@ shinga (-ZA +PE)
 shingayishca (-ZA)
 mashca ( +MI)
 machaj ( -CU)
-machishca · (-SA)
-CLLUPAR
+machishca (-SA)
+CHUPAR
 chupana
 tsupana (-!'JI +SI)
 tsungana (+IL -PE +SA -GU -CS)
-J1A!'JZAR
-Jll\'-IZAR
+DANZAR
 danzana
-D
-hailana (+IL +ZA +TI -PE +TR
+bailana (+IL +ZA +TI -PE +TR
 +NI -es -GZ •SG)
 tushuna (-PE +TR)
 fahuana (+IL)
 yumbuna (+IL)
-JlAf;JA R
+DAÑAR
 huagllina
 dañana (+ZA -MI -CU 0 NI -CS -SI
 -GZ -SG)
@@ -2360,22 +2358,22 @@ huagllichina (-TI -PE -GU -SI)
 huaglina (-IL)
 huagllirina (+TR)
 dañuna ( -M1) ·
+DAR
 cuna
-DAR A LlJZ
+DAR A LUZ
 huachana
 unguna (-IL +MI -GU)
 mirana (+SA -GZ)
 pacarina (+ZA)
 sajhuarina (-SI)
 huacash unguna (-TI)
-DAR DF. CO~lER
+DAR DE COMER
 carana
 micuchina (+MI +TI)
 cuna (+PE)
 DAR VUELTAS
 muyuna
-39
-DEBMO DE
+DEBAJO DE
 ucu
 ura ucu (-CU)
 ura (-"H +Gll)
@@ -2403,3 +2401,2651 @@ ismana
 cacana (-PE)
 ismashcana (-SG)
 ismascana (-SG)
+DEFENDER
+mitsana
+jarcana (-PE -SA)
+difindina (+CU -TI)
+misarina (-SI -GZ)
+ama nina (+IL)
+mitsarina (+ZA)
+shayarina (-MI)
+na nisha jarcana (-TI)
+difindirina (-CS)
+quishpichina (-SG)
+DEJAR
+saquina
+quipirina (+II.)
+DELANTE DE
+ñaupaj
+yumpuj (-ZA •MI)
+ñaupu (·TI)
+ñaujpu (-PF)
+ñaubu (·SA)
+ñugpa (·SI)
+ñumpai (-GZ)
+DELGADO
+ñañu
+tsala (+MI +TI +SA -GU)
+huañu langui (+CU -GU)
+ch'uzu (+PE +SA) -- -
+chuzu (+TR)
+jamzi (+IL)
+yañuy (+MI)
+raya raya (+TI)
+caspi (+TI)
+p'lacu (+TI)
+tullu (+SA)
+ñutu (+SG)
+DELICADO
+ñañu
+dilicadu (-MI -CU ·SI)
+tullu (-CS -GZ)
+jahualla (-PE -SA)
+p'aquij (-TI)
+p'aquiriglla (-SA)
+irqui ( -Gil)
+tuparinala (+TR)
+jamzi (+IL)
+huaglinalla (+IL)
+huagllinalla (+TR)
+huaglli shungu (-Z<\)
+uchu shungu (-ZA)
+DEMAS, LOS
+caishujcuna
+chaishujcuna (-PE -SA)
+chaicuna ( H.L)
+shujcuna (-ZA)
+cutin shujcuna (-'.H -GU)
+chashujcuna (-TI)
+DEMASIADO
+yalli
+ashca (-CIJ -TI)
+yapa (-IL -SG)
+yallimana (-SI -r.z)
+rucu (+SA -SG)
+yallijta (-GIi)
+dimasiadu (-ZA)
+dimus (+SA)
+achca ( +TR)
+ashtan (-SGfdij!
+digushtu (-Sr.)
+DEMONIO
+supai
+diablu (-ZA -CIJ -TT -SA -(.{J
++TR)
+aya (-IL -PE -SA)
+cucu (•(';IJ_+S! --Sr.)~-----milli
+dimuñu (-SA)
+p'antazmu (-TI)
+judas (+ST)
+DEMORAR
+uniyana
+tardana (-TI -r.z -sr.)
+dimurana (-Cll -SI -SG)
+shuyana (-MI -PE -CS)
+unayana (-TL -sr.)
+cainana (-SA -r.ll)
+cainachina (-SA)
+saquirina (-ZA)
+jipayana (-ZA)
+parana (-SA)
+DENTRO DE
+ucu
+DERECHA
+alli ladu
+ali ladu (-IL)
+runa ladu (+TR)
+DERECHO
+rijtu
+dirichu (-IL -MI -SA -Gil -es
+DERRAMAR
+jichana
+tallina (-TI -PE +SA +TR +NI)
+shutuchina (-MI -CU)
+talina (-IL)
+t'allina (-SI)
+yaiyuna ( - PE)
+llujshina (-GZ)
+DERRETIR
+yacuyachina
+yacuyana (-TI)
+nuyurina (-TI)
+nuyuna (-SG)
+DERRUMBAR
+t'uñina
+t'uñirina (-MI -PE -CS -NI)
+t'unina (-CU -TI -SA)
+t'unirina (-MI -GU)
+tunina (-IL -ZA)
+tuñina (-ZA -SG)
+DERRUMBE
+t'uni
+t'uñirishca (-MI -TI -GU -SI
+-GZ)
+t'uñi (-PE -CS -SG)
+tuni (·IL)
+tuñishca ( - ZA)
+t'unishca (-MI)
+tuñiri (-NI)
+tuñi (-SG)
+DESABRIDO
+jamlla
+chamuj (-MI -CU -TI -PE -SA
+-GU -NI)
+chamaj (-IL)
+chama (-ZA)
+chanlla (-CS)
+aminda (-IL)
+mana allichishca (-SI)
+ganu (-GZ)
+gamu ( -SG)
+DESAPARECER
+chingarina
+chingana (+IL -ZA -MI -CU +SA
+-SG)
+mana ricurina (-TI +SI -SG)
+chingachina (+PE)
+miticuchina (-GZ)
+DESATAR
+pascana
+cacharina (-MI +CU -TI +GU -SG)
+disasina (-SI)
+llujshichina (-GZ)
+DESAYUNO
+disayunu
+shungunchi (-ZA -MI -CU -TI
+-PE ·-GU)
+shungui (.- IL)
+shunguna (-CS)
+chinchi (-SI)
+chinlli (-GZ)
+ayunana (-SI)
+tutamanta micuna (+NI)
+chinzhina (-SG)
+DESCALZO
+lluchu chaqui
+llatan chaqui (-MI -CU -PE -SA
+-GU -SI -SG)
+lataj chaqui (-IL -ZA)
+chusha chaqui (-GZ -SG)
+chaquilla (-MI)
+llatanlla ( -SI)_
+DESCANSAR
+samana
+samarina (+TR -NI -es +SI +GZ
+-SG)
+discansana (-SG)
+DESCARGAR
+uricuchina
+urijuchina (-ZA -MI -CU -CU)
+huaiquiyachina (-PE -CZ)
+pascana (-PE -CS)
+uraicuchina (-SI -SG)
+uriyajuchina (-IL)
+urtana (-TI)
+uricachina (-SA)
+uriquina (-SA)
+quipita anlluchina (-IL)
+DESCENDER
+uriyana
+urijuna (-ZA -MI -CU -CU)
+uricuna (-NI -SI -GZ)
+uriquina (-SA)
+uriyajuna ( - IL)
+urichina (-CS)
+urtarimuna (-TI)
+suchuna (-ZA)
+huaiquiyana (-PE)
+huaicuyana (+TR)
+siquiyana (+TR)
+shitarina (-SG)
+DESCUIDAR
+cungarina
+cungana (-IL -ZA -CU -CU -NI)
+discuidana (-CS -GZ)
+sitana (-MI)
+saquina (-SA)
+saquirina (-CS)
+mana cuidarana (-~I)
+mana allillu cuidana (-TI)
+man alli cuidana (-SC)
+DESEAR
+munana
+DESEO
+munai
+muni (-TI -PE -SA)
+munana (-ZA -SI)
+ámur (-MI)
+antuju (-CU)
+DESGRANAR
+ishcuna
+huishcuna (-PE)
+DESGREÑADO
+tsatsa uma
+uma sapa (-IL -CU -PE -CU -SI
+-SC)
+tsirapa (-IL)
+puluyashca ( -NI)
+taza uma (-IL)
+ajcha cacharishca (-ZA)
+sin ñajcha (-MI)
+marqui uma (-TI)
+ajcha jatarishca (-PE)
+uma shayarishca (-SA)
+uma carpayashca (-SA)
+cupa urna (-SI)
+shira urna (-GZ)
+DESHERBAR
+jallmana
+allmana (-NI -SI)
+jalmana (-IL)
+jihuana ( +ZA)
+quihuana (-CS)
+cultivana (+MI)
+jahuada anchuchina (+ZA)
+jihuata llujshichina (-PE)
+DESHOJAR
+tipina
+malquina (+IL)
+raumana (+IL)
+tispina (-TI)
+surcana (-PE)
+DESIERTO (adj.)
+shitashca
+sitashca ( -MI -TI -CU)
+jichushca (+IL +SC)
+jicushca (-GZ)
+chulunlla (+IL)
+chulun (+PE)
+chunlla (-NI)
+shitishca (-ZA)
+DESIGUAL
+chulla
+chullayashca (-SA +TR)
+chullarishca (-ClJ)
+chulla chulla (-TI)
+chullayanacushca (+SC)
+dischulla (-CZ)
+chuzu racu (+~!I)
+na igul (-SA)
+mana igual (-NI)
+disigualarishca (-CU)
+shuj laya (+SG)
+DESLIZAR
+lluchcana
+llushcana (-ZA -CU -TI -CU -CZ)
+llushcarina (-MI -CZ)
+lluchcarina ( +SA +TR)
+lluchgarina (-SI)
+llambuyana (+IL)
+llushpina (+IL)
+chapurina (-MI)
+tilayachina f-CS)
+DESMAYARSE
+dismayana
+ataqui tucuna (-ZA +TI)
+ataqui cuna (-Cll)
+shungu ansayana (-MI)
+ñahui ansayana (+CS)
+malrusta charina (-ZA)
+dismayu japina ( -Gll)
+rntu huañuna (+TR)
+calagyana (+TL)
+p'atigarina (-PE)
+dismayachanina (+SC)
+DESMONTAR
+uricuna
+bultachina (-ZA -MI)
+truchana (-IL)
+tulana (-C\l)
+urijuchina (-Cll)
+urtarina (-TI)
+urtarina (-TI)
+uriquina (-SA)
+uriyana (-CS)
+uraicuna (-SI -SG)
+huaiquiyana (-PE)
+dismuntuna (-GU)
+allana (-CU)
+shitarina (-SC)
+DESPACIO
+allila
+allilla (-ZA -CU -PE -SA -SC)
+gushtulla (-MI -SA -GU)
+gustulla (-PE -SA -NI)
+allimanda (-TI -CS)
+allimanta (-SI -CZ)
+alimanda ( - IL)
+allimunta (-PE)
+alilla (-IL)
+lluca lluca (-MI)
+jahualla (-SA)
+DESNUDO
+lluchu
+llatan (+MI -SA +CU +TR)
+lluchulla {-IL -SI)
+llushti (-GZ -SC)
+llatanlla (-PE)
+aichalla ( - IL)
+DESOLLAR
+lluchuna
+pilana (+MI -TI +PE -CU -GZ)
+llushtina (+IL -CU)
+ushtina (-Sr.)----
+DESPEDAZAR
+p'aquina
+pidasuna (+SA -CS)
+pidasuchina (-GU) 
+liquina
+p'itina (-ZA -r.Z)
+p'itinacuna (-sr.)
+utuna (+TR)
+p'aqui p'aquida rurana (+SA)
+p'iti p'itida rurana (+SAYIL
+DESPEDIRSE
+dispidina
+bultangahu rina (-MI -CU)
+cayagama nina (-TI -NI)
+cayacama nina (-PE)
+ratucama nina (+GZ)
+adius nina (-CS)
+dispidisha rina (-SA)
+cayacamana (-IL)
+DESPERTARSE
+rijcharina
+llijcharina (-ZA)
+DESPIOJAR
+usana
+usa japina (-CU -PE -SA -GU
+-es -SI) 
+usa pallana (+IL -MI -CU -GU)
+usa mascana (-ZA -CU)
+usa catina (-TI)
+DESPLUMAR
+pilana
+lluchuna (-CU +PE -SA)
+pluma anchuchina (-ZA)
+pilarina (-CS)
+DESPUES
+qu'ipa
+jipa (-IL -PE -N.J
+quipa (-SG)
+cati (-IL)
+chaijipa (-IL)
+qu'ipamun (+MI)
+ashallaun (+TI)
+DESTRUIR
+tucuchina
+huagllichina (-ZA -TI -PE -NI)
+dañana (-ZA -SI -SG)
+pascana (-MI -es -GZ)
+p'aquina (-PE -SA -SG)
+huaglichina (+IL)
+p'aquisha tucuchina (-GU)
+DESUNIR
+chicanyachina
+partina (-MI -TI +TR)
+laduyachina
+siparana
+chaupina
+siparachina
+anchuchina
+pascana
+yaiyurina
+raquirish rina
+DETENER
+charirina
+jarcana
+charijuna
+charina
+shayachina
+cainachina
+ama nina
+jipayachina
+jinchijuna
+junchichina
+quimichina
+mana cacharina
+DETRAS DE
+huasha
+jipa
+huajtala
+siqui
+qu'ipa
+huashai
+DEUDA
+dihi
+p'iashca (-PE)
+DEVANAR
+cururuna
+madijana (-IL)
+tandachina (-ZA)
+cururuta rana (-ZA)
+pilluchina (+SA -SG)
+canillana (-GZ)
+DEVOLVER
+cutichina
+tigrachina (+TL +TR -CS)
+bultachina (-CU -TI -r.tJ)
+buitachina (-PE -SA)
+intrigana ( -MI -CTJ)
+bultiachina (-ZA)
+DIA
+punlla
+p'unlla (-MI -CU -TI :pE -SA
+punzha (-SI -SG)
+puncha (-ZA)
+DIA SIGUIENTE
+cayandij
+cayandi (-IL -MI -SI)
+caya punlla (+TR +NI -SG)
+catij p'unlla (-CU -TI -GU)
+sarun puncha (-ZA)
+cayindi (-MI)
+cayundi (-MI)
+jayandi p'unlla (-PE)
+cayandij p'unlla (-SA)
+catirishca p'unlla (.-SA)
+qu'ipa p'unlla (-CS)
+caya punzha (-SI)
+mincha punlla (-GZ)
+chashna punzha (-SG)
+DIABLO
+supai
+cucu (-MI -CU -PE -GU +NI +SG)
+diablu (+ZA -CU -TI -PE -SA
++GU)
+dimuñu (-CU -SA +GU)
+milli (-MI -SA)
+diya (-IL)
+aya ( +ZA)
+camitis (-CU)
+judas (+SI)
+ujuju (+SG).
+ajaja (+SG)
+DIARREA
+quicha
+quicha yalina (-IL)
+quichai (-IL)
+camaris (+ZA)
+siguidillus (-MI)
+quichana (-CU)
+cursia (+SG)
+DIENTE
+quiru
+DIEZ
+chunga
+DIFERENTE
+shujtaj
+shuj laya (-TI -SA -SI -SG)
+cutin shuj laya (-MI -CU -GU)
+shuj ( -IL)
+shuj yala (-ZA)
+shujtij ( -PE)
+na igulchu (-ZA)
+mana igual (-GZ)
+chican chican (+TR)
+DIFICIL
+trabaju
+jinchi (-MI -PE -SA -GU)
+sinchi (-NI -es -SG)
+mana p'asil (-MI -CU -GZ)
+shinlli (+IL)
+mana ushanalla (+IL) -
+mana ushaipaj (+IL)
+mana pudinachu (-ZA)
+chinchi ( -TI)
+mana jahualla (+TR)
+dip'isil (-SI)
+DIFUNTO
+huañushca
+aya (+IL -es +SI +SG)
+huañuj (+IL -ZA +SI)
+alma (-MI +PE)
+juañuj alma (+CU +SA)
+DIMINUTO
+pichila
+utillahua (-PE -GU)
+antsala (-IL)
+uchiquillahua (-ZA)
+utillahuahua (-MI)
+uticu (-CU)
+utillahualla (-TI)
+c'utu (-SA)
+utilla (-SA)
+uchilla (-SA).
+uchinlla (-SA)
+añinguhua (-GU)
+pichilla (-NI)
+chuzu (-CS) ..
+juin ñutu (-SI)
+uchillitu (-GZ)
+uchuillitu (-SG)
+DINERO
+cullqui
+culqui (-IL -ZA)
+cushqui (-MI -GU)
+cuchqui (-SA)
+cuzhqui (-SI)
+DISFRAZADO
+mudarishca
+llujshishca (-IL -MI -PE)
+disfrasarishca (-GZ -SG)
+lujshishca (-ZA)
+disfrasadu ( -CU)
+llujshichishca (-TI)
+mudushca (-SA)
+bistishca (-SA)
+huarmi tucushca (-NI)
+churarishca (-CS)
+llujshirishca (-SI)
+DISLOCAR
+qu'ihuina
+quihuina (-ZA -NI -SG)
+cuyurina (+SA +TR -NI)
+qu'ihuirina (-MI -CU -PE)
+mucu p'aquirina (-MI -CU)
+quivina (-IL)
+chugrina (-ZA)
+mucu llujshina (-TI)
+lantusquirina (-GU)
+pasachina (-GZ)
+DISOLVERSE
+yacuyana
+nuyuna (+IL -ZA -MI -CU -SG)
+nuyurina (-TI)
+DISPARAR
+tirana
+tugyachina (-IL +TR -SI -SG)
+tiru cacharina (-CU -SA -GZ)
+apuntana (-ZA +PE)
+DISTANTE
+caru
+DISTINTO
+shuj laya
+chican laya (+PE +TR)
+shican (-IL)
+chican (-SA)
+cutin shuj laya (-GU)
+shujtaj shujtaj (-CS)
+mana igual (-GZ)
+distintu (+ZA)
+DIVIDIR
+partina
+chaupina (+IL +CU +TI -SA +TR
+. . -es -e_;_~ -sGJ 
+chagpina (+PEJ ------------
+chahuapina (+SI)
+chugpina (+SI)
+DOBLARSE
+patarina
+dublana (+PE +SA +SI -GZ -SG)
+dublarina (-GZ -SG)
+DOLER
+nanana
+nanachina (-CS)
+DOLOR
+nanai
+nani (-CU -TI -PE -SA -GU)
+DOMESTICAR
+mansana
+mansuyachina (-ZA -r.u -TI -PE
+-SA)
+mansayachina (-TL -SI)
+yachachina (-IL)
+cushiyachina (-MI)
+mansuna ( -GIJ)
+yacharichina (-GZ)
+mansu tucuna (-SG)
+¿DONDE?
+mai
+DORMILON
+puñui siqui
+puñi siqui (-TI -SA -GU)
+puñui abirishca (+MI)
+suiñui siqui (-NI)
+ipij (-NI)
+suñudur (-SI)
+durmui siqui (-GZ)
+DORMIR
+puñuna
+durmina (+TR -GZ)
+suiñuna (-NI -SI)
+DOS
+ishqui
+ishcai (-IL -NI -SI -GZ -SG)
+iscai ( -ZA)
+DUEÑO
+duiñu
+prupiu (-IL)
+jatun amu (-MI +CU)
+cuñu (+TI)
+DULCE
+mishqui
+DUR0
+sinchi
+jinchi (-ZA -MI -CU -SA -GU)
+shinlli (-IL)
+chinchi (-TI)
+rumishna ( -IL)
+ECHAR
+shitana
+sitana (-MI -CU -TI -GU)
+jicupana (~MI--CU.J,-------s
+sirichina · ( - GU)
+huarcana ( +TR)
+carcuna (-SI)
+abiana (-SI)
+EDUCAR
+yachachina
+viñachina (+IL)
+huiñachina (+MI)
+cunsijana (+MI)
+iducana (+SI)
+EL
+pai
+ELEGANTE
+huapu
+sumaj (+IL +TR -es -GZ -SG)
+alli (+CU -NI)
+juyailla (+IL)
+jariyashca (+IL)
+jari-jari (+IL)
+huapula (-ZA)
+juhuila (-ZA)
+alli mudashca (-MI)
+dipursi bistishca (-MI)
+huirac'ucha tucushca (-MI)
+alájahua (-PE)
+sumajhua (-PE)
+c'uilla (-SA)
+juin alaja (-SI)
+sumai mana (-SG)
+ELLA
+pai
+EMBARAZADA
+chichu
+huijsayuj (+TR)
+huijsayij (-ZA)
+vijsayuj (-IL)
+huijsaun junda (+TI)
+huijsa junda (-SI)
+EMBORRACHARSE
+machana
+macharina (+IL +SA +TR +SI)
+shingayana (+IL -PE +TR)
+shingana (-ZA)
+EMBOTADO
+chumu
+llambi (-CU -PE -SA)
+putu (-IL)
+bruncu (-ZA)
+llambulla ( -MI)
+tullmu (-MI)
+p'ilu illij (-TI)
+tugmu (-GU)
+tyugmu ( - MI)
+utu ulu (-CS)
+butarishca (-SI)
+mutulu (-GZ)
+giluyashca (-SG)
+EMBUDO
+imbudu
+jilpuna (+IL)
+tutu (-SA)
+imbudira (-CS)
+EMPEÑAR
+prindana
+impiñana (-ZA -CU -GU)
+prinda saquina (-PE -SG -TI)
+prinda churana (-PE +SA)
+prinda saquirina (-MI)
+afanana (-GZ)
+EMPEZAR
+callarina
+EMPOBRECER
+huajchayana
+pubriyana (-CU -Tf -PE -;NI)
+illaj tucuna .(-PE -sAi
+pugriyana ( - IL)
+huajchami tucuna (-ZA)
+pubri puru tucuna (-MI)
+prubriyana (-CS)
+huajcharina (-SI)
+EMPREÑAR
+chichuchina
+chichuna (-PE -es -SI)
+saruna (-CU -TI)
+saruchina (-MI)
+pasachina ( ~MI)
+chichuyachina (-SG)
+EMPUJAR
+t'angana
+tangana (-IL -ZA -CS -SI +GZ
+-SG)
+ENANO
+umutu
+uchila (+IL +TR)
+uchilla (-NI -GZ)
+umuta gashta (-ZA)
+tatucuhua (-MI) __
+nipun (-TI)
+ucupacha jinti (-PF.)
+c'utu (-SA)
+changu (+TR)
+qu'irij (+TR)
+supun ( +TR)
+utilla (-CS -SI)
+utunlla (-SI)
+utinlla (-SI)
+uchuillitu (-SG)
+ENCARGAR
+mingana
+mingaichina (-GZ)
+pusachina (-SG)
+pudachina (-SG)
+pudash saquina (-SG)
+ENCENDER
+japichina
+catichina (+MI -TI +PE +SA +GU)
+sindina (-TI)
+ENCIAS
+quiru aicha
+quiru siqui aicha (-TI -SA)
+insías (-SI -SG)
+quiru guinsiaguna (-MI)
+quiru huinguis (-PE)
+quiru juchu aicha (-PE)
+quiru chaqui aicha (-SA)
+maca macaguna (-GU)
+ENCIMA DE
+jahua
+ENCOGERSE
+quindiyana
+curparina (-ZA -SI)
+tandanacuna (-MI -GU)
+utillayana (-CU -PE)
+curpayarina (+IL)
+yaicurina (+IL)
+c'utuyana ( -TI)
+huañurina (+SA)
+uchillachina (-NI)
+tandarina (-CS)
+curpayana (-GZ)
+uchuillayana (-SG)
+ENCONTRAR
+tarina
+japina (+SA)
+ENCONTRARSE CON
+tupana
+tupanacuna (-MI -CU -GZ)
+tuparina (-TI -GZ)
+ENDEREZAR
+dirichana
+dirichuna (-MI -CU -SA -BO)
+rijtuyachina (-ZA -SG)
+allichina (-TI -PE)
+rijtiyachina (-GZ)
+alichina (+IL)
+shayachina (+IL)
+dirichina (-GU)
+ENEMIGO
+cuntra
+inimigu (-NI -CS -GZ -SG)
+cuntrariu (-ZA -SI)
+p'iña ( - PE)
+ENFERMARSE
+ungurina
+unguna (-MI -CU -TI -PE -GU
+-NI -es -SI -GZ -SG)
+ungui japina (-SA)
+ENFERMEDAD
+ungüi
+ungui (-MI -TI -SA -GU)
+ENGAÑAR
+umana
+ingañana (-ZA -MI -CU -PE -SA
+-GU -GZ -SG)
+huajtachina (+IL)
+upallichina (-TI)
+llullana (-NI) .
+crichina (-es;
+inquitana (-SI)
+ENJUAGAR
+jahuana
+tajshi tucuna (-ZA)
+maillana (-ZA +PE)
+tajshana (-MI)
+yacu sitana (-TI)
+guajana ( -GU)
+c'acuna (-GZ)
+ENOJAR
+p'iñachina
+culirachina (+CU -TI +SA -GU)
+p'iñarina (-PE -es -GZ)
+p'iñana (-PE -SI)
+culirana ( - IL -ZA)
+fiñana - ( - lL)
+fiñachina (-IL)
+p'iñanacuna (-NI)
+piñana (-SG)
+ajana (-SG)
+ENROLLAR
+pilluna
+pilluchina
+muyuchina (+IL +ZA •TR)
+cururuna (+ZA)
+patarina (-MI)
+tandana (+TR)
+p'illuna (-CS)
+ENSARTAR
+cusana
+pallana (-CU -PE -SA -GU -SI)
+pasachina (-MI -NI -CS)
+jilbana (-IL)
+tandachina (-ZA)
+insartana (-GZ)
+jilpuna (-SG)
+mulluna (-SG)
+cunga huashca sartada rurana
+( -TI)
+ENSEÑAR
+yachachina
+ENSEÑARSE
+amañarina
+yacharina (+IL +MI -SI -GZ +SG)
+yachacuna (+SG)
+ENTENADA
+la ushushi
+ila ushushi (-MI ªPE -GU -CS)
+ilaushushi (-ZA -CU -TI)
+intinada (-NI -SI -GZ -SG)
+laushi ( - IL)
+ila ushi (-SA)
+shupaj ushi ( - IL)
+ENTENADO
+la churi
+ila churi (-ZA -MI -CU -TI -PE
+intinadu (-NI -SI -GZ -SG)
+shupaj churi (+IL)
+ENTENADO (m. o f.)
+la huahua
+ila huahua (-ZA -MI -CU -TI -PE
+-SA -GU -CS)
+intinadu (-NI -SI -GZ -SG)
+ENTENDER
+intindina
+uyana (+IL -ZA -TI +PE +GU +SI)
+alli uyana (-CS)
+ENTERAMENTE
+tucuita
+tucuilla (-IL -NI -SI -GZ)
+libri (-CU -SA· +TR)
+illijta (-MI -TI -SA)
+illajta (-SA -GU)
+linshu (-CU -SA)
+ishta (-ZA)
+limpiu (-MI)
+illita (-TI)
+cábal (+TR)
+ENTERO
+tucui
+intiru (-ZA -MI -TI -SA -GU
++TR)
+junda (-MI -CU)
+cábal (-MI +SI)
+cábul (-TI)
+tucuilla (-IL)
+shinallataj (-IL)
+tuqui (-PE)
+libri (+TR)
+dil tudu (+TR)
+tucuita yalli (-CS)
+ENTERRAR
+pambana
+intirana (+MI +CU -TI)
+pambachina (+TR)
+ENTONCES
+chaimanta
+chimunda (-MI -CU -SA)
+chaimanda (-IL -CS)
+ña (-ZA -GU)
+chimundaga (-TI)
+shinchaca (-PE)
+chaipi (+TR)
+intunsis (,-SI)
+qu'ipa (-SI)
+shinai (-SG)
+ENTRAR
+yaicuna
+huaicuna (-ZA)
+huaiguna (-SA)
+ENTREGAR
+cuna
+intrigana (-IL -MI +CU -TI +TR
+tigrachina (-IL -ZA)
+intriguna (-GU -GZ)
+cutichina (-NI -SG)
+chasquichina (-IL)
+ENVIAR
+cachana
+ENVOLVER
+pilluna
+pilluchina (-IL -TI -PE +SA
+-GU +TR)
+quipina (+ZA -TI -GU)
+muyuchina (-IL)
+patarina (-MI)
+dublana ( -TI)
+mantana (-TI)
+builtachina (-PE)
+ENVOLVER A UN BEBE
+maituna
+envolver un bebe
+EQUIVALER
+pajtana
+igualana (-NI -GZ)
+igulana (-SA)
+igualtana ( -CS)
+pajtachina (-PE)
+igulmi balina (-ZA)
+igualladi balina (-MI)
+igulladi balina (-CU)
+igulta balina (-TI)
+balina (-GU)
+iguallata balina (-SI)
+balirina (-SG)
+EQUIVOCARSE
+pandarina
+pandana (-IL +SA)
+pantarina (-ZA)
+pantana (-TI)
+turbarina (-MI)
+cungana (-TI)
+cungarina (+PE)
+ERUCTAR
+agyana
+agnina (-IL -PE -SA -NI -CS)
+ajitana (-IL)
+lanzanachina (-MI)
+rigultana (-CU)
+huiñarijuna (-TI)
+bugyana (+TR)
+iructana (-SI)
+jairichina (-GZ)
+bugllina ( -SG)
+sami lujshina (-ZA)
+shungu bultana (-GU)
+ESA
+ESE
+ESO
+chai
+chi (-ZA +MI +PE +SA -GU +SG)
+ESCAMPAR
+pascarina
+usiana (-CU -GZ +SG)
+p'unlla pascarina (-CU -GU)
+silu claruyana (-MI +SA)
+p'uyu tucurina (-ZA)
+silu p'unllalla tucuna (-MI)
+p'itirina (+TI)
+pascacuna (-CS)
+usiarina (-SI)
+ESCASO
+pichilla
+ashalla (-IL -MI -TI -es -GZ
+-SG)
+illajlla (-PE -SG)
+p'itilla (-MI -SI)
+ashalla saquirishca (-CU -SA)
+iscasu (-GU)
+pishilla (-GZ)
+p'iticuhualla (-TI)
+pichila ( +TR)
+p'itihualla tucushca (-CU)
+p'iti p'itilla (-MI)
+casi illan (-ZA)
+ESCALERA
+iscalira
+chacana (-IL -PE)
+ESCAPAR
+miticuna
+mitijuna (-ZA -TI)
+pacacuna (-CU -GU)
+safarina (-IL -SI -GZ)
+quishpirina (-IL -~T -PE -CS)
+iscapana (+NI +SG)
+pacajuna (-MI)
+binsi tucuna (-SA)
+ESCOBA
+p'ichana
+fichana ( - IL)
+ESCOJER
+agllana
+japina (+GIi -NI)
+ESCONDER
+pacana
+miticuna (+TR +SI +SG)
+miticuchina (-CU +GU)
+mitina (+MI)
+pacacuchina (-CIJ)
+pacayachina (+SA)
+ESCRIBIR
+quillcana
+iscribina (-IL -ZA -MI -CU -TI
+-PE -SA -GU +TR -NI
++SI -GZ)
+isquirbina (-SA)
+quilcana ( - IL)
+apundana ( -U)
+ESCUCHAR
+uyana
+uyarana (-SI)
+riparana (-SI)
+ESCUPIR
+ty'ucana
+t'ucana (-MI -CU -TI -SG)
+tucana (-IL -ZA -SI -GZJ
+chucana (-GU -SI)
+ESPALDA
+huasha
+lumu (+CIJ -Si\ +1;q -CZ -sr;J
+huasha tullu (-Tí -CS)
+palitilla (+Pl')
+huasha cunga tullu (-SI\)
+ESPALDILLA
+huasha tullu
+palita (-lL -TI)
+ispada (-MI)
+huasha (-SI)
+huasha cudu (-GZ)
+huasha rigra (-SA)
+mishqui tullu (-CU)
+pala tullu (-CS)
+rigra pala tullu (-PE)
+rigra (-SG)
+ESPANTAR
+manchachina
+manllarina (-IL)
+ESPERAR
+shuyana
+ESPESO
+sangu
+japu (+ZA)
+ESPIAR
+chapana
+uyana (-PE -SA)
+chaparana ( +MI)
+unanchana (-SG)
+ESPIGAR
+challana
+challina (-MI -PE -SA -CS)
+chalana (-SI -GZ)
+pallajuna (-IL)
+chujchina (-ZA)
+ispigana (-SA)
+ispijana (-GtJ)
+ispiga tucumuna (-TI)
+sigana (-sr.)
+ESPINA
+casha
+ESPINAZO
+lumu tullu
+casha tullu (+TR -SG)
+huasha tullu (+IL +SI)
+ispinazu tullu (+IL)
+casha puru (-CU)
+huasha pilis tullu (-MI)
+chaupi lumu tullu (-SA)
+ESPOSA
+huarmi
+ESPOSO
+cusa
+ESPUMA
+puscu
+ispuma (+ZA -CU -TI -GU +TR
++NI)
+putsuju (-IL)
+ESQUILAR
+rutuna
+p'itina (-ZA)
+ESTA
+ESTE
+ESTO
+cai
+qui ( +MI +TI)
+ESTAR
+tiyana
+cana (+IL +PE +TR +CS +SI +GZ
++SG)
+gana (+ZA +MI +CU +TI ;SA +GU
++NI)
+chutana
+aisana (+IL +ZA -SI)
+timplana (+ZA +TR)
+timblana (+IL)
+iñachina (+SA)
+huiñachina (-SG)
+mirachina (-CS)
+tindina (-NI)
+ESTOMAGO
+huijsa
+puzun (-IL -ZA +TR)
+shungu (-IL -ZA -SG)
+ijsa (-SA)
+mama puzun (-SA)
+ESTORNUDAR
+achu nina
+jachu nina (-CU -TI)
+jachaj nina (:-SL_-GZ)
+jatsi nina (-MI)
+jatsai nina (-SA)
+ajtyu nina (-PE)
+atsiana (-IL)
+jatsiana (-ZA)
+achujsiana (-SG)
+ESTRECHO
+quichqui
+quishqui
+quichiji (-IL)
+ESTRELLA
+luziru
+istrilla (-NI -SI +SG)
+ruziru (-CS)
+p'ajna p'ajna (-TI)
+ESTUDIAR
+yachana
+yachacuna (-ZA -es -SI -GZ -SG)
+istudiana (+MI -CU)
+istudina (+SA).
+yachajuna (-IL)
+ESTUFA
+tullpa
+tulpa (-IL -ZA -PE +GU)
+chumin (-MI)
+EUCALIPTO
+ucalitu
+ujalitu (-MI -TI -GU)
+yucalitu (-ZA)
+yucalu (-GZ)
+nucaltu ( -SA)
+huajalitu (-CS)
+EXCEDER
+yallina
+binsina (-ZA -PE -SA +TR)
+atina (+SG)
+pasana (-SA)
+yalina (-IL)
+yalli gana (-SA)
+ashca pasana (-TI)
+pirdish gastana (-TI)
+jatun yupana (-GU)
+EXCREMENTO
+isma
+caca (+PE +TR)
+huanu (+CU +SI)
+majada (+PE +TR)
+zili (+TR)
+quicha (+IL)
+EXISTIR
+tiyana
+causana
+cana (+ IL +PE +TR +CS +SI ·+GZ ---·
++SG)
+gana (+ZA +MI
++NI)
+EXPLOTAR
+umachina
+c'acuna (-MI -CU -TI)
+shuhuana (-SA -GU -NI -SI)
+quichuna (-GZ)
+jacuna ( -ZA)
+llapina (-PE)
+jilluna (-SG)
+EXPRIMIR
+capina
+EXTENDER
+chutana
+aisana (+IL +TR -SG)
+suniyachina (+PE +SA)
+mirachina (-CS)
+iñachina (+SA)
+EXTRAÑO
+mana rijsishca
+p'urastiru (-CU -GlJ)
+shican (-IL)
+juira (-SI)
+p'uira (-r.Z)
+ajinu (-MI -PE)
+piyiru (-ZA)
+shuj caru runa (-~L)
+huichi llajta jinti (-ZA)
+shuj ladumunda jinti (-TI)
+FACIL
+jahuall
+p'asil (-ZA -MI -CU +TI +GU
+-GZ)
+ruranalla (-IL +SA +TR -SI)
+juasil (+SA -NI -SI)
+p'angalla (-PE -GU)
+facil (-IL)
+FAENA
+p'aina
+faina (-IL)
+FAJA
+chumbi
+sinidur (+SA)
+FAJARSE
+chumbillina
+huatana (+MI -GU +GZ)
+anacuna (+CU -TI)
+chumbilina (-IL +ZA)
+FALDA
+anacu
+pullira (-ZA -NI -SI).
+salla (-SI -GZ)
+p'alda (-ZA)
+bata (+PE)
+jiriquita (+SA)
+ucunchi (-NI)
+anagu (-SG)
+FALDA
+miglla
+cunguri (+ZA +GU}·c:
+changa (-SA -NI).
+p'alda (-CS)
+changa jahuapi (-PE)
+FALSO
+llulla
+jualsu (-SA -NI)
+huagli (-IL) '
+jahualla (-PE)
+dibil (-GU)
+mana sirtu (+TR)
+FALTAR
+illana
+p'altana (-ZA -~lf -C:U -TI -C:ll
++NI +GZ +SC:)
+faltana (+IL)
+FAMILIA
+p'amilia
+aillu (-IL -ZA +MI -PE +TR -CS)
+FELIZ
+cushi
+cuntintu (-MI -TI)
+allilla (-PE -NI)
+amur (-CU)
+cushicui (+TR)
+sumaj alli (-CS)
+FEO
+p'iru
+jiru (-PE +TR -SI -GZ)
+millai (+TR -es -SI -GZ)
+millanai (+TI +NI)
+millani (+CU +SA)
+malparisidu (+MI +CU)
+milli (+ZA)
+millanayai (-IL)
+FERMENTAR
+p'ucuchina
+p'ucuna (-ZA -CU -TI -CS)
+putsujuna (-IL)
+agruchina (+PE)
+agruyana (-SA)
+puscuna (-SA)
+timbuchina (-SI)
+pucuchina (-SG)
+FETIDO
+ashnaj
+ashna (-SI -SG)
+mucusiadu (-MI)
+ashnarij (-SA)
+ashnuzu (+TR)
+ashnacuj ( -CS)
+ashnai (-GZ)
+FIAMBRE
+cucayu
+cucahui (+ZA +TR -CS}
+cucavi (-IL}
+cucabi
+cucayi ( +TR)
+FIBRA DE CABUYA
+supas
+canatsi (-IL}
+tsaür milma (-ZA}
+chahuar huangu (-MT)
+chahuar cauchu (-CU)
+tsaür ajcha (-TI}
+qu'ihuilla chahuar (-PE)
+qu'ihuilla puchca (-PE)
+yugzuj (-SA)
+cauchu (-Gll)
+ilacha ( -NI)
+puchca (-CS)
+chahuar jilu (-SI)
+jarsia (-r.Z)
+pajpa (-Sr.)
+FIEBRE
+calintura
+cálur (-TI -SA)
+ruparishca (-MI)
+rupaj ungüi (-PE)
+ujun calurian (-SA}
+uju (-SA)
+jibri (-r.u)
+quitaj (-NI)
+cálur ungüi (-CS)
+jatun ungüi (-SI)
+rupari ( -r.z)
+ungüi ( -sr.)
+iscalu friu (-SG)
+FIESTA
+p'ista
+p'ishta (-ZA -~n -ClJ -SA -r.u)
+buda (-MI +PE -SA)
+fishta (- IL)
+bura ( -MI)
+p'isha (-SI)
+p'isti (-SI)
+juishta (-Sr.)
+muguna (-Sr.)
+FILTRAR
+shushana
+shushuna (-ZA -MI -TI -PE -SA
+-r.u -ST -r.z -Sí,)
+shutuna (-IL)
+p'iltrachina (-ClJ)
+FLACO
+irqui
+tullu (+IL -MI +PE -es -SI -GZ
++Sr.)
+tsala (+IL -ZA -MI -CU -TI +SA
+-GU)
+tsarqui (-MI -CU +PE -GU)
+lali (-MI)
+charqui (-CU)
+zala (-NI)
+tulluyashca (+TR)
+tullun caraun (-GU)
+FLAUTA
+pingullu
+p'lauta (+ZA -CU +TI +PE -GU
+gaita (+IL)
+larnita ( +PE)
+lauta
+flauta
+FLOJO
+mana bali
+p'luju (-CU -TI -SA -NI +SI
+-SG)
+fluju (+IL)
+amuglla (+IL)
+p'luju p'luju (-ZA)
+lali (-MI)
+p'angalla (-PE)
+quilla (-GU)
+cubardi (-NI)
+qu'illa (-CS)
+pluju (-r.Z)
+FLOR
+sisa
+yura (+TI)
+FLORECER
+sisana
+sisaguna (+SA)
+sisamucuna (-SI)
+sisayana (-GZ)
+sisacuna (+SG)
+FLORIPONDIO
+huantuj
+lurip'undiu (+MI)
+luripundiu (+GU)
+huantuj sisa (-SI)
+FLOTAR
+huambuna
+jacuna (+ZA +PE)
+nadana (-MI -TI)
+sasuna (-GU)
+p' lutana (-SI)
+llutarina (-SI)
+FOGON
+tullpa
+tulpa (-IL -ZA)
+nina ?ata (-SI)
+nina JUtCU (-SG)
+FONDO
+siqui
+FONDO
+ucu (+IL -CU -GU +TR -NI)
+junda (-SI)
+GIL
+p'aquirinalla
+p'aquirina (-SI -GZ)
+jahualla (-SA -CS)
+faquirinalla (-IL)
+faquirina (-IL)
+p'aquina (-ZA)
+p'aquinalla (-TI)
+jahualla p'aquinalla (-PE)
+p'aquiriglla (-SA)
+p'aquiri (-GU)
+dilicadu (-GU)
+p'aquirinala ( +TR) -
+paquirinalla (-SG)
+GAR
+c'acuna
+jacuna (-IL -ZA -PE)
+subana (-PE +TR)
+llunchina (+TI)
+t 'acurina (-GZ)
+NTE
+p'rinti
+frinti ( - IL)
+ñahui pata (+ZA)
+p'rinti pata (+SA)
+uma p'rinti (+GU)
+ñaupaj uma (-CS)
+JOL
+purutu
+p'rijul (-PE)
+NTE A
+ñaupaj
+chimbapura (-IL -MI -CU -TI
+-SA -es -SI)
+p'rinti (-MI -CU -TI)
+ñaupa (-GZ -SG)
+ñaupu (-TI)
+ñaupuj ( -GU)
+frinti (-IL)
+pungu (-ZA)
+chimballa (-NI) -
+FRIO
+chiri
+FRUNCIR
+sipuna
+zuzugnina (-TI)
+susugyana (-GU)
+sipuyana (-SI)
+p'runzi tucuna (-MI)
+FRUTA
+p'ruta
+muyu (+IL +GU)
+FUEGO
+nina
+titaj ( -NI)
+calush (+ZA)
+calur (+GU)
+FUENTE
+pugyu
+p'ugyu (-PE -SA)
+yacu ujtu (-TI)'
+yacu llujshij (-CS)
+jundu yacu (-SI)
+FUERA DE
+canlla
+huasha (-PE +TR -SG)
+cancha (-ZA)
+siparadu (-TI)
+juira (-SG)
+FUERA DE FUERTE
+FUERTE
+sinchi
+jinchi (-'1I -CU -PE -SA)
+p'uirti (+TR +NI)
+shinlli (-IL)
+chinchi (-TI)
+p'uirzasapa (-GU)
+huapu ( -GU)
+manchani (-MI)
+juirsa (-ZA)
+duru (-ZA)
+FUERZA
+juirza
+jurza (-IL +SA)
+shinlli (- IL)
+chinchi (-TI)
+jinchi (-PE)
+FUMAR
+chupana
+tsupana (-NI)
+tabacuna (-CU +SA +TR)
+fumana (+IL)
+GALLINA
+atillpa
+atilla (-!'11 -CU -GU)
+huallpa (-SI -GZ -SG)
+atilpa (-PF. +TR)
+atulba (-ZA -TI)
+atalpa (-IL)
+atila ( -MI)
+átil (-SA)
+atallpa (-'.-H)
+hualpa (-SI)
+GANA
+munai
+gana (-MI -PE +TR -NI -CS -SI)
+antuju (-MI -CU -TI -GU -SI)
+munanayai (-PE)
+muni (-SA)
+GANADO
+huagra
+GANAR
+ganana
+GANAR
+binsina
+atina (-IL -SI -GZ -SG)
+ganana (-IL -ZA +PE)
+mishana (+MI -GU)
+GARGANTA
+cunga
+tunguri (+IL •ZA +PE +SA +TR
+-es -GZ)
+guguti (+SG)
+GARRA
+sillu
+shillu (-SI -GZ -SG)
+garra (+TR)
+GASTAR
+gastana
+gashtana (·ZA +MI -CU ·GU ·NI
+·CS)
+tucuchina (-IL +PE +SA)
+GATEAR
+llucana
+GATO
+misi
+mishi (+SI -GZ -SG)
+GAVILAN
+anga
+huarru (-MI +CU)
+huaman (+TR -SG)
+gabilán (-PE)
+quililicu ( ·SG)
+GENEROSO
+alli shungu
+alli (·MI -CS)
+caraj ( - I L +TR)
+alli alli (-ZA)
+alli cuj (-MI)
+na mitsa (·TI)
+jatun alli (·PE)
+cariñuzu (-GU)
+bali (+TR)
+cumbidalun (·SG)
+caralun ( -SG)
+GENTE
+jinti
+runa (+IL -SI)
+jindi (+IL)
+GIRAR
+muyuna
+cuyuchina (+CS)
+jirana ( -SG)
+GOLOSO
+jillu
+ansiuzu (+MI)
+ánsiya (+NI)
+milpadur (+SI)
+achcón ( +SI)
+GOLPE
+huajtai
+tacana (-MI -cu -TI -GU -es
+-SG)
+tacai (-IL -PE +TR)
+macai (-IL +TR)
+taqui (-SA)
+GOLPEAR
+huajtana
+tacana
+macana
+pigana
+GORDO
+gurdu
+huira
+racu
+rucu
+vira
+sapu (+SA)
+GOTA
+shutui
+shutu (-MI -CU -TI -PE -SA -GU
+gutila yacu
+GRACIAS
+Dius sulu pagui
+pagui (-IL -TI -es -Sr.)
+Dius sulu pai (-CU -SA +NI)
+Dius silu pagui (-lL -SG)
+paguirachu (-ZA)
+pashi ( - IL)
+GRANDE
+jatun
+GRANIZAR
+runduna
+rasuna (-CU -TI -CS)
+rundu urmana ( +GU)
+GRANIZO
+rundu
+rasu (-CU -PE -CS)
+muruchu ( -MI)
+GRANO
+muyu
+granu (-IL +ZA +MI -CU -TI -PE
+muru (+SA +SI)
+GRATIS
+yanga
+dimbaldi (+TR -CS)
+cumbidashca (-PE)
+rigalashca (-NI)
+GRIPE
+uju
+rumádis ( · II. +CU)
+rumadisu (+MI -CU)
+catarru (-IL -SG)
+pisti (-SI -GZ)
+uju ungüi (·CS)
+uju ungui (·SA)
+rumasu ( ·TI) .
+jibri ungüi (-PE)
+purij ungüi (+TR)
+GRIS
+puzu
+plumu (+CU +TI)
+cushni (+GU -SI)
+sucu (- IL)
+zhiru (-GZ)
+uchupa (-SG)
+GRITAR
+caparina
+huagnina (+SG)
+GRITAR
+huacana
+caparina (+CU -SA -NI -SI +GZ
+-SG)
+GRUESO
+racu
+GRUPO
+tandanacushca
+muntun (-TI -PE -SA -GU)
+ataju (-IL)
+taucapura (-ZA -CU)
+taugapura (-SA)
+parga (-MI)
+cancha (-MI)
+buntun (-NI)
+achcacuna (-SI)
+juntu (-GZ)
+achica (-SG)
+GUARDAR COMIDA PARA LLEVAR A LA CASA
+huanllana
+GUARDAR
+huaquichina
+huacaichina
+huajchina
+allichina
+alichina
+cuidana
+GUIAR
+pushana
+ñaupana
+ñagpana
+ñumpana
+ñupana
+catichina
+GUSANO
+c'uru
+curu
+juru
+GUSTAR
+gushtana
+munana
+munanana
+malina
+mishquichijuna
+munanayana
+HAVA
+jabas
+jabus
+abas
+aba
+HABLAR
+rimana
+rimarina
+HACER
+rurana
+ruhuana
+urana
+rana
+HACER CALOR
+rupai shitana
+rupana
+ruparina
+calur tiyana
+cunuglla cana
+rupuyaguna
+t'itagyachina
+juin rupai tiyana
+rupachina
+caluryachina
+HACER CASO DE
+cazuna
+HACER FRIO
+chiriyachina
+chirina
+chirichina
+chiri tucuna
+chiriyana
+chiriuna
+HACERSE
+tucuna
+HACIENDA
+jazinda
+asyinda
+asinda
+jasyinda
+HACHA
+jacha
+HALLAR
+tarina
+japina
+tupana
+HAMBRE
+yaricai
+yarcai
+yarijai
+yariji
+yariqui
+yarja
+yarijana
+HAMBRI, DAR
+yaricana
+yarijana
+yarijanana
+yarcana
+yarijauna
+yarica cuna
+yaricachina
+HARAPOSO
+p'uchu
+tsuntsu
+tsunzu
+trapuzu
+sunllu
+p'utyu
+p'achai ura
+lluchu
+llachapa
+lliquirishca
+HARINA
+cuta
+jarina
+jacu
+HARTARSE
+sajsana
+huijsa jundajta micuna
+huijsa pajtana
+huijsa p'ajtana
+sagsana
+HATO
+muntun
+achca
+canlla
+manada
+ataju
+ashca
+tauga
+buntun
+HASTA MAÑANA
+cayacama
+cayagama
+cayacaman
+jayacama
+HAY
+tiyan
+tiyaun
+HECES
+cunllu
+jantsi (-SA -CS)
+jamzi (-IL)
+subrada ( -ZA)
+puchuj ( -CU)
+sumu puchushca (-TI)
+asua basura (-SA)
+mapalla asua (-SA)
+jamchi (-GZ)
+HEDER
+ashnana
+ashnajuna (+IL -MI)
+ashnarina (-SA)
+ashnajta chujcana (+TR)
+HELADA
+casa
+casashca (+MI +CU +PE)
+casishca (+MI -TI)
+casai (-GZ -SG)
+HELAR
+casana
+casa pacarina (-MI)
+casacuna (-SI)
+casaichina (-SG)
+HEMBRA
+huarmi
+HENDER
+chijtana
+lliquina (-CU -GU -CS +SG)
+chilpina (+IL +PE +TR)
+liquina (+IL)
+p'aquirina (-MI)
+chaupirina (-ZA)
+rajana (+TR)
+HERIDA
+chugri
+chugrishca (-MI -CU +PE -GU)
+chuchurishca (-SI -SG)
+izishca (-CU -GU)
+tsugrishca (-TI)
+añi (-NI)
+irida (-GZ)
+HERIR
+chugrina
+chugrichina (-IL -SA -TR -CS)
+tsugrina ( -GU)
+añichina ( -CS)
+cuchuna ( -SI)
+p'itirina (-SI)
+nanachina (-SG)
+HERMANA
+pani
+irmana (+SG)
+HERMANA
+ñaña
+pani (+SG)
+irmana (+SG)
+HERMANO
+huauqui
+turi (+SG)
+irmanu (+SG)
+HERMANO
+turi
+huauqui ( +SG)
+irmanu (+SG)
+HERMANO MAYOR
+ñaupa huauqui
+jatun huauqui 
+rucu huauqui (-IL +SG)
+punta huauqui (+GZ)
+HERMANO MENOR
+qu'ipa huauqui
+jipa huauqui (-TL -ZA -PE -NI)
+uchuj huauqui (-TI +TR)
+cati huauqui (-ZA)
+utila huauqui (-TI)
+utilla huauqui (-GU)
+uchu huauqui (-Gll)
+HERVIR
+timbuchina
+t'imhuchina (-MI -CU -TI -SI
+-GZ)
+timbuna (-ZA +PE -CS)
+HIEL
+jayaj
+jil (-CU -PE -SA -GU -SI -GZ
+-sr.)
+jayij (-ZA -CU -TI)
+HIELO
+rasu
+casa (-MI -TI -SI)
+chiri (-NI -CS)
+casishca (-ZA -TI)
+ilu (-CU)
+jilu (-SI)
+rasu chiri chiri (-SG)
+HIERBA
+qu' ihua
+jihua (-IL -ZA -PE)
+HIERBA MEDICINAL
+yuyu
+jambi jihua (-ZA -PE)
+jambi yura
+jamhi (-Sr.)
+HIERRO
+jiru
+jirru (-ZA -PE -SA -GU -NI)
+p'yirru (-es -SI -r.Z -SG)
+p'irru ( +TR)
+HIGADO
+yana shungu
+shungu (+SI -SG)
+amsa shungu (+PE)
+ígadu (+SI)
+HIJA
+ushushi
+ushi (-IL +MI +SA -SI -GZ)
+huarmi huahua (-SG)
+HIJO
+churi
+c'ari huahua (+SI +GZ -SG)
+HILAR
+puchcana
+pushcana (-ZA -MI -CU -TI -GU
++TR)
+puchicana (-SG)
+puchana ( - IL)
+HILO
+puchca
+pushca
+puchica ( -SG)
+pucha ( - IL)
+HINCHAR
+punguina
+p'unguina (-ZA -MI -CU
+-SA -GU)
+punguichina (-IL)
+punguillina (-SG)
+cajayana ( +TR)
+HOJA
+p'anga
+chamiza (+MI +CU +TI)
+fanga (-IL)
+panga ( +SG)
+HOMBRE
+runa
+HOMBRE
+c'ari
+jari
+cari (+SG)
+HOMBRO
+rigra
+umbru (-IL -SA -GZ)
+rigra jahua (-IL -SA)
+rigra luma (-ZA -TI)
+jumbris (-MI +CU)
+rigra tullu (-ZA)
+aparina (-GU)
+HONDO
+jundu
+ucu (+IL -ZA +SA +TR +SI)
+undu ( -SG)
+pugru (+IL +TR +SI)
+HONGO
+ungu
+callamba (-IL -CU -GU -NI. -es
+llamba (-MI)
+aujaramun (-TI)
+callumba (-SA)
+HORA
+uras
+ura
+urus (+ZA) sapalla. (+CU +TI -GU)
+HORMIGA
+añangu
+urmiga (-TI -PE +TR
+añingu (-PE -GU)
+chuspi (-MI)
+llullu chuspi (-CU)
+añungu (-SA)
+jurmiga (-SA)
+c'uru
+HORQUESTA
+parca
+jurquita (-CU -PE -SA
+pallca ( -NI -SI -SG)
+urquita (-CS -SI -SG)
+jurcuh (-MI)
+aspidur (-TI)
+jurca (-GZ)
+HOY
+cunan
+cunun p'unlla (-MI -CU -TI -SA
+cunan punlla (-NI -GZ)
+cunan punzha (-SI -SG)
+cunun (-PE -CS)
+cunun puncha (-ZA)
+HUECO
+jutcu
+ujtu (-ZA -MI -CU -TI -GU)
+utcu (-PE -SA -es)
+pugru (-SA -CS)
+utuju (- IL). .
+jundu ucu (-TI)
+HUELLA
+chaqui sarushca
+sarushca (-ZA +SA -SI -GZ)
+chaqui (-MI -TI -GU)
+chaqui sarui (+IL)
+siñai (-CS)
+siñal (-GZ)
+chaqui saquirishca
+rastru
+HUERFANO
+huajcha
+sapalla
+huirfánu
+taita mama illaj
+yaya mama illaj
+sifarinu
+p'urastiru
+HUESO
+tullu
+HUEVO
+lulun
+ruru
+luluhua
+HUIR
+miticuna
+pacajuna
+anlluna
+mitijuna
+mitina
+uyish mitijuna
+miticushpa bulana
+uyina
+pacana
+HUMEAR
+cushnina
+cushnichina
+llaugana
+HUMEDO
+jucu
+jucushca
+shutuj
+umidu
+anguyashca
+mutiyashca
+shuturishca
+juachaj
+HUMILDE
+jumildi
+umildi
+alli shungu
+blanda
+muspalla
+huambra uchuj
+tuntuhua
+pingui tucuj
+sinsillu
+HUMITAS
+chugllu tanda
+chumal
+tujtitu
+turtilla
+HUMO
+cushni
+HUSO
+sijsij
+sijsi
+puchcana sijsij
+pushcana sijsij
+uzu
+IBARRA
+Ibarra
+Billa
+IDIOMA
+shimi
+parlu
+rimai
+c'allu
+IMPEDIR
+jarcana
+trancana
+misana
+ama nina
+INCA
+inga
+INDICAR
+ricuchina
+yachachina (-ZA -es -GZ)
+INDIGENA
+runa
+INFIERNO
+ucu pacha
+infirnu (+CU -GU +TR -NI -GZ)
+nina pacha (-CS)
+uc'u pacha (-SI)
+millai pacha (-SI)
+purgaturiu c~sI)
+INFLAR
+p'ucuna
+jundachina (-IL +TR)
+inflana (-IL)
+p'ucurina (-SA)
+p'unguichina (-GU)
+IGUAL
+igual
+igul (-ZA -CU -TI -SA)
+pariju (+IL +SI)
+pagta ( +SI)
+chashna (+SG)
+INSULTAR
+c'amina
+rimana (-MI -TI -GU -NI -GZ
+-SG)
+camina (-MI -CU -TI -GU -SI)
+lituna (-ZA -PE -SA)
+ajana (+TR -SG)
+plituchina (-IL)
+insultana (-MI)
+rimarina ( -SI)
+INTELIGENTE
+yachaj
+alli yachaj (+TR -TI +PE)
+bibuyashca (-ZA -IL)
+rasiunal (+CU -GU)
+yuyaj (-IL)
+ali yachaj ( - IL)
+yachaj tucushca (-MI)
+cutsilla ( -TI)
+bibushca (+TR)
+alli urna (-NI)
+alli pinsamintu (-SI)
+INTERIOR
+ucu
+INVIERNO
+tamia tyimpu
+tamil timpu (-ZA -CU -TI -SA
+-SI -GZ)
+juirti tamia (-MI)
+yallijta tamia (-GU)
+tamiana quilla (+TR)
+INVITAR
+cumbidana
+cayana (+IL -ZA +SA +TR -NI
+-SI -GZ)
+shamui nina (+IL +TR)
+pushamuna (+PE -SI)
+inbitana (+CU -SG)
+INTESTINOS
+chunlluli
+chunllulli (-IL -MI -TI -PE
+puzun (-MI -PE -GIi -SI -SG)
+chunzhulli (-SG)
+puzunguna (-CU)
+INYECTAR
+tujsina
+indijsiunda churana (-CU -SA
++GU)
+inyijsiun churana (-SI -GZ)
+cutana (+IL)
+indisiun satina (-ZA)
+indisu churana (-MI)
+indisiunda cuna (-TI)
+indijsiunda satina (-SA)
+indinsiuta churana (-NI)
+punsana (-SG)
+IR
+rina
+IRAS
+culirana
+culíra (-ZA -MI -CU -TI -PE
+-SA -NI)
+rabia (-SI -GZ -SG)
+p'iñana (+TR -NI)
+fiñai (+IL)
+fiñana (+IL)
+p'iña (-SA)
+p'iñai (+TR)
+piñarina (-CS)
+ahurri (-GU)
+IZQUIERDA
+lluqui
+isquirda (-MI +CU)
+surdu ( -Ml)
+JALAR
+aisana
+chutana (+MI +CU +TI +PE +SA·
+JOROBADO
+curcu
+quipilumun (-CU -TI -GU)
+cumurishca (-CU -SA)
+curculumu ( -TI)
+jarra (+TR)
+JOVEN (f.)
+sultira
+huambra (-ZA -MI -CU -SG)
+musa (-ZA -GU)
+cuitsa (-IL)
+huarmi mara (-SA)
+huarmi huamhra (-NI)
+lunga (-NI}
+malta huarmi (- CS)
+JOVEN
+muzu
+huambra (+IL -MI -CU -PE -NI
+lungu (+IL -MI -NI)
+chairij (-MI -CU tSA)
+sultiru (-SI -GZ -SA)
+jari huambra (+IL)
+lungun (-ZA)
+jubin (-TI)
+c'ari huambra (-NI)
+malta runa (-CS)
+mara (+SA)·
+JUEGO
+pugllai
+pugllana (-ZA -GU +TR -NI -SI
+puglli (-PE -SA)
+llancana (+TI)
+JUGAR
+pugllana
+llancana (-TI)
+JUNTAR
+tandachina
+tandana (+MI +CU +TI +SA +GU
+pallana (+MI +CU +TI +GU)
+juntana (-SG)
+JUNTOS
+tandanacushca
+pariju
+tandachishca ( - IL +TR)
+tandanajushca (-IL)
+igual ( -MI)
+illijcancha (+TI)
+igulda (-SA)
+tandanucushca (-SA)
+tanda (-CS)
+tandalla (+TR)
+tandarishca (-GZ)
+tucuilla ( -SG)
+JUSTO
+cábal
+alli (+ZA -MI +TR -NI -CS -SI)
+cábul (-CU -TI -GU)
+justu (-SA -GZ)
+ali (+IL)
+dirichu (+IL)
+lígal ( -GU)
+paJta (-SG)
+LABIO
+shimi
+shimi cara (-IL -MI -CU
+-es -sG)
+jita (-CU -GU)
+shimi labiu (-MI)
+huirpa (+SI)
+LADO
+ladu
+cuchu (+CU +GU)
+maya (+TI)
+LADO DE, AL
+ladu
+uri ( +MI +CU)
+maya (+TI)
+bizinu (+GU)
+c'uchu (+TR)
+LADRAR
+aullana
+ladrana (+ZA -GU +TR -NI -es
+-SI -Ge -SG)
+huacana (-IL -MI -SI)
+ladranuna (+.TI)
+aullina ( -PE)
+agnina (-SA)
+canshi nina (-SA)
+canina (-GZ)
+LADRON
+shuhua
+shuhuaj (-ZA +MI)
+jillu (-SG)
+LAGARTIJA
+palu
+cula (-TI)
+cucu palu
+tsilinquitsi (~GU)
+huagza (+CS)
+LAGO
+cucha
+LAGRIMA 
+huiqui
+viqui (-IL)
+iqui (-SA)
+LAMER
+lambina
+llahuana ( +TR)
+supana (+NI)
+LANA
+millma
+huillma
+LARGO
+suni
+largu (+IL
+jatun (+ZA
+LATACUNGA
+Latacuriga
+Tacunga (-MI -CU -TI -PE -SA
+Latahuangu (-MI)
+LASTIMAR
+chugrichina
+chugrina (-IL -MI -CU -GU -CS)
+tsugrina (-TI)
+jiridachina (-SI)
+abiriana (-GZ)
+nanachina (-SG)
+LAVAR
+maillana
+jahuana (+TR +NI +SI +GZ)
+LAVAR ROPA
+tajshana
+tagshana (-SI)
+LAZO
+lazu
+tuglla (-IL -SA -SG)
+huasca (-ZA -es -GZ)
+lazana (-TI -PE -GU)
+cara huasca (-MI)
+lanzana ( -CU)
+angu (-NI)
+lazia (-SI)
+LEER
+rizana
+liyina (-ZA -SA -GU -NI -SI
+-GZ)
+catina (+MI -TI -SG)
+liana ( +CU)
+LEJOS
+caru
+LENGUA
+c'allu
+callu (-SI -GZ +SG)
+jallu (-IL -ZA -PE)
+LEÑA
+yanta
+yamda ( - IL)
+yanda (-IL)
+LEVANTARSE
+jatarina
+LIBRAR
+shayachina
+jatarichina (-MI -CU -GU -NI
+jatachina (+ZA)
+altsana (+TI +PE +SA)
+alzana (-MI)
+jahuayachina (+SA)
+LIBRAR
+quishpichina
+cacharina (-MI -TI -SA -es -SG)
+librana (-CU -SA -GU -NI -SI
+quishpina (-IL)
+librina (-IL)
+lushpichina (-ZA)
+safachina (-GZ)
+LIENDRE
+tsiya
+siya (-SI -GZ)
+ziya (-CS)
+tsiya lulun (-CU)
+lintras (-GU)
+piqui ruru (-SG)
+LIGERO
+p'angalla
+lijiru (-IL -MI -SI)
+cutsi (-IL -CS)
+ujta (-ZA -MI)
+utca (+SA -SI)
+c'angalla (-TI -GU)
+ratu (+SA)
+apuru (-GZ)
+ucha-ucha (-IL)
+utcalla (-SG)
+LIMPIAR
+p'ichana
+fichana ( - IL)
+LISO
+llambu
+llushca (-MI +CU)
+apilla (-TI)
+lluchca (+SA)
+puliyashca (-GU)
+ñutuhua (-GU)
+ñugñu (-SI)
+LIVIANO
+p'angalla
+c'angalla (-MI -TI -GU)
+fangalla (-IL)
+p'angala (-ZA)
+pangalla (-SI -SG)
+mana llashaj ( - IL)
+jahualla (+PE)
+LOBO
+atuj
+lubu (-MI -TI -SA -SG)
+caracha (-MI -CS)
+huaicu ashcu (-CU)
+urcu ashcu (+PE)
+izi (-GU)
+atu (-SI)
+rapusu (-GZ)
+LOCO
+lucu
+muspa ( -m +CU +S_!\ +GIJ)
+lucu tucushca (-IL)
+LODO
+turu
+ludu (-MI -PE -SA)
+lluchca (+TR -CS)
+barru (-MI)
+LOMA
+luma
+urcu (+SA -es)
+jatun urcu (-PE)
+tula (+IL)
+altu (-CU)
+LOMBRIZ
+cuica
+jumbaj (+PE)
+LUCIERNAGA
+nina c'uru
+nina juru (-IL -PE)
+itsa cataj (-ZA)
+candillilla (+MI)
+nina micha (-TI)
+c'uru micha (-TI)
+achigyana (+CS)
+LUCHAR
+macanacuna
+macanajuna (-TL)
+macanucuna (-SA)
+llunchina (-MI)
+luchana (-CU)
+tacana (-TI)
+chimbapurana (-PE)
+piliana ( -GU)
+LUEGO
+astallahuan
+ashahuan (-TL)
+ñapash (-IL)
+ña (-ZA -CU)
+ashaun (-MI -GlJ)
+ashallaun (-TI)
+ratuhuallapi (-PE)
+ashahuanlla (- PE)
+ratu (-SA -GZ)
+astalahuan (+TR)
+ashallahuan (-NI -SG)
+ashun (-CS)
+ñalla (-SI)
+LUGAR
+pushtu
+lúgar (-CU +TR -SI -GZ -SG)
+puntu (-GU)
+campu (-''H)
+ladu (-CS) -
+pacha (-SI)
+LUNA
+quilla
+luna (-IL +MI -CU
+luna mama (+ZA)
+LUZ
+achij
+micha (-IL -MI -TI -PE -NI -GZ)
+lus (-CU -SA -GU +TR -GZ)
+punlla (-IL)
+bila (-ZA)
+puncha (-ZA)
+nina (-ZA)
+nina lus (-PE)
+p'unllalla (-SA)
+achiga (-SG)
+LLAMA
+nina cunyai
+nina llama (-IL -ZA -CU)
+nina llamarada (-PE -SI)
+nina (-TI -GZ)
+pulunquirijun (-MI)
+nina llamara (-SA)
+llama (-GU)
+titaj (-NI)
+nina c'allu (-CS)
+nina llamas (-SG)
+LLAMAR
+cayana
+c'ayana (-CS)
+LLAMAR
+shutichina
+cayana (-TI +SA -GZ)
+shutishina (+ZA)
+shuti cuna (+ZA)
+c'ayana (-CS)
+LLAMINGO
+llama
+llamingu (-MI -CU -SI)
+runa llama (-IL -ZA -TI)
+chantu ( -MI -cu -GU)
+llumingu ( -SG)
+LLANURA
+pamba
+pambarucu (+CU +GU)
+purun pamba (-CS)
+llanu (+SI)
+LLAVE, PONER
+llabina
+llabi churana (+SA -SG)
+candadu churana (-SI)
+llabita churana (-GZ)
+LLEGAR
+chayana
+LLENAR
+jundachina
+jundana (+IL -ZA +MI +TR)
+LLENO
+junda
+jundashca ( + IL)
+LLEVAR
+apana
+abana ( +MI)
+LLEVAR EN BRAZOS
+marcana
+LLEVAR EN FALDA O EN PONCHO
+migllana
+nigllana (-SA -NI)
+millcana (-PE)
+LLEVAR ENTRE VARIAS PERSONAS
+huanduna
+aisanacuna (-SI -GZ -SG)
+apana ( -GU)
+LLORAR
+huacana
+LLOVER
+tamiana
+LLOVIZNA
+tsirapa
+paramu (+IL -ZA -TI +TR -NI -GZ)
+lancha (+CU +SA -SI)
+garua (-PF. -es -SI)
+garhua (+TR)
+chispa (+IL)
+tsirapai (-ZA)
+ñutu tamia (-SI)
+ñutu izi (-SI)
+tamiarina (-SG)
+LLUVIA
+tamia
+LLUVIA CON SOL
+lancha
+tsirapa (-MI -GU)
+tamia usia (-ZA)
+tamiun inti (-TI)
+intin tamia (-CU)
+rupi tamia (-SA)
+rupai tamia ( +CS)
+curu tamia (+NI)
+rupash tamia (-SG)
+MACHICA
+machca
+mashca (-ZA -MI -CU -TI ~GU)
+máchica (-es -SG)
+masca (-ZA)
+jacu (-IL)
+MACHO
+c'ari
+cari (-PE -GZ +SG)
+jari (-IL -ZA)
+MADERA
+caspi
+quiru (+PE +SA +GU -NI)
+MADRASTRA
+la marna
+ila mama (-ZA -MI -CU -PE -SA
+madrarsha (-GU -TI -SG)
+madrastra (-ZA -GZ)
+ili mama (-MI)
+curicu (-TI)
+MADRE
+mama
+MADRINA DE BAUTIZO
+marcaj mama
+achi mama (-ZA -CU -GU)
+achila mama (-MI)
+marquij mama (-SA)
+cumari (-SI)
+MADRINA DE MATRIMONIO
+madrina
+achi mama (-IL -GU)
+madrinama ( -ZA)
+purtira (+CU)
+cumari (-SI)
+MADRUGADA
+pacari
+tutamunda (-MI -CU -GU)
+tutamanta (-NI -es -SI)
+alba (-GZ -SG)
+tutamanda ( + IL)
+madrugadu (-TI)
+puzu-puzu (-SA)
+MADRUGAR
+pacarina
+madrugana (+MI -CU -GU -NI)
+tutamanta rina (-IL -SI)
+tutamunda rina (-PE -CS)
+tutamunda jatarina (-TI)
+albana (-GZ -SG)
+MADURAR
+p'ucuna
+ujtuna (+CU +GU)
+fucuna ( - IL)
+MADURO
+p'ucushca
+fucuchca ( - IL)
+MAIZ
+sara
+MALEZA
+mana alli qu'ihua
+mana valij jihua (-IL -PE)
+malu jihua (-ZA)
+purun qu'ihua (-MI)
+mana valij qu'ihua (-CU)
+puca qu'ihua (-CU)
+na cuzu qu'ihua (-TI)
+mapa qu'ihua (-SA)
+qu'iya (-GU)
+c'apiru (-GU)
+millai qu'ihua (-CS)
+man valij qu'ihua (-SG)
+MALO
+millai
+mana alli (-ZA -MI -CU -PE +TR)
+malu (-CU -GU)
+na ali (-IL)
+na valinllu (-TI)
+nalli (-SA)
+p'iña ( -GU)
+p'irru (-GZ)
+man valij (-SG)
