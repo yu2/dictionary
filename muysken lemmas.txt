@@ -8917,3 +8917,1052 @@ sirana
 tachana (-ZA)
 tijana (-CU)
 rimandana (+GU)
+###
+ABA
+haba (SG)
+ABAMUNA
+traer
+ABANA
+(MI)
+A
+llevar (en general) (MI)
+ABANICU
+aventador (GU)
+ABAS
+haba (NI SI)
+ABIANA
+echar (SI)
+ABIJA
+abeja (TR NI SI)
+ABINTADUR
+aventador (MI CU PE NI es SI
+GZ)
+ABINTANA
+abanicar (IL SA TR NI CS SI)
+aventar (MI TR NI es GZ)
+aventador (TI)
+ABINTU
+aventador (PE)
+ABIRIANA
+lastimar (GZ)
+ABIRIGUANA
+averiguar (CU SG)
+ABIU
+caballo (Sr.)
+ABRIGANA
+averiguar (SI)
+ABUILA
+abuela (GZ SG)
+ABUILU
+abuelo (GZ sr.)
+ABURRI
+cólera
+iras (GU)
+ABURRICHINA
+molestar (Glf)
+ABURRIDU
+terco (MI CU)
+ACAPANA
+remolino t (SI GZ SG)
+ACUJA
+aguja (SA)
+ACUNA
+mascar
+rumiar (IL)
+ACHACANA
+culpar (TI S T)
+ACHCA
+mucho
+bastante (PESA TR
+muy (MI cu TR NI es GZ)
+hato (PE SI GZ SG)
+suficiente (GZ SG)
+montón (PE NI)
+más (SI)
+demasiado (TR)
+ACHCA YACU
+mar (SA)
+ACHCACUNA
+grupo (SI)
+ACHCALAL
+suficiente (SI) -
+ACHCON
+goloso (SI)
+ACHCU
+perro
+ACHI MAMA
+madrina de bautizo (ZA CU GU)
+madrina de matrimonio (IL Gll)
+comadre (TL)
+ACHI TAITA
+padrino de bautizo (MT CU TI
+campadre ( IL )
+ACHICA
+mucho
+grupo (SG)
+ACHIGA
+luz
+ACHIGANA
+aclarar (SG)
+ACHIGALLA
+claro (PE SI)
+ACHIGYANA
+aclarar (el día) (TR SI)
+amanecer (TR)
+luciérnaga (CS)
+ACHIJ
+luz (TR CS SI)
+ACHIJ NINA
+brillar (GU TR NI)
+relampago (ZA TR)
+ACHIJA
+bastante (IL)
+ACHILA MAMA
+madrina de bautizo (MI)
+ACHILLANA
+brillar (GZ)
+ACHIYAMUNA
+aclarar (el día) (NI)
+ACHIYANA
+amanecer (NI)_
+ACHPA
+tierra
+terreno
+barro (SA)
+pamba (SI)
+ACHPA CUYI
+terremoto (SA)
+ACHPA PULBU
+polvo (SA)
+ACHU NINA
+estornudar (TR NI CS)
+ACHUJSIANA
+estornudar (SG.)
+ACHUTI
+achiote (MI CU GU)
+ADIUS NINA
+despedirse (CS)
+ADIVINA
+adivinar (SI)
+ADIVINANA
+adivinar
+ADUBI
+adobe (IL PE NI es SI GZ SG)"
+ADUBIDU
+adobe
+tapia (TI)
+AFANANA
+empeñar (GZ)
+AFILACHINA
+afilar (ZA)
+AFILANA
+afilar (IL MI TI PE GU TR NI
+CS)
+AFRICHILLU
+afrecho (TI)
+AFRICHU
+afrecho (TR GZ)
+AGCHA
+pelo (de cabeza)
+cabello (SI)
+AGLLANA
+escojer
+AGNINA
+eructar (IL PESA NI CS)
+ladrar (SA)
+AGRADISINA
+agradecer
+AGRIU
+agrio (CU GU NI GZ SG)
+AGRU
+agrio (IL SA TR CS)
+AGRUCHINA
+fermentar (PE)
+AGRUYANA
+fermentar (SA)
+AGUARINA
+sofocar (CU TT)
+ahogarse (TR)
+AGUARISHCA
+aguado (SI)
+AGÜILA
+abuela (MI CU TI)
+AGÜILU
+abuelo (MI CU TI)
+AGUJA
+aguja
+AGULANA
+bostezar (CU)
+AGYANA
+eructar (TR)
+AHUANA
+tejer
+telar (IL ZA PE CS GZ SG)
+AHUANA CASPI
+telar (TI TR NI ST)
+AHUANA TILAR
+telar (MI CU)
+AHUANA TILAR
+telar (SA)
+AHUANTANA
+aguantar
+AHUARINA
+ahogarse (MI CU SI GZ)
+AHUASHCA
+tela (IL ZA TR CS)
+AHUILA
+abuela (IL ZA PESA GU TR NI
+CS)
+AHUILU
+abuelo (IL ZA PESA GU TR NI
+CS)
+AICHA
+carne
+AICHA C'ATUJ
+carnicero (MI
+AICHA JATU
+carnicero (PE)
+AICHA JATUDUR
+carnicero (IL)
+AICHA JATUJ
+carnicero (NI)
+AICHALLA
+desnudo (IL)
+AICHIRU
+carnicero (CU TI Sf;J
+AILA
+abuela (SI)
+AILU
+abuelo (SI)
+AILLANA
+perforar (GU)
+AILLU
+familia
+AILLU SHUTI
+apellido {SI)
+AIRI
+viento (MI CU)
+AISANA
+jalar 1- (GZ)
+tirar 
+estirar (IL ZA SI)
+extender (IL TR SG)
+retirar (Gll)
+AISANACUNA
+llevar entre varias personas
+AJAJA
+diablo (SG)
+AJALUNA
+murmurar (SG)
+AJANA
+insultar (TR SG)
+enojar (SG)
+AJCHA
+pelo (de cabeza)
+cabello
+AJCHA CACHURISHCA
+desgreñado (ZA)
+AJCHA JATARISHCA
+desgreñado (PE)
+AJICHANA
+cribar (CS)
+AJICHU
+poroso (CS)
+AJINU
+extraño (MI PE)
+AJITANA
+eructar (IL)
+AJTYU NINA
+estornudar (PE)
+AJUGANA
+sofocar (IL ZA)
+AJUGARINA
+ahogarse (IL)
+AJUS
+ajo
+AJUSTANA
+ajustar (SI GZ)
+completar (TT)
+AJUSHTANA
+ajustar
+apretar
+completar
+AJUSHTADU
+tieso (TI)
+AL RIBIS
+al revés (CS SI GZ)
+ALAIRT
+·1: ranspa rente (TI)
+ALAJA
+bonito (IL MI CU TI PESA TR SI
+GZ)
+ALAJAHUA
+elegante (PE)
+ALAMA
+salvaje (GU)
+ALAMllRI
+cuerJa (MI)
+ALAS
+ala (IL MI PE TR NI es SI GZ
+SG)
+ALBA
+madrugada (GZ SG)
+mañana (primera parte del día)
+(SG)
+ALBANA
+madrugar (GZ SG)
+~.LBARDA
+aparejo (IL MI)
+AL BIJA
+alverja (NI SI GZ)
+AL BIJAS
+alverja (IL)
+.I\LBTJtS
+alverja (Cll Gll CS)
+138
+ALBIRJA
+alverja (PE SG)
+ALBIRJIS
+alverja (MI TI)
+ALBIS
+alverja (ZA SA TR)
+ALBRIJIS
+alverja (PE)
+ALCU
+perro (IL GZ)
+ALFA
+alfalfa ( IL )
+ALFARGATA
+sandalia (IL)
+ALI
+ALI CHINA
+bueno, bien, justo (IL)
+ALI LADU
+derecha (IL)
+ALI PACHA
+completamente (IL)
+ALI TUCUNA
+mejorar (IL)
+sanar (ZA)
+ALI YACHAJ
+inteligente (IL)
+ALICIIINA
+reparar (IL TRf
+arreglar, enderezar, guardar
+(IL)
+l
+ALIGRI TUCUNA
+ALIGRI TUCUNA
+sonreir (se) (GU)'
+ALILLA
+despacio (IL)
+ALIMANDA
+despacio (IL)
+ALIRI
+contento (PE)
+ALIS
+ala (ZA CUSA GU)
+ALIYACHINA
+sanar (IL)
+ALIYANA
+mejorar (IL)
+ALJUA
+alfalfa (TR SI)
+ALMA
+alma (IL ZA PESA TR es SI)
+sombra (NI CU TI GU)
+cadáver (PESA GU.GZ)
+difunto (MI PE)
+ALMA HUArlUSHCA
+alma (TI)
+ALPA
+terreno, tierra, piso (IL ZA)
+arena (ZA)
+pamba (IL)
+ALPA CUSHNI
+polvo (IL)
+139
+ALPA CUYUNA
+terremoto (IL)
+ALPA ·cHUJCHUNA
+terremoto (IL)
+ALPA FUYU
+polvo (IL)
+ALPA MAMA CUYUJ
+terremoto (ZA)
+ALPALA
+bajo (lugar) (ZA)
+ALPALLA
+bajo (lugar) (IL)
+ALPARGATI
+sandalia (MI)
+ALP'A
+ALSANA
+alfalfa (TI PESA NI CS GZ SG)
+ALP 'A JIHUA
+alfalfa (PE)
+ALP 'A QU' IHUA
+alfalfa (MI CU)
+ALP'ALP'A JIHUA
+alfalfa (ZA)
+ALP'ALP'A QU'IHUA
+alfalfa (MI)
+ALSANA
+alzar (IL ZA MI PE TR NI es GZ)
+IL - llumán, lmbabu_ra; ZA -. Zámbizá, Pkhincha; MI - San Miguel de Salcedo, Cotopaxi: CU -
+iusubamba, Cotopax1; TI - T1gua, Cotopax1; PE - Ch1buleo San Pedro, Tun_gurahua; SA - Sal?.saca,
+Cung_urahua; GU - Guapante, Tungurahua; TR - Troje, Chimborazo· NI - N,zag, Cl11mborazo; CS -
+achisa_!rna, Bolívar; SI - Sigsihuaicu, Cañar; GZ - Gullanshapa, Azuay: SG - Saraguro, Laja.
+(( + ) Se~ala que en la zona especificada se usa otra for!'la además de la primera palabra quichua.
+- ) Senala que en la zona especificada no se usa la pnmera palabra quichua.
+ALTU
+J\LTU
+alto (de una parte) (ZA TR CS)
+loma (CU)
+piso (TI)
+ALTSANA
+levantar (TI PESA)
+alzar (SA)
+ALUS
+ala (MI TI)
+alverja (MI)
+ALUMBRA
+rayo (TI)
+ALZANA
+levantar (MI)
+ALLAGMA
+boca arriba (SI)
+ALLAGMAN
+boca arriba (TR NI)
+ALLANA
+cavar
+perforar (TR)
+desmontar (GU)
+ALLCU
+perro (MI ZA TR NI CS)
+140
+ALLI
+bueno ,f, (IL)
+bien ,/ (IL SG)
+ALLI TUCUNA
+amable (ZA TI SA NI SG)
+justo (ZA MI TR NI es SI)
+sabroso (MI CU PE)
+bonito (PE TR)
+contento (MI PE)
+elegante (CU NI)
+generoso (MI CS)
+ALLI ALLI
+generoso (ZA)
+ALLI CUJ
+generoso (MI)
+ALLI LADU
+derecha I (IL)
+ALLI MUDASHCA
+elegante (MI)
+ALLI PINSAMINTU
+inteligente (SI)
+ALLI RIMANA
+traducir (GU)
+ALLI SHUNGU
+generoso (CU SA TR NI SI GZ SG)
+humilde (TR NI)
+amable (SA)
+ALLI SHUNGUYUJ
+amable (SA)
+ALLI TIMPU
+verano (PE GU)
+ALLI TUCUNA
+mejorar (SA TR NI)
+sanar (NI)
+ALLI UMA
+ALLI UMA
+inteligente (NI)
+141 AMA
+ALLIYANA
+mejorar 1 (IL NI SG)
+sanar I (IL ZA TI GU NI SI)
+ALLI UYANA
+entender (CS)
+ALLI YACHAJ
+inteligente (TR TI PE)
+ALLICHINA
+arreglar, reparar I (IL CUSA)
+componer I (IL CUSA GU)
+restituir (PE NI es SI GZ)
+mejorar (PE GZ SG)
+enderezar (TI PE)
+guardar (TI CU)
+ajustar (SG)
+ALLICHI PLANTANA
+trasplantar (SI)
+ALLILA
+despacio (TR)
+ALLILLA
+despacio (ZA CU PESA SG)
+feliz (PE NI)
+ALLIMANDA
+despacio (TI es)
+tranquilo, quieto (TI)
+ALLIMANTA
+despacio (SI GZ)
+ALLIMUNTA
+despacio (PE)
+ALLISITU
+suficiente (SG)
+ALLMANA
+desherbar (NI SI)
+ALLPA
+terreno 1 (IL SA)
+tierra 1 (IL ZA SA)
+suelo (TR SG)
+piso (TR)
+arena (PE)
+semen ter a (GU)
+ALLPA CI-!UJCHUI
+terremoto (GU TR)
+ALLPA CUYUI
+terremoto (PE TR CS)
+ALLPA CUYURISIJCA
+terremoto (SI).
+ALLPA PULBU
+polvo ('v!I CS)
+ALLPA T'IMBUSIJCA
+terremoto (SI)
+/\LLPA TlJí'JTRI
+terremoto (CS)
+ALLZHCU
+perro (SI)
+A~lA
+no (prohibición)
+IL - llúmán, lmbabu_ra; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
+fusubamba, Cotopax1; TI - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua; SA - Salasaca,
+ung_urahua; G l] - Guapante_, T1:ngurahua; TR - Troje, Chimborazo; NI N1zag, Ch1m borazo; CS -
+Cachisa!Jua, Bollvar; SI- S1gs1hua1cu, Cañar; GZ - Gullanshapa, Azuay; ~G - Saraguro, LoJa.
+( + ) Se,1ala que en la zona especificada se usa otra forma además de la primera palabra quichua.
+( -  ) Senala que en la zona especificada no se usa la primera palabra quichua.
+/\\lA "JI'.--!A
+J\~1A NINA
+impedir, detener, defender (IL)
+J\MARARINJ\
+enseñarse# (SI GZ)
+/\MBATU
+Ambato (ZA TI NI CS SI GZ SG)
+AMBATYlJ
+sapo (CS)
+AMIGU
+amigo
+AMTNDA
+desabrido, sin sal (IL)
+/\MP/\NA
+•bostezar (IL)
+/\MPARU
+ceja (MI)
+/\MPLIU
+amplio (SG)
+AMSA
+abscuro (IL PE TR NI es SG)
+MlSA SlfUNGlJ
+hígado (PE)
+AMSJ\Y/\
+tarde (s.) (SG)
+AMSAYACIJINA
+cegar (TI SI)
+AMS/\Y/\N/\
+tardecer (PE G\J)
+anochC'cer(IL)
+142
+AMUGCHINA
+suavizar
+AMUGLA
+(IL ZA)
+suave (ZA)
+AMUGLLA
+suave, flojo (IL)
+AMULLI
+ANAGU
+bocado (SA GU TR NI es GZ)
+AMULLIHUA
+bocado (TI)
+AMULLILLAHUA
+bocado (PE)
+AMUPUJ MANDAJ
+mayoral (PE)
+AMUR
+voluntad (MI PE)
+. deseo. (MI)
+feliz (CU)
+AMURUSU
+amable (GU)
+A"lAeU
+falda (indumentaria) (IL MI
+CU TI PESA GU TR es)
+bayeta (MI CU)
+Al\/ACUNA
+cen1r (CU TI SA)
+fajarse (CU TI)
+ANAGU
+falda (indumentaria) (SG)
+ANCHU
+ANCHU
+ancho I (IL MI)
+amplio (ZA MI CU TI SA GU GZ)
+ANCHUCHJNA
+retirar i (IL GU)
+quitar (MI TI SA TR NI es SI
+SG.)
+sep~rar (CU PESA)
+desunir (SA)
+ANCHURINA
+alejarse (ZA TR SG)
+ANDARINA
+reclinarse (TI)
+ANGA
+gavilán# (MI PE SG)
+ANGARA
+calabaza (SI)
+ANGU
+vena I (MI CU GU)
+tendón# (SA GZ SG)
+raiz (PESA SI SG)
+cuerda (SI)
+ANGU HUASCA
+cuerda (TI)
+- ANGULLA
+rocio (MI)
+143
+ANGUSTU
+angosto (SI)
+A.l'lGUYASHeA
+húmedo (IL)
+ANIM/\NA
+ANSAYACHTN/\
+animarse (CU TT Si\ GU SG)
+ANIMARINA
+animarse (TL ZA MI NI es SI GZ)
+ANIMAS
+cadáver (IL)
+ANINA
+bostezar (MISA)
+ANLLU
+anchu (IL)
+ANLLUeHINA
+quitar (IL)
+ANLLUNA
+huir, retirar (IL)
+ANLLURINA
+alejarse (IL)
+ANSA
+obscuro (MI CUSA)
+tarde (s.) (ZA)
+Al\/SAYACHINA
+cegar (~q Clf)
+IL - I!umán, Imbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
+Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibule:i San Pedro, Tun_gurahua; SA - Sal~saca,
+Tung_urahua; GU - Guapante, Tungurahua; TR - Troje, Chimborazo; NI - Nizag, Chimborazo, CS -
+Cachisahua, Bolívar; SI - Sigsihuaicu, Cañar; GZ - Gullanshapa,, Azuay; EiG - Saraguro, LoJa.
+( + ) Señala que en la zona especificada se usa otra forma ademas de la pnmera palabra quichua.
+( · ) Señala que en la zona especificada no se usa la primera palabra quichua.
+A':liSAYANA
+A':liSAYA'lA
+anoche ccr (CU GIi)
+tardecer (ZA)
+ANSJUZU
+goloso (~lT)
+ANSIYA
+goloso (':lil)
+ANTlJ.JlJ
+deseo (CU)
+A'lTSALA
+diminuto (IL)
+zorró (MI CU GU)
+A'iADINA
+añadir (GZ)
+ARANGU
+hormiga (IL ZA MI TR NI CS)
+ARAS
+zorro (IL)
+heridci ('.'JI)
+l\\:I CllT'l l\
+herir (CS)
+A":TNGll
+hormiga (PE GlJ)
+l\'\INGlllllll\
+diminuto (GIi)
+144
+)
+APITANA
+A'iUNGU
+hormiga (SA)
+APAMUNA
+traer f. (MI)
+APANA
+llevar (en general)
+llevar entre varias personas
+(GU)
+APARINA
+API
+cargar
+aparejo (TI)
+hombro (GU)
+colada f. (TI)
+mazamorra f. (TI SI GZ SG)
+sopa (CU PE)
+suave (TI SA)
+API MICUNA
+sopa (ZA)
+APIGANA
+pegar con goma (CS)
+APILATIVU
+apellido (IL MI GU)
+APILLA
+suave (IL)
+liso (TI)
+APILLIDU
+apellido (IL ZA MI TI SA SI)
+APILLIDU SHUTI
+apellido (SA)
+APITANA
+apretar (NI)
+APIYACHINA
+APIYACHINA
+suavizar (IL CUSA NI es SG)
+mojar, remojar (CU)
+APIYANA
+ablandarse (MI CU PESA NI GZ)
+APUNDANA
+escribir (IL)
+APUNTANA
+disparar (ZA PE)
+APURAI
+rápido (SG)
+APURTANA
+apretar, ajustar (IL)
+APURU
+ligero (GZ)
+AQUI
+tal vez (TR)
+ARADU
+arado (MI TI SA)
+ARAílA
+araña f. (ZA MI TI)
+i ARARAI !
+ique calor! f. (SG)
+iARARAU!
+ique calor! (ZA MI CU _GU)
+145
+ARCA
+sobaco (GU)
+ARCADANA
+vomitar (SI GZ SG)
+ARCAZANA
+vomitar (SI)
+ARCU LARCA
+recodo (TI)
+ARI
+sí (afirmativa)
+ARI CHIRI
+arco iris (MI)
+ARI NINA
+aceptar (IL SA TR)
+ARIANA
+araña (ZA MI CU TI)
+ARISCU
+arisco (CU GU)
+ARITIS
+arete (PE GU)
+ARIYANA
+añadir (GU)
+ARMA
+arado (TR NI SI GZ)
+ARMA
+~L - liumán, lmbabu_ra; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo Coto axi· CU _
+T~suba"tba,_ Cotopax1; TI - Tigua, Cotopaxi; PE - Chibule? San Pedro, Tungurah~a; SAP- sa'Iasaca
+Ca n{ur~ ua,8Gl} - Guapante, Tungurahua; TR - TroJe, Ch1m horazo; NI - Nizag, Chimborazo· es '
+( +e isa_ ua, ohvar; SI - Sigsihu'.'-icu, Cañar; GZ - Gullanshapa1 Azuay; é¡G - Saraguro, Laja. ' -
+(  )) ~ei:ia¡a que en la zona especificada se usa otra forma ademas de la primera palabra quichua
+- ena a que en la zona especificada no se usa la primera palabca quichua. ·
+--_,-,:-- -
+1
+ARMANA 146 ASUARIA fi r-AS-UH-UA- -----------------:1-47- -------------A-SH-CA- -PA-SA-N.A :,_ ---------------------,----------------,------¡L[ ASUHUA ASHALLA SAQUIRISilCA
+escaso (CUSA)
+.\R~lA;'sA )
+hañarse (ZA Ml~U TI PE SA í.U
+TR ~I CS)
+ARMARI:'IA
+hañarse (IL SI GZ SG)
+i\RlJGlJ
+agrio (TI)
+I\RlJYASHCA
+rígido (MI)
+ARRIMANA
+arrimar (TI CU PESA NI SI GZ)
+ARRI:"-IIRU
+poroso (CS)
+/\S-HUA
+chicha (TI PESA GU CS)
+ASICHINA
+chiste (IL NI SI)-
+AS TNA
+reir
+sonreír(se) (PE GU NI CS)
+ASINDA
+hacienda (TI SG)
+ASIPTANA
+aceptar (GZ SG)
+/\STRI:"-IA
+sonreír(se) (IL ZA CU SA TR SI
+GZ SG)
+ASIRTANA
+adivinar (TI)
+ASISIIA NINA
+sonreír(se) (TI)
+ASPIDUR
+palo para cavar papas (IL)
+horqueta (TI)
+ASPINA
+rasgar, raspar
+rallar (CU PE GU TR NI es SG)
+cardar (SG)
+tallar (GU)
+ASTAHUAN
+más (PE SI GZ)
+ASTALAHUAN
+luego (TR)
+ASTALLAHUAN
+luego (TR)
+iASTARAU!
+i que calor! (SG)
+ASTINA
+azotar, castigar (IL)
+ASUA
+chicha (MI CU TI GU SG)
+ASUA BASURA
+heces (de chicha) (SA)
+ASUA C'ATUNA
+chichería (SI)
+ASUA HUASI
+chichería (IL MI TR)
+ASUARIA
+chiche ría (GZ)
+chicha (PESA CS)
+ASUHUA C'ATU
+ch ichería (GU)
+ASUHUA C'ATUJ
+chichería (CS)
+ASUHUA C'ATUJ HUASI
+chichería (SA)
+ASUHUA HUASI
+chichería (ZA NI)
+ASUHUA JATUJ HUASI
+chichería (PE) _
+ASUHUA UCU
+chichería (TI)
+ASYINDA
+hacienda (PE NI CS)
+--ASHA -~----~----~----------poco
+(MI CUSA SG)
+ASHAHUAN
+luego (IL)
+ASHAHUANLLA
+luego (PE)
+ASHALA
+poco (TR)
+ASHALLA
+poco (MI cu PESA es SI GZ)
+escaso (IL MI TICS GZ SG)
+ASHALLAHUAN
+luego (NI SG)
+ASHALLAUN
+luego, después (TI)
+ASHALLITU
+poco (SG)
+ASHAMUNTA
+casi (ZA)
+ASHANGA
+canasta (IL)
+ASHATA
+poco (IL)
+ASHAUN
+luego (MI GU)
+ASHCA
+ashanga
+bastante (ZA MI CU TI GU TR CS)
+mucho {ZA MI CU TI GU)
+más (ZA TI)
+demasiado (CU TI)
+suficiente (GU)
+muy (TI)
+hato (CU)
+ASHCA PASANA
+exceder (TI)
+IL - liumán, Imbabura; ZA - - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
+Cusubam_ba, Cotopaxi; TI - Tigua, Cotopaxi; PE - CJlibule? San Pedro, Tun_gurahua¡ SA - Salasaca,
+Tung_urahua; GU - Guapante, Tungurahua; TR Gullanshapa1 Azuay; 1¡G - Saraguro, Loja.
+( + ) Señala que en la zona especificada se usa otra forma ademas de la primera palabra quichua.
+( · ) Señala que en la zona especificada no se usa la primera palabra quichua.
+ASHCA P DISAMINTU CIIAR IJ
+ASHCA PINSAMINTU CHÁRIJ
+sabio (TI)
+ASHCU
+ASHILLA
+poco (SI)
+ASHNA
+fétido (SI SG)
+ASHNACUJ
+--------fétido (CS)
+ASHNACHINA
+oler (CU TI SA TR)
+------- -----~----
+ASflNAI
+fétido (GZ)
+ASHNAJ
+fétido (IL ZA CU TI PE GU TR
+NI)
+ASH:--lA.JTA Cl!UJCANA
+heder (TR)
+AS!lNAJUNA
+heder (IL MI)
+ASHNANA
+heder i (MISA)
+odiar (CU GU)
+oler (PE)
+148
+ASHNARIJ
+fétido (SA)
+ASHNARINA
+heder (SA)
+ASHNUZU
+fétido (TR)
+ASHPA TURU
+barro (TI)
+ASHTACA
+muy (IL ZA)
+mucho, bastante (IL)
+ASHTAHUAN
+más (IL TR NI)
+ASHTAN
+más (SA)
+demasiado (SG)
+ASHTAN HUAHUALLA
+menor (adj.) (SG)
+ASHTANA
+acarrear
+ASHTAUN
+ATALLPA
+más (MI CU TI SA CS SG)
+ASHUN
+luego (CS)
+ATAJU
+grupo, hato (IL)
+ATALPA
+gallina (IL)
+ATALLPA
+gallina (NI)
+r ATAQUI CUNA 149 AULINA
+l
+ATAQUI CUNA
+desmayarse (CU)
+ATAQUI TUCUNA
+desmayarse (ZA TI)
+ATIL
+gallina (SA)
+ATILA
+gallina (MI)
+ATILPA
+gallina (PE i'R)
+ATILLA
+gallina (MI CU GU)
+ATILLPA
+gallina (TR CS)
+ATINA
+ganar (vencer) (IL SI GZ SG)
+__ convencer_ (SI_ GZ)
+exceder (SG)
+ATRAZANA
+atrasarse (SA)
+ATU
+lobo, zorro (SI)
+ATUJ
+lobo (IL ZA PE TR NI)
+zorro (IL ZA TR)
+ATULBA
+gallina (ZA TI)
+ATURINA
+sofocar (MI)
+¡ATSATSAI !
+¡que frío! (TI)
+ATSIANA
+estornudar (IL)
+AUCA
+salvaje (s.) ,¡. (MI GZ SG)
+pagano (IL ZA TI PE GU TR NI CS)
+AUGANA
+sofocar (TR GZ)
+AUGARINA
+ahogarse (ZA PESA GU TR NI CS
+SG)
+sofocar (SA GU)
+AUJA
+aguja,¡. (PESA)
+AUJARAMUN
+hongo (TI)
+AUJARINRISHINA
+poroso (TI)
+AULAJINA
+bostezar (TI)
+AULINA
+urdir (IL)
+IL - llumán, Imbabura; ZA • Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
+Cusubam_ba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tun_gurahua; SA - Salasaca,
+Tungurahua; GU - Guapante, Tungurahua; TR - Troje, Chimborazo; NI - N1zag, Chimborazo; CS -
+Cachisahua, Bolívar; SI - Sigsihuaicu, Cañar; GZ- Gullanshapa1 Azuay; !'¡G - Saraguro, Loja.
+( + ) Señala que e¡¡ la zona especificada se usa otra forma ademas de la primera palabra quichua.
+( -  ) Señala que en la zona especificada no se usa la primera palabra quichua.
+./\!JLLJ\NA
+AULLAN/\
+ladrar (ZA ClJ TT TR)
+chillar (MT Cll PE)
+AULL INA
+urdir (ZA TR NI es SI GZ SG)
+ladrar (PE)
+AlJRlJRV
+aiul (SA)
+AlJSHIRIS
+AY/\
+salvaje, pagano (SA)
+alma (MI CU GU NI GZ SG)
+cadáver (ZA TR NI CS SI SG)
+difunto (IL es SI SG)
+demonio (IL PF. S./\)
+diablo (ZA)
+sombra (SI\)
+iAYAYAI !
+¡que dolor!
+AYUDAN/\
+ajúdar--
+AYUNAN.A.
+desayuno (SI)
+AZAD\J
+azadón (CU)
+AZADU CABU
+azadón (MI)
+AZADUN
+azadón -1- ('-II ClJ)
+\Z IL
+azote (IL ZA SA GU TR NI)
+150 BACHA
+AZUL
+azul
+AZUTI
+azote
+AZUTINA
+azotar (ZA cu TI PESA GU TR es(
+SG
+			)
+castigar (ZA MI CU TI PE CS)
+azote (CU PE)
+AZHPA
+tierra, terreno (SI))))}]' )
+'))
+')}})"
