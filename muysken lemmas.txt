@@ -9192,7 +9192,7 @@ tieso (TI)
 AL RIBIS
 al revés (CS SI GZ)
 ALAIRT
-·1: ranspa rente (TI)
+transparente (TI)
 ALAJA
 bonito (IL MI CU TI PESA TR SI
 GZ)
@@ -9200,8 +9200,8 @@ ALAJAHUA
 elegante (PE)
 ALAMA
 salvaje (GU)
-ALAMllRI
-cuerJa (MI)
+ALAMBRI
+cuerda (MI)
 ALAS
 ala (IL MI PE TR NI es SI GZ
 SG)
@@ -9211,15 +9211,14 @@ mañana (primera parte del día)
 (SG)
 ALBANA
 madrugar (GZ SG)
-~.LBARDA
+ALBARDA
 aparejo (IL MI)
-AL BIJA
+ALBIJA
 alverja (NI SI GZ)
-AL BIJAS
+ALBIJAS
 alverja (IL)
-.I\LBTJtS
+ALBIJIS
 alverja (Cll Gll CS)
-138
 ALBIRJA
 alverja (PE SG)
 ALBIRJIS
@@ -9235,8 +9234,9 @@ alfalfa ( IL )
 ALFARGATA
 sandalia (IL)
 ALI
-ALI CHINA
-bueno, bien, justo (IL)
+bueno
+bien
+justo (IL)
 ALI LADU
 derecha (IL)
 ALI PACHA
@@ -9246,14 +9246,15 @@ mejorar (IL)
 sanar (ZA)
 ALI YACHAJ
 inteligente (IL)
-ALICIIINA
+ALICHINA
 reparar (IL TRf
-arreglar, enderezar, guardar
+arreglar
+enderezar
+guardar
 (IL)
-l
-ALIGRI TUCUNA
 ALIGRI TUCUNA
 sonreir (se) (GU)'
+sonreirse (GU)'
 ALILLA
 despacio (IL)
 ALIMANDA
@@ -9273,18 +9274,19 @@ alma (IL ZA PESA TR es SI)
 sombra (NI CU TI GU)
 cadáver (PESA GU.GZ)
 difunto (MI PE)
-ALMA HUArlUSHCA
+ALMA HUAÑUSHCA
 alma (TI)
 ALPA
-terreno, tierra, piso (IL ZA)
+terreno
+tierra
+piso (IL ZA)
 arena (ZA)
 pamba (IL)
 ALPA CUSHNI
 polvo (IL)
-139
 ALPA CUYUNA
 terremoto (IL)
-ALPA ·cHUJCHUNA
+ALPA CHUJCHUNA
 terremoto (IL)
 ALPA FUYU
 polvo (IL)
@@ -9297,11 +9299,10 @@ bajo (lugar) (IL)
 ALPARGATI
 sandalia (MI)
 ALP'A
-ALSANA
 alfalfa (TI PESA NI CS GZ SG)
-ALP 'A JIHUA
+ALP'A JIHUA
 alfalfa (PE)
-ALP 'A QU' IHUA
+ALP'A QU'IHUA
 alfalfa (MI CU)
 ALP'ALP'A JIHUA
 alfalfa (ZA)
@@ -9309,14 +9310,7 @@ ALP'ALP'A QU'IHUA
 alfalfa (MI)
 ALSANA
 alzar (IL ZA MI PE TR NI es GZ)
-IL - llumán, lmbabu_ra; ZA -. Zámbizá, Pkhincha; MI - San Miguel de Salcedo, Cotopaxi: CU -
-iusubamba, Cotopax1; TI - T1gua, Cotopax1; PE - Ch1buleo San Pedro, Tun_gurahua; SA - Sal?.saca,
-Cung_urahua; GU - Guapante, Tungurahua; TR - Troje, Chimborazo· NI - N,zag, Cl11mborazo; CS -
-achisa_!rna, Bolívar; SI - Sigsihuaicu, Cañar; GZ - Gullanshapa, Azuay: SG - Saraguro, Laja.
-(( + ) Se~ala que en la zona especificada se usa otra for!'la además de la primera palabra quichua.
-- ) Senala que en la zona especificada no se usa la pnmera palabra quichua.
 ALTU
-J\LTU
 alto (de una parte) (ZA TR CS)
 loma (CU)
 piso (TI)
@@ -9340,11 +9334,9 @@ perforar (TR)
 desmontar (GU)
 ALLCU
 perro (MI ZA TR NI CS)
-140
 ALLI
-bueno ,f, (IL)
-bien ,/ (IL SG)
-ALLI TUCUNA
+bueno
+bien
 amable (ZA TI SA NI SG)
 justo (ZA MI TR NI es SI)
 sabroso (MI CU PE)
@@ -9357,7 +9349,7 @@ generoso (ZA)
 ALLI CUJ
 generoso (MI)
 ALLI LADU
-derecha I (IL)
+derecha
 ALLI MUDASHCA
 elegante (MI)
 ALLI PINSAMINTU
@@ -9376,19 +9368,15 @@ ALLI TUCUNA
 mejorar (SA TR NI)
 sanar (NI)
 ALLI UMA
-ALLI UMA
 inteligente (NI)
-141 AMA
-ALLIYANA
-mejorar 1 (IL NI SG)
-sanar I (IL ZA TI GU NI SI)
 ALLI UYANA
 entender (CS)
 ALLI YACHAJ
 inteligente (TR TI PE)
 ALLICHINA
-arreglar, reparar I (IL CUSA)
-componer I (IL CUSA GU)
+arreglar
+reparar
+componer
 restituir (PE NI es SI GZ)
 mejorar (PE GZ SG)
 enderezar (TI PE)
@@ -9403,23 +9391,27 @@ despacio (ZA CU PESA SG)
 feliz (PE NI)
 ALLIMANDA
 despacio (TI es)
-tranquilo, quieto (TI)
+tranquilo
+quieto (TI)
 ALLIMANTA
 despacio (SI GZ)
 ALLIMUNTA
 despacio (PE)
 ALLISITU
 suficiente (SG)
+ALLIYANA
+majorar
+sanar
 ALLMANA
 desherbar (NI SI)
 ALLPA
-terreno 1 (IL SA)
-tierra 1 (IL ZA SA)
-suelo (TR SG)
-piso (TR)
-arena (PE)
-semen ter a (GU)
-ALLPA CI-!UJCHUI
+terreno
+tierra
+suelo
+piso
+arena
+sementera (GU)
+ALLPA CHUJCHUI
 terremoto (GU TR)
 ALLPA CUYUI
 terremoto (PE TR CS)
@@ -9427,58 +9419,53 @@ ALLPA CUYURISIJCA
 terremoto (SI).
 ALLPA PULBU
 polvo ('v!I CS)
-ALLPA T'IMBUSIJCA
+ALLPA T'IMBUSHCA
 terremoto (SI)
-/\LLPA TlJí'JTRI
+ALLPA TUÑIRI
 terremoto (CS)
 ALLZHCU
 perro (SI)
-A~lA
+AMA
 no (prohibición)
-IL - llúmán, lmbabu_ra; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
-fusubamba, Cotopax1; TI - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua; SA - Salasaca,
-ung_urahua; G l] - Guapante_, T1:ngurahua; TR - Troje, Chimborazo; NI N1zag, Ch1m borazo; CS -
-Cachisa!Jua, Bollvar; SI- S1gs1hua1cu, Cañar; GZ - Gullanshapa, Azuay; ~G - Saraguro, LoJa.
-( + ) Se,1ala que en la zona especificada se usa otra forma además de la primera palabra quichua.
-( -  ) Senala que en la zona especificada no se usa la primera palabra quichua.
-/\\lA "JI'.--!A
-J\~1A NINA
-impedir, detener, defender (IL)
-J\MARARINJ\
-enseñarse# (SI GZ)
-/\MBATU
+AMA NINA
+impedir
+detener
+defender (IL)
+AMAÑARINA
+enseñarse
+AMBATU
 Ambato (ZA TI NI CS SI GZ SG)
-AMBATYlJ
+AMBATYU
 sapo (CS)
 AMIGU
 amigo
 AMTNDA
-desabrido, sin sal (IL)
-/\MP/\NA
-•bostezar (IL)
-/\MPARU
+desabrido
+sin sal (IL)
+AMPANA
+bostezar (IL)
+AMPARU
 ceja (MI)
-/\MPLIU
+AMPLIU
 amplio (SG)
 AMSA
 abscuro (IL PE TR NI es SG)
-MlSA SlfUNGlJ
+AMSA SHUNGU
 hígado (PE)
-AMSJ\Y/\
-tarde (s.) (SG)
-AMSAYACIJINA
+AMSAYA
+tarde
+AMSAYACHINA
 cegar (TI SI)
-AMS/\Y/\N/\
+AMSAYANA
 tardecer (PE G\J)
-anochC'cer(IL)
-142
+anochecer (IL)
 AMUGCHINA
 suavizar
 AMUGLA
-(IL ZA)
 suave (ZA)
 AMUGLLA
-suave, flojo (IL)
+suave
+flojo (IL)
 AMULLI
 ANAGU
 bocado (SA GU TR NI es GZ)
@@ -9490,52 +9477,48 @@ AMUPUJ MANDAJ
 mayoral (PE)
 AMUR
 voluntad (MI PE)
-. deseo. (MI)
+deseo (MI)
 feliz (CU)
 AMURUSU
 amable (GU)
-A"lAeU
+ANACU
 falda (indumentaria) (IL MI
-CU TI PESA GU TR es)
 bayeta (MI CU)
-Al\/ACUNA
-cen1r (CU TI SA)
+ANACUNA
+ceñir (CU TI SA)
 fajarse (CU TI)
 ANAGU
 falda (indumentaria) (SG)
 ANCHU
-ANCHU
-ancho I (IL MI)
+ancho
 amplio (ZA MI CU TI SA GU GZ)
-ANCHUCHJNA
-retirar i (IL GU)
+ANCHUCHINA
+retirar
 quitar (MI TI SA TR NI es SI
-SG.)
-sep~rar (CU PESA)
+separar (CU PESA)
 desunir (SA)
 ANCHURINA
 alejarse (ZA TR SG)
 ANDARINA
 reclinarse (TI)
 ANGA
-gavilán# (MI PE SG)
+gavilán (MI PE SG)
 ANGARA
 calabaza (SI)
 ANGU
-vena I (MI CU GU)
-tendón# (SA GZ SG)
+vena
+tendón (SA GZ SG)
 raiz (PESA SI SG)
 cuerda (SI)
 ANGU HUASCA
 cuerda (TI)
-- ANGULLA
+ANGULLA
 rocio (MI)
-143
 ANGUSTU
 angosto (SI)
-A.l'lGUYASHeA
+ANGUYASHCA
 húmedo (IL)
-ANIM/\NA
+ANIMANA
 ANSAYACHTN/\
 animarse (CU TT Si\ GU SG)
 ANIMARINA
