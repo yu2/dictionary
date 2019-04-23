@@ -7065,9 +7065,6 @@ REPARAR
 allichina
 parijachina (~CU --SA)
 alichina (-IL +TR)
-
-
-
 REPENTE
 di ripinti
 huaquimbi (+m +GU)
@@ -10665,15 +10662,10 @@ CASPA
 mazorca
 CASPANA
 chamuscar (IL PESA GU TR SI)
-
-
-
-
-
 CASPI
 palo
-madera,/, (NI)
-bast6n (MI CU TR)
+madera
+bastón (MI CU TR)
 viga (MI CU)
 rama (ZA SG)
 tronco (ZA)
@@ -10686,7 +10678,7 @@ corteza (MI CU PE CS)
 CASPI HUIGRU
 batea de madera (SI)
 CASPI TRUNCU
-~ronco (TI TR NI)
+tronco (TI TR NI)
 CASPIDA BURDANA
 tallar (ZA)
 CASPIYASHCA
@@ -10695,15 +10687,14 @@ tieso (CUSA)
 CASTIGANA
 castigar (IL SA TR SG)
 CASTUNA
-' mascar (SI GZ)
+mascar (SI GZ)
 CASU RURANA
 obedecer (SG)
 CASUNA
 obedecer (IL SG)
-165
-CAS!IA
+CASHA
 espina
-CAS!IA PURU
+CASHA PURU
 espinazo (CU)
 CASHA TULLU
 espinazo (TR SG)
@@ -10712,31 +10703,20 @@ así (IL SA TR SI GZ)
 CASHTIGANA
 castigar (PE GU)
 azotar (GU)
-CASIITUNA
-roer ,/, (TI SA)
-CATAPULCA
+CASHTUNA
+roer
 mascar (IL ZA MI TI PE TR es
 SG)
 CASHTUNAS
 quijada (GU NI SI GZ)
 CASHTURINA
 rumiar
-CASIIU
-(CU)
+CASHU
 sobaco (IL)
 CATAPUGLA
 catapulta (tirador) (TI)
 CATAPULCA
 catapulta (tirador) (CU)
-IL - llumán, lmbabura; ZA - Zámbizá, Pichincha; ~I : San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - q,1bule? San Pedro, Tun_gurahua¡ SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - TroJe, Chtmborazo; NI - N1zag, Chtmborazo; CS -
-Cachisahua, Bolívar; SI- Sigsihuaku, Cañar; GZ - Gullanshapa1 Azuay; ~G - Saraguro, Loja.
-( +) Señala que en la zona especfficada se usa otra for!11a ademas de la pnmera palabra quichua.
-( - ) Señala que en la zona especificada no se usa la pnmera palabra qmchua.
-CATAPULGA
-CATAPULGA
-catapulta (tir~dor) (IL ZA MI)
 CATARRU
 gripe ( IL SG)
 CATI
@@ -10762,19 +10742,16 @@ guiar (TI)
 traducir (MI)
 CATIJ
 siguiente (IL CU SA GU CS)
-CATIJ P 'UNLLA
+CATIJ P'UNLLA
 día siguiente (CU TI CU)
-166
 CATIJACHINA
 perseguir (IL)
 CATIJICHINA
 perseguir (SA)
 CATINA
-CAUPINA
-seguir/ (TI SI GZ)
-continuar I (ZA es SI GZ)
-· perseguir (ZA PE GU NI SI GZ
-SG)
+seguir
+continuar
+perseguir
 leer (MI TI SG)
 CATIRANA
 perseguir (MI CU TI)
@@ -10787,22 +10764,21 @@ catzo (NI)
 CAUCHU
 cuerda (SA GU)
 fibra de cabuya
-CAUCHUNA cauchu
-retorcer ,¡l (ZA MI CU SG)
+CAUCHUNA
+retorcer
 CAUPANA
 ronronear (MI CU)
 CAUPINA
-torcer (palo, pie) (SG)
-CAUPUNA
+torcer
 CAUPUNA
 retorcer (IL ZA MI PE TR NI SI
-GZ)
 CAUSA
 culpa (MI)
-CAUSAi
-vida I (CU ZA TI GU)
+CAUSAI
+vida
 CAUSANA
-vivir, existir
+vivir
+existir
 permanecer (CS SI GU)
 vida (CU TI GU SI)
 CAUSI
@@ -10810,16 +10786,16 @@ vida (ZA)
 CAUZA
 culpa (GU)
 CAVINA
-batir, mecer (IL)
+batir
+mecer (IL)
 CAYA
-mañana ,¡l (PE)
+mañana
 CAYA MINCHA
 pasado mañana (SI)
 CAYA PUNLLA
 día siguiente (TR NI SG)
 CAYA PUNZHA
 día siguiente (SI)
-167
 CAYA SARUN PASASHCA
 pasado mañana (CU)
 CAYA YALLI
@@ -10827,29 +10803,658 @@ pasado mañana (ZA)
 CAYA YALLIJ
 pasado mañana (TR)
 CAYACAMA
-CAYANDI
 hasta mañana (PE TR es SI)
-CA Y ACAMA N INA
+CAYACAMA NINA
 despedirse (PE)
 CAYACAMAN
 hasta mañana (IL GZ SG)
 CAYACAMANA
-despedí rse (IL)
+despedirse (IL)
 CAYAGAMA
-- - hasta-mañana-(ZA-Mr-cu-n-sA,--GU)
-CAYAGAMA NINAdespedi
-rse (TI NI)
+hasta mañana
+CAYAGAMA NINA
+despedirse (TI NI)
 CAYANA
-llamar I (CS)
+llamar
 invitar (IL ZA SA TR NI SI GZ)
 llamar (dar nombre) (TI SA GZ)
 nombrar (SI)
 CAYANDI
-día siguiente (IL MI SI)pasado
-mañana •(IL MI)
-IL - liumán, lmbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua; SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - Troje, Chimborazo; NI - Nizag, Chimborazo; CS ·
-Cachisahua, Bolívar; SI - Sigsihuaicu, Cañar; G Z - Gullanshapa, Azua y; qG - Sara guro, Laja.
-(+)Señala que en la zona especificada se usa otra forma además de la primera palabra quichua.
-( - ) Señala que en la zona especificada no se usa la primera palabra quichua.
+día siguiente (IL MI SI)
+pasado mañana
+CAYANDIJ
+día siguiente (TR NI)
+CAYANDIJ P'UNLLA
+día siguiente (SA)
+CAYAPAJ CAYA
+pasado mañana (:-JI)
+CAYAPAJ CAYANDIJ
+pasado mañana (TR)
+CAYINDI
+día siguiente (MI)
+CAYUNDI
+día siguiente (MI)
+CAZAMINTU
+matrimonio (TI GU)
+CAZARAI
+matrimonio
+CAZARANA
+casarse
+matrimonio (ZA MI CUSA TR es
+CAZARASHCA
+matrimonio (PE)
+CAZARI
+matrimonio (ZA)
+CAZARINA
+casarse (ZA SI)
+matrimonio (ZA)
+CAZI
+casi
+CAZUNA
+hacer caso de
+obedecer (MI cu SA TR NI es GZ)
+CLABANA
+clavar (TI TR NI CS SI SG)
+CLABUDA TACANA
+clavar (ZA MI)
+CRIANA
+criar (GZ SG)
+CRICHINA
+convencer (I.L)
+engañar(CS)
+CRINA
+creer (11 PESA TR NI CS)
+CRISPU
+crespo
+CRISPUMA
+crespo
+CRIYINA
+creer
+CRUZANA
+cruzar
+CRUZARINA
+cruzar
+CUADRACHINA
+cuadrar
+CUADRADUDA RURANA
+cuadrar
+CUADRANA
+cuadrar
+CUADRARINA
+cuadrar
+CUAJARISHCA
+coágulo
+CUBIRTA
+techo
+CUCABI
+fiambre
+CUCAHUI
+fiambre
+CUCAVI
+fiambre
+CUCAYI
+CUCAYU
+CUCU
+diablo
+demonio
+CUCU PALU
+lagartija
+CUCHA
+lago
+charco
+mar
+CUCHÁRUN
+cucharón
+CUCHARÚN
+cucharón
+CUCHAYASHCA
+charco
+CUCHI
+chancho
+puerco
+CUCHQUI
+plata
+dinero
+CUCHU
+rincon
+lado
+cerca
+CUCHU QUIRU
+muela
+CUCHUCHINA
+arrimar
+CUCHULLA
+cerca
+CUCHUNA
+cortar
+cosechar
+segar
+tallar
+cortar
+herir
+arrancar
+CUCHURISHCA
+herida
+CUCHUYACHINA
+arrimar
+CUCHUYANA
+acercarse
+CUDU
+recodo
+CUI
+conejillo de indias
+CUICA
+lombriz
+CUICHI
+arco iris
+CUIDADU
+cuidado (ZA GU SI)
+CUIDAI
+cuidado (SG)
+CUIDANA
+cuidar
+guardar (TI)
+CUINTA
+en vez de (IL TI)
+CUINTAMUNDA
+en vez de (ZA)
+CUINTANA
+contar (IL ZA MISA NI)
+contar (un cuento) (GU)
+CUIRDA
+cuerda
+CUIRPU UPA (YASHCA)
+CUIRPU UPAYASHCA
+paralizado (IL)
+CUITSA
+joven (f.)
+muchacha (IL)
+CUJCHUI
+paludismo (SG)
+CUJITU
+cojo (CU GU)
+CUJU
+cojo (IL TR)
+manco (GZ)
+CULA
+cola (ZA)
+lagartija (TI)
+CULANA
+pegar con goma (IL CU TI)
+CULIRA
+cólera (IL ZA MI CU TI PE SA
+iras (ZA MI CU TI PESA NI)
+bravo (ZA TI)
+CULIRACHINA
+enojar (CU TI SA GU)
+molestar (MI CUSA)
+CULIRANA
+enojar (IL ZA)
+iras (IL TR)
+CULIS
+col
+CULMA
+montón (SA)
+CULMANA
+amontonar (IL ZA SA)
+CULPA
+culpa (ZA MI CU TI TR NI SI
+CULPANA
+culpar (TI NI SG)
+CULQUI
+plata
+dinero (IL ZA)
+oro (ZA)
+CULQUIYUJ
+rico (IL)
+CULTIVANA
+desherbar (MI)
+CULUN NIJUI
+trueno (IL)
+CULUN NINA
+tronar (IL TI GU TR)
+trueno (TR NI)
+CULUN NISHCA
+trueno (CU TI GU)
+CULUNQUIRINA
+tronar (CU)
+CULUR
+achiote (IL MI CU GU)
+CULURTA RURANA
+teñir (TI)
+CULLMA
+tieso (SA)
+CULLQUI
+dinero (C:11 TI PF. TR NI es GZ
+plata (PE GU TR NI CS GZ SG)
+CULLU
+muñon (TR NI)
+CULLUSHCA
+muñon (GU)
+CUMADRI
+comadre
+CUMAÑANA
+acompañar (PE)
+CUMARI
+comadre (ZA MI es SI-GZ) 
+madrina de bautizo o matrimonio
+CUMBA
+amigo (IL)
+techo (SA)
+CUMBANA
+acompañar (IL)
+tapar (SA)
+CUMBARI
+compadre (IL)
+CUMBIDALUN
+generoso (SG)
+CUMBIDANA
+regalar (MI CU TI PESA GU TR
+brindar (MI CU TI PE GU NI CS
+ofrecer (MI PESA GZ SG)
+invitar (IL MI CU TI PESA GU
+CUMBIDASHCA
+gratis (PE)
+CUMBINSINA
+convencer (CU SG)
+CUMBUNINA
+arreglar (IL)
+CUMINUS
+comezon (TI)
+CUMPADRI
+compadre
+CUMPAÑANA
+acompañar
+CUMPAÑASHA PURINA
+CUMPAÑASHA RINA
+CUMPAÑIRITU
+amigo
+CUMPARI
+compadre
+CUMPLINA
+cumplir
+obedecer
+CUMPUNINA
+arreglar
+CUMU
+curva
+CUMURINA
+agacharse
+CUMURISHCA
+jorobado
+CUNA
+dar
+brindar
+entregar
+ofrecer
+dar de comer
+CUNA CANA
+deber
+CUNAGYANA
+abrigarse
+CUNAN
+ahora
+hoy
+CUNAN PUNLLA
+hoy
+CUNAN PUNZHA
+CUNBIDANA
+regalar
+CUNCHU
+rincon
+CUNDUR
+cóndor
+CUNGA
+cuello
+pescuezo
+garganta
+manzana
+CUNGA HUASHCA
+collar
+CUNGA HUASHCA SARTADA RURANA
+ensartar
+CUNGA MUCU
+manzana
+nuca
+CUNGA TULLU
+nuca
+CUNGAI
+de repente
+CUNGAILLA
+tranquilo
+CUNGALLA
+de repente (SI)
+CUNGANA
+olvidar
+descuidar (IL ZA CU GU NI)
+equivocarse (TI)
+CUNGARINA
+descuidar (PE TR)
+equivocarse (PE)
+CUNGARISHCA
+tranquilo
+CUNGASHCAIPI
+de repente
+CUNGASHCALLA
+tranquilo
+CUNGÜILA
+tranquilo
+CUNGURI
+rodilla
+falda (regazo) (ZA GU)
+CUNGURI CHANGA
+muslo (MI CU)
+CUNGURINA
+arrodillarse
+rodilla (TR)
+CUNIJU
+conejo (MI PESA GU NI SI GZ)
+CUNLLU
+heces (de chicha) (MI GU TR NI)
+CUNSIJANA
+educar (MI)
+CUNTININA
+sostener (SG)
+CUNTINTU ·
+CUNUGYANA
+contento (ZA MI CU TI SA)
+alegre (MI CU TI PE TR)
+feliz (MI TI)
+CUNTISTANA
+responder (TR SI GZ)
+CUNTRA
+enemigo (IL MI CU TI SA GU TR)
+CUNTRA GANA
+odiar (MI)
+CUNTRARIU
+enemigo (ZA SI)
+CUNU
+conejo
+CUNUCHINA
+calentarse
+CUNUGLLA
+tibio
+caliente
+CUNUGLLA CANA
+hacer calor
+CUNUGYANA
+calentarse
+arder
+abrigarse
+CUNUJ
+tibio
+caliente
+calor
+CUNUJCHINA
+calentarse
+arder
+CUNUN
+ahora
+hoy
+CUNUN P'UNLLA
+CUNUNA
+abrigarse
+calentarse
+CUNURINA
+CUNYANA
+arder
+CUÑA
+moco
+CUÑADA
+cuñada
+CUPA UMA
+desgreñado
+CURA
+sacerdote
+CURASUN
+corazón
+CURBA
+curva
+CURBIÑU
+conejillo de indias
+CURCU
+jorobado
+CURCULUMU
+jorodado
+CURDUR
+corredor
+CURI
+oro
+CURICU
+madrastra
+CURPA
+coágulo
+CURPARINA
+encogerse
+CURPAYANA
+encogerse (GZ)
+CURPAYARINA
+encogerse (IL)
+CURPUYASHCA
+coágulo (CU)
+CURSIA
+diarrea (SG)
+CURTA
+coágulo (ZA GZ)
+CURTILIS
+costilla (TI)
+CURU
+gusano (ZA es GZ SG)
+CURU TAMIA
+lluvia con sol (NI)
+CURUNDA
+tusa (ZA MI)
+CURUNTA
+tusa (ZA)
+CURURU
+ovilla de hilo
+CURURUNA
+ovillar
+devanar
+enrollar (ZA)
+CURURUTA RANA
+devanar (ZA)
+CURUTA
+testículo (CS)
+CURVA
+recodo (CU PE GU TI)
+CURRAL
+corral
+cerco (TR SG)
+CURRIA
+cinturón (ZA TR NI es GZ)
+CURRIDUR
+corredor (IL ZA CUSA GU TR NI
+CURRIDUR PUNGU
+corredor (TI PE)
+CURRIMILLUN
+muela (SG)
+CURRINA
+correr (MI CU TI SA)
+alargar (TI)
+CURRIYANA
+correr
+CURRUL
+corral
+CUSA
+esposo
+marido
+CUSANA
+asar
+ensartar
+CUSCUNGU
+buho
+CUSTIJIS
+costilla
+CUSTILLA
+costilla
+CUSTIS
+costilla
+CUSTUMBRI
+costumbre
+CUSHA
+nido
+CUSHA NINA
+ofrecer
+CUSHI
+contento
+feliz
+CUSHICUI
+feliz
+CUSHILA
+alegre
+CUSHILLA
+alegre
+contento
+tranquilo
+CUSHIYACHINA
+domesticar
+CUSHIYANA
+sonreírse
+sonreír
+CUSHNI
+humo
+obscuro
+gris
+CUSHNICHINA
+ahumar
+humear
+CUSHNIDA CHURANA
+ahumar
+CUSHINA
+humear
+ahumar
+CUSHNIYACHINA
+ahumar
+CUSHNIYANA
+CUSHPANA
+orinar
+CUSHQUI
+plata
+dinero
+CUSHTILIS
+costilla (MI)
+CUSHTILLA
+costilla (IL SG)
+CUSHTILLAS
+costilla (CS)
+CUSHTIRIS TULLU
+costilla
+CUSHTIS
+costilla (SA)
+CUSHTUMBRI
+costumbre
+CUTA
+harina #(SI GZ SG)
+CUTANA
+moler
+inyectar (IL)
+CUTI SHUJ
+otro (MI PE)
+CUTICHINA
+responder (MI CU TI GU TR SI
+devolver (IL TR NI SI GZ SG)
+repetir (PE SI)
+restituir (CU TR)
+entregar (NI SG)
+CUTIJ
+otra vez (ZA)
+CUTIMBISH URANA
+repetir (MI)
+CUTIMUI
+vuelta (SI)
+CUTIN
+otra vez
+vez (IL ZA MI CU PESA TR NI
+vuelta (CU)
+CUTIN IÑARINA
+retoñar (SA)
+CUTIN RURANA
+repetir (IL GU TR)
+CUTIN SHUJ
+otro (ZA MI CUSA GU)
+CUTIN SHUJ BUILTA RURANA
+repetir (SA)
+CUTIN SHUJ LADU
+oriente (IL)
+
+
+
+
+CUTIN SHUJ LAYA
+diferente (MI CU GU)
+distinto (GU)
+CUTIN SHUJ VIAJI
+otra vez (SA SI)
+CUTIN SHUJCUNA
+los demás (MI GU)
+CUTIN SHUJTA RIMANA
+traducir (GU)
+CUTINA
+regresar (NI es SI GZ)
+volver (NI SI GZ)
+repetir (IL NI CS GZ)
+CUTISH
+CUTISH
+otro (MI)
+CUTU
+manzana (coto) (ZA CU GU TR NI)
+corto (SG)
+CUTUNA
+moler (ZA SG)
+rumiar (ZA)
+blusa (GU)
+CUTSI
+vivo (ingenioso) (IL MI CU TR)
+pronto (IL MI TR)
+ligero (IL CS)
+CUT SILLA
+inteligente (TI)
+CUYANA
+querer (SA SI)
+CUYI
+conejillo de indias, cuy
+(ZA MI CU TI PESA GU TR NI)
+CUYUCHIJ
+arco iris (IL)
+CUYUCHINA
+mecer (IL ZA CU PESA TR SI
+GZ SG)
+batir (PE SG)
+girar (CS)
+CUYUGU
+músculo (GU)
+179 C'ACUNA
+CUYUNA
+moverse# (CS SI GZ)
+CUYURINA
+revolverse (IL CU GU TR NI)
+moverse (IL ZA es SI GZ)
+dislocar (SA TR NI)
+CUZICHANA
+cosechar f, (GU)
+segar (IL ZA SA GU TR)
+CUZINA UCU
+cocina (cuarto) (IL CU GU SI)
+CUZUCHANA
+cosechar (GU)
+CUZHQUI
+plata, dinero (SI)
+C'
+C'ACA
+pefia (IL ZA MI CU TI PE GU)
+quebrada (TR)
+valle (NI)
+C'AC'A UTCU
+cueva (SA)
+C'ACUNA
+fregar# (IL ZA PE GZ)
+sobar (MI TI SA TR NI CS)
+suavizar (GU)
+rallar (SA)
+enjuagar (GZ)
+explotar (MI CU TI)
+IL
+
+
+
