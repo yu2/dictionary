@@ -11377,10 +11377,6 @@ CUTIN SHUJ BUILTA RURANA
 repetir (SA)
 CUTIN SHUJ LADU
 oriente (IL)
-
-
-
-
 CUTIN SHUJ LAYA
 diferente (MI CU GU)
 distinto (GU)
@@ -11395,25 +11391,25 @@ regresar (NI es SI GZ)
 volver (NI SI GZ)
 repetir (IL NI CS GZ)
 CUTISH
-CUTISH
 otro (MI)
 CUTU
-manzana (coto) (ZA CU GU TR NI)
+manzana (ZA CU GU TR NI)
 corto (SG)
 CUTUNA
 moler (ZA SG)
 rumiar (ZA)
 blusa (GU)
 CUTSI
-vivo (ingenioso) (IL MI CU TR)
+vivo (IL MI CU TR)
 pronto (IL MI TR)
 ligero (IL CS)
-CUT SILLA
+CUTSILLA
 inteligente (TI)
 CUYANA
 querer (SA SI)
 CUYI
-conejillo de indias, cuy
+conejillo de indias
+cuy
 (ZA MI CU TI PESA GU TR NI)
 CUYUCHIJ
 arco iris (IL)
@@ -11424,37 +11420,153 @@ batir (PE SG)
 girar (CS)
 CUYUGU
 músculo (GU)
-179 C'ACUNA
 CUYUNA
-moverse# (CS SI GZ)
+moverse (CS SI GZ)
 CUYURINA
 revolverse (IL CU GU TR NI)
 moverse (IL ZA es SI GZ)
 dislocar (SA TR NI)
 CUZICHANA
-cosechar f, (GU)
+cosechar
 segar (IL ZA SA GU TR)
 CUZINA UCU
-cocina (cuarto) (IL CU GU SI)
+cocina (IL CU GU SI)
 CUZUCHANA
 cosechar (GU)
 CUZHQUI
-plata, dinero (SI)
-C'
+plata
+dinero (SI)
 C'ACA
-pefia (IL ZA MI CU TI PE GU)
+peña (IL ZA MI CU TI PE GU)
 quebrada (TR)
 valle (NI)
 C'AC'A UTCU
 cueva (SA)
 C'ACUNA
-fregar# (IL ZA PE GZ)
+fregar
 sobar (MI TI SA TR NI CS)
 suavizar (GU)
 rallar (SA)
 enjuagar (GZ)
 explotar (MI CU TI)
-IL
+C'ACHU
+cuerno (MI)
+C'ACHUJ
+catzo (SI)
+C'ACHUN
+nuera (MI CU TI SA GU TR)
+cuñada (MI CU TI SA TR)
+C'AHUI
+sucio (TR)
+C'AHUINA
+batir (MI TI SA TR CS SI) 
+mecer (MI CU TI GU)
+C'AHUITU
+cama (SA)
+¡C'AICA!
+¡toma! [NI)
+¡C'AIGA!
+c'ahuitu
+¡toma! (MI CU TI SA GU)
+C'ALMA
+apajejo (CU GU)
+C'ALUN
+crudo (TR)
+C'ALLU
+lengua (MI CU TI SA GU TR NI
+es SG) 
+idioma (SG)
+C'AMINA
+insultar (TR CS) 
+odiar (SI)
+C'ANGALLA
+liviano (MI TI GU) 
+ligero (TI GU) 
+suave (TI)
+C'APIRU
+maleza (GU)
+C'ARCA
+sucio (MI SA)
+suciedad (MI TI)
+basura (MI CU)
+C'ARCAYASHCA
+manchado (MI)
+C'ARI
+varón
+C 'ARIYANA
+hombre
+macho
+C'ARI HUAHUA
+niño
+hijo
+C'ARI C'ARI
+valiente (CS)
+C'ARI HUAMBRA
+muchacho (MI TI SA GU TR NI
+es SI GZ SG) 
+joven
+C'ARI MARA
+niño (SA)
+C'ARI TUCUSHCA
+orgulloso (NI SI GZ)
+C'ARIYANA
+animarse (SA)
 
+
+
+C'ASPANA
+chamuscar (CS)
+C'ATA
+cobija (MISA GU TR NI es SI
+GZ SG)
+techo (CUSA TR es SI GZ SG)
+peña (MI CU)
+C'ATACHINA
+tapar (CS)
+C'ATADUR
+vendedor (TR CS)
+C' ATALLINA
+cobijar (SI GZ SG) ________ tapar_ (SI) __
+abrigarse (SG)
+C'ATANA
+cobijar (MI CU TI SA GU TR NI
+---------sG)----- ------
+tapar (SA GU TR SI SG)
+cobija (MI CU TI)
+techo (TI)
+C'ATARINA
+cobijar (CS TR)
+C'ATINA
+seguir, continuar (SI GZ)
+C 'ATINACUI
+--- - siguiente (SI)
+181 C 'UCJJI BIRUILA
+C'ATSU
+catzo (MI CU TI SA GU TR CS)
+C'ATUJ
+·~qt
+c'atsu
+vendedor (MI CU TI SA GÜ NI GZ)
+C'ATUJ PLASA
+mercado (MI CU)
+C'ATUNA PAMBA
+mercado (CS)
+C'ATUNA PLASA
+mercado (TI)
+C'ATUNA UCU
+mercado (TI)
+C'ATURUSH
+vendedor (SI)
+C'AYANA
+llamar, dar nombre (CS)
+C'AYAPUJ CAYA
+pasado mañana (CS)
+C 'AZILYISHCA
+tieso (GU)
+C'UCHI
+puerco, chancho (MI CU TI SA
+GU TR NI SI GZ)
+C 'UCHI BIRUILA
+viruela (SI) 
 
 
