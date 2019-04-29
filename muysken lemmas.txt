@@ -12159,11 +12159,8 @@ CHUJ
 uno (MI)
 CHUJCHI UNGÜI
 paludismo (SA)
-
-
-
 CHUJCHINA
-reb~scar (ZA TI GU)
+rebuscar (ZA TI GU)
 espigar (ZA)
 segar (TI)
 temblar (SG)
@@ -12172,12 +12169,11 @@ paludismo (ZA TR NI es GZ)
 CHUJCHUI UNGÜI
 paludismo (PE)
 CHUJCHUNA
-temblar # (SG)
+temblar
 CHUJCHURINA
 temblar (NI)
 CHULU
 mestizo (CU PESA TR NI es SI)
-CHULU MISTIZU
 CHULU MISTIZU
 mestizo (ZA)
 CHULUN
@@ -12191,7 +12187,6 @@ desierto (adj.) (IL)
 CHULLA
 sin pareja
 desigual (IL ZA MI PE TR es SI
-SG)
 rocio (GU)
 CHULLA CHANGA PURINA
 cojear (SI)
@@ -12201,14 +12196,12 @@ CHULLA CHULLA
 desigual (TI)
 CHULLA MAQUI
 manco (IL ZA TR NI)
-CHULLA 1'1AHUI
+CHULLA ÑAHUI
 tuerto (ZA PE)
-CHULLA NAVI
+CHULLA ÑAVI
 tuerto (IL)
 CHULLARISHCA
 desigual (CU)
-193
-CHUMU
 CHULLAYANACUSHCA
 desigual (SG)
 CHULLAYASHCA
@@ -12222,97 +12215,83 @@ humitas (GZ SG)
 CHUMBI
 faja
 cinturón (IL .MI cu TI PE SA TR
-SI)
 CHUMBILINA
 fajarse (IL ZA)
-cefíir (IL)
+ceñir (IL)
 CHUMBILLINA
-fajarse~ (IL TI GU)
-cefiir f (IL CU TICS)
+fajarse (IL TI GU)
+ceñir
 CHUMIN
 estufa (MI)
 CHUMU
-embotado, sin punta (TR)
-IL - llumán, Imbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua; SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - Troje, Chimborazo; NI - Nizag, Chimborazo; CS -
-Cachisahua, Bolívar; SI - Sigsihuaicu, Cañar; GZ - Gullanshapa, Azuay; éiG - Saraguro, Loja.
-( +) Señala que en la zona especificada se usa otra forma además de la primera palabra quichua.
-( - ) Señala que en la zona especificada no se usa la primera palabra quichua.
-CIIUNA.
+embotado
+sin punta (TR)
 CHUNA
 catzo (GZ SG)
 CHUNGA
 diez
 CHUNGA PATSAJ HUARANGA
-mill6n (PE)
+millón (PE)
 CHUNLA
 quieto (TR)
 CHUNLLA
 desierto (adj.)
 CHUNLLULI
-e huna
 tripas (IL ZA NI CS)
 intestinos (TR NI)
 CHUNLLULLI
 tripas (MI CU TI PE GU TR SI
-GZ SG)
 intestinos (IL MI TI-PESA es
-SI GZ)
 CHUNZHLI
 tripas (SG)
 CHUNZHULLI
 tripas (SI)
 intestinos (SG)
 CHUPA
-rabo, cola
-Cl!UPANA
-fumar f. (CU NI)
-chuoar f. (PE GU NI
-absorber (ZA MI CU
-GZ SG)
-CS)
-TI PE NI es
-194- CHURU
-CHUPU.
+rabo
+cola
+CHUPANA
+fumar
+chuoar
+absorber
+CHUPU
 absceso (IL ZA MI TI PE SA GU
-TR NI)
 tumor (IL ZA MI CU PE SA GU TR
-SG)
 pus (MI TR)
-CHUR..\CUNA
+CHURACUNA
 ropa (ZA SI)
-vestirse, vestido (ZA)
+vestirse
+vestido (ZA)
 CHURAJUNA
-vestirse, ropa, vestido, (IL)
+vestirse
+ropa
+vestido
 CHURANA
 poner
 meter (MI CU TI PE GU)
--vestirse (MI TI PE SA. GU NI CS)
-vestido# (IL ZA)
-- ropa ;! (IL ZA SI) -
+vestirse (MI TI PE SA. GU NI CS)
+vestido
+ropa
 tapar (TR)
 CHURARINA
----
 vestirse (TR SI GZ SG)
 CHURARISHCA
--~----disfrazado-·{CSJ--------
+disfrazado
 CHURASH APANA
-- c¡,rgar (SG)
+cargar (SG)
 CHURASHCA
 vestido (MI CU PE)
 CHURGU
 ciego (GZ)
 CHURI
-hijo f, (SG)
-CHURUcaracol
-# (NI SI GZ SG)
-CHURU UMA
+hijo
+CHURU
+caracol
 CHURU UMA
 crespo (CS)
 CHURUCU
 caracol (SI GZ)
-CHURUTU ·
+CHURUTU
 tórtola (SI)
 CHURRIAMUNA
 cascada (TI)
@@ -12322,9 +12301,9 @@ CHUSAGYANA
 aflojar (IL)
 CHUSCU
 cuatro
-CHUSCU ~SQUINATA RANA
+CHUSCU ISQUINATA RANA
 cuadrar (PE)
-CHUSCU NAHUI
+CHUSCU ÑAHUI
 buho (GU)
 CHUSIYANA
 pinchar (SI)
@@ -12333,8 +12312,6 @@ mosca
 tábano (MI CU
 abeja (MI)
 hormiga (MI)
-TI GU SI)
-195
 CHUSPI BRUNCANA
 abeja (SG)
 CHUSHA
@@ -12343,8 +12320,7 @@ CHUSHA CHAQUI
 descalzo (GZ SG)
 CHUSHAGLLA
 pobre (NI)
-CHUSHAGYACH INA
-CHUT ACHINA
+CHUSHAGYACHINA
 vaciar (TR SI GZ SG)
 CHUSHAJ
 vacio (IL ZA PE TR SI GZ SG)
@@ -12353,7 +12329,7 @@ CHUSHIGYACHINA
 vaciar (ZA CS)
 CHUSHIJ
 vacio (MI CS)
-- sucio (IL} -
+sucio
 buho (TR)
 CHUSHU
 vacio (TI)
@@ -12362,31 +12338,27 @@ vaciar (TI SA)
 CHUSHUJ
 vacio (CUSA)
 buho (CU TI SG)
-CHUT ACHINA
-tirar (estirar) (TI)
-IL - Ilumán, Imbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua; SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - Troje, Chimborazo; NI - Nizag, Chimborazo; CS -
-Cachisahua, Bolívar; Sf - Sigsihuaicu, Cañar'; GZ - Gullanshapa, Azuay; ~G - Saraguro, Loja.
-( +) Señala que en la zona especificada se usa otra forma además de la primera palabra quichua.
-( - ) Señala que en la zona especificada no se usa la primera palabra qmchua.
+CHUTACHINA
+tirar
+estirar
 CHUTANA
-CHUTANA
-tirar (estirar)
-extender ¡I, (CS)
-estirar ¡1, (NI es SI SG)
-jalar (MI CU TI PESA GZ)
+tirar
+extender
+estirar
+jalar
 retirar (GU)
 CHUTARINA
-tirar (estirar) (SA GU SG)
+tirar
+estirar
 CHUYA
-aguado# (SI GZ SG)
+aguado
 claro (CU TR NI GZ)
 transparente (IL)
-CHUZ IJIRINA
+CHUZIJIRINA
 abrigarse (TI)
 CHUZU
-pequeño, chico (adj.) (MI)
+pequeño
+chico
 diminuto (CS)
 delgado (TR)
 CHUZU RACU
@@ -12396,46 +12368,39 @@ puñado (MI GU)
 manojo (MI)
 CHUZUNQUINA
 puñado (TI)
-chuzun
-196
-CH'
 CH'ALANA
 rebuscar (TR es SG)
 CH'UCA
 baba (PE GU GZ)
 CH'UZU
 delgado (PESA)
-D
 DALINA
 azotar (SA SI)
-castigar, sobar (SI)
+castigar
+sobar (SI)
 DANSA TAMBUR
 tambor (SA)
 DANZANA
-DAffüNA
-danzar ¡I, (TI PE es GZ)
-bailar (MI CU TI SA GU SG)
-DAFlANA
+danzar
+bailar
+DAÑANA
 dañar (ZA MI cu SA NI es SI GZ
-SG)
 destruir (ZA SI SG)
-DAFlARISHCA HUASI
+DAÑARISHCA HUASI
 ruina (SA GU)
-DAFlUNA
-dafíar (MI)
-DI RIPINTI
+DAÑUNA
+dañar (MI)
 DI RIPINTI
 de repente (TI CUSA GU TR GZ
-SG)
 a veces (ZA MI CU CS)
 DIABLU
 demonio (ZA CU TI SA GU TR)
 DIBI
-deuda¡! (PE)
+deuda
 DIBIL
 falso (GU)
 DIBINA
-deber (v.)~ (PE)
+deber
 DIBIYANA
 deber (v.) (CU)
 DIDU
@@ -12452,15 +12417,13 @@ entero (TR)
 DILICADU
 delicado (MI CU SI)
 frágil (GU)
-didu
-197
 DILITURIU
 profesor (TI)
 DIMASIADU
 demasiado (ZA)
 DIMBALDI
 gratis (TR CS)
-DIMUFlU
+DIMUÑU
 diablo (CUSA GU)
 demonio (SA)
 DIMURANA
@@ -12471,32 +12434,22 @@ DINU
 tal vez (TR)
 DIPURSI BISTISHCA
 elegante (MI)
-DIP' ISIL
+DIP'ISIL
 difícil (SI)
 DIRICHANA
 enderezar (IL TR NI SI)
-DIRICJHNA
+DIRICHINA
 enderezar (GU)
 cruzar (MI)
 DIRICHU
-DIRICJ!U
 recto (IL ZA CU TI SA TR SG)
 derecho (IL MI SA GU CS SG)
 justo (IL)
-IL - llumán, Imbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi: CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibule? San Pedro, Tun_gurahua; SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - TroJe, Ch1mborazo; NI - N1zag, Ch1mborazo; CS -
-Cachisahua, Bolívar; SI - Sigsihuaicu, Cañar; GZ - Gullanshapa, Azuay; SG - Saraguro, Loja.
-( +) Señala que en la zona especificada se usa otra forma además de la primera palabra quichua.
-( - ) Señala que en la zona especificada no se usa la primera palabra qmchua.
-r í
-DIRICHUNA 198 DIUSPI MANA CRIYIJ I
---------------'-------r-------------------,1,f,
-DIRICHUNA DISMAYACHANINA
-enderezar (MI CU SA CS) desmayarse (SG)
+DIRICHUNA
+enderezar
 nivelar (SA GU)
 DIRIJTUR
-pro fe sor (GU)
+profesor (GU)
 DIRRUMBU
 terremoto (TI)
 DISAHUA
@@ -12512,39 +12465,38 @@ descansar (SG)
 DISCUIDANA
 descuidar (CS GZ)
 DISCHULLA
-desig.ual (GZ)
+desigual (GZ)
 DISFRASADU
 disfrazado (CU)
 DISFRASARISHCA
 disfrazado (GZ. SG)
 DISIGUALARISHCA
 desigual (GU)
+DISMAYACHANINA
 DISMAYANA
-desmayarse ··(IL TI SA TR NI CS
-SI GZ SG)
+desmayarse
 DISMAYU JAPINA
 desmayarse (GU)
 DISMUNTANA
-desl)lontar (GU)
+desmontar (GU)
 DISPIDINA
 despedirse (ZA GU TR GZ SG)
 DISPIDISHA RINA
 despedirse (SA)
 DISTINTU
---- d:isTíntéi-(ZA)--
+distinto
 DIUS SILU PAGUI
-1---~ gracias~(IL . .SGl----~-----
+gracias
 DIUS SILU PAGUI NINA
 agradecer (IL)
 DIUS SULU PAGUI
-gracias (MI PE GU TR NI SI GZ)
+gracias
 DIUS SULU PAGUI NINA
 agradecer (MI CU TR NI GZ SG)
 DIUS SULU PAI
 gracias (CUSA NI)
 DIUSPI MANA CRIYIJ
 pagano (SI)
-DIUSUSLUPAI NINA
 DIUSUSLUPAI NINA
 agradecer (SA)
 DIYA
@@ -12556,52 +12508,43 @@ DUBLARINA
 doblarse (GZ SG)
 DUBLI
 mucho (MI)
-DUH!U
-dueño -1 (IL)
+DUIÑU
+dueño
 DUNSILLA
 muchacha (SI)
-DUflU
-duefío (TI)
+DUÑU
+dueño (TI)
 DURMINA
 dormir (TR GZ)
 sueño (GZ)
+DURMUI SIQUI
 dormilón
 DURU
 fuerte (ZA)
-199
 FACIL
 fácil (IL)
 FACHA
-red (IL)
+red
 FACHILINA
 rebozo (IL)
 FAHUANA
-FANGA
-F
-saltar, brincar, danzar, volar
-(IL)
+saltar
+brincar
+danzar
+volar
 FAINA
 faena (IL)
 FAJCHA
 cascada (IL) ;~
-~ ~}q)-
-1/, L.:JJ_~
-~J/4¿r¡ 1 fajcha (~~
 FALTANA
 faltar (IL)
 FANGA
 hoja (IL)
-IL - Ilumán, Imbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua; SA - Salasaca,
-Tungurahua; GU - Guapanle, Tungurahua; TR - Troje, Chimborazo; NI - Nizag, Chimborazo; CS ·
-Cachisahua, Bolívar; SI - Sigsihuaicu, Cañar; GZ - Gullanshapa, Azuay; é¡G - Saraguro, Loja.
-( +) Señala que en la zona especificada se usa otra-forma además de la primera palabra quichua.
-( - ) Señala que en la zona especificada no se usa la primera palabra quichua.
-FANGALLA
 FANGALLA
 liviano (IL)
 FAQUINA
-romper, quebrar (IL)
+romper
+quebrar (IL)
 FAQUIRINA
 frágil (IL)
 FAQUIRINALLA
@@ -12609,39 +12552,51 @@ frágil (IL)
 FICHA
 rayo (IL)
 FICHANA
-limpiar,
+limpiar
+barrer
+escoba
 FILU
 agudo (IL)
 FINDU
 trapo (IL)
-Fif.lA
+FIÑA
 bravo (IL)
-FiflACHINA
+FIÑACHINA
 enojar (IL)
-FiílAI
-iras, cólera (IL)
-FiílANA
-enojar, odiar, iras
-200
+FIÑAI
+iras
+cólera (IL)
+FIÑANA
+enojar
+odiar
+iras
 fichana
-(IL)
 FISHTA
 fiesta (IL)
 FITI
 pedazo (IL)
 FITINA
-cortar, arrancar (IL)
+cortar
+arrancar (IL)
 FLICHANA
 relampago (IL)
 FLUJU
 flojo (IL)
 FRINTI
-frente, frente a (IL)-
+frente
+frente a
 FUCUSHCA
 maduro (IL)
 FUCUNA
-FUYU GABILAN
-G
+madurar
+soplar
+FUMANA
+fumar
+FUNDU
+tinajon o vasija grande para cargar agua
+FUYU
+nube
+neblina
 GABILAN
 gavilán (PE)
 GACHU
@@ -12652,10 +12607,139 @@ flauta
 GAJU
 racimo
 GAMU
-(IL)• ~
-~ gaita
-'
-(SG)
 sin sal (SI GZ SG)
 sin sabor (GZ SG)
 desabrido (SG)
+GANA
+ser
+estar
+existir
+gana
+GANANA
+ganar
+vencer
+GANU
+desabrido
+GARHUA
+llovinzna
+GARUA
+llovizna
+GARRA
+garra
+GASTANA
+gastar
+GASHTANA
+gastar
+GASHTUNA
+mascar
+GILUYASHCA
+embotado
+GRADA
+sendero
+GRANUTA HUACAICHINA HUASI
+troje
+GRANU
+grano
+GRUSIRU
+tosco
+GÜAMAJ
+carrizu
+GUAJANA
+enjuagar
+GUGUTI
+garganta
+pescuezo (SG)
+GULUN
+trueno (PESA)
+GULUN NINA
+tronar (MI PESA CS)
+GUMA
+resina (SG)
+GUMITANA
+tener náuseas (CU TI)
+vomitar (NI)
+GURDU
+gordo
+GUSANA
+acariciar (MI CU)
+GUSHTANA
+gustar
+GUSHTULLA
+tranquilo (Mi CUSA GU)
+despacio (MISA GU)
+GUSTULLA
+despacio (PESA NI)
+GUTITA YACU
+gota (SG)
+GUZU
+barro (TR)
+HUACAI
+ruido (IL TR)
+HUACAICHINA
+guardar (IL SI GZ SG)
+HUACANA
+llorar
+gritar
+ladrar
+chillar
+HUACASH UNGUNA
+dar a luz (TI)
+HUACAU
+mirlo
+HUACU
+cogollo
+HUACHANA
+parir
+dar a luz
+poner huevos
+nacer
+HUACHCA
+collar
+HUACHU
+surco de arado
+HUACHUSHCA
+surco de arado
+HUAGCHA
+pobre
+HUAGCHA LLUSTI
+pobre
+HUAGLI
+falso
+HUAGLICHINA
+destruir
+HUAGLINA
+dañar
+HUAGLINALLA
+delicado
+HUAGLLI SHUNGU
+delicado
+HUAGLLICHINA
+destruir
+dañar
+HUAGLLINA
+dañar
+HUAGGLINALLA
+delicado
+HUAGLLIRINA
+dañar
+HUAGNINA
+gritar
+HUAGRA
+ganado
+vaca
+HUAGRA YAPUNA
+yunta
+HUAGRA YUNTA
+yunta
+HUAGZA
+lagartija
+HUAHUA
+bebe
+niño
+criatura
+HUAHUA ATILLPA
+pollito
+HUAHUA HUAGRA
+ternero
+HUAHUA LLAMA
+cordero
