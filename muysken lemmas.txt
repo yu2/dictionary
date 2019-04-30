@@ -12743,3 +12743,1107 @@ HUAHUA HUAGRA
 ternero
 HUAHUA LLAMA
 cordero
+HUAHUA MAMA
+placenta (IL CIJ PE GU NI es
+HUAHUA PULLITU
+pollito (SA)
+HIJAIIUA PULLU
+pollito (IL TR)
+HUAHUA UBIJITA
+cordero (SI)
+HUAHUA UMA
+placenta (ZA SA)
+HUAI NINA
+bostezar (NI)
+HUAICU
+quebrada
+valle (TR PE)
+bajo
+profundo (PE)
+HUAICU ASHCU
+lobo (CU)
+HUAICU CHUCHU
+cueva (MI)
+HUAICU UJTU
+cueva (MI CU)
+llUAICUCHINA
+meter (ZA)
+HUAICUNA
+entrar (ZA)
+HUAICUYANA
+descender (TR)
+HUAIGUCHINA
+meter (SA)
+HUAIGUNA
+entrar (SA)
+HUAIQUIYACHINA
+descargar (PE GZ)
+HUAIQUIYANA
+bajarse
+descender
+desmontar
+HUAIRA
+viento
+aire
+HUAIRA UMA
+calavera (SI)
+HUAIRACHIDUR
+aventador (IL TR SG)
+HUAIRACHINA
+aventar
+abanicar
+aventador (ZA SA)
+HUAITSUJ
+mirlo (IL)
+HUAIYUNA
+suspender (SA)
+HUAJALITU
+eucalipto (CS)·
+HUAJCHA
+huérfano
+pobre (MI PESA GU TR NI GZ SG)
+HUAJCHA HUARMI
+viuda (SG)
+HUAJCHA RUNA
+viudo (SG)
+HUAJCHAMI TUCUNA
+empobrecer (ZA)
+HUAJCHARINA
+empobrecer (SI)
+HUAJCHAYANA
+empobrecer (GU TR GZ)
+HUAJCHINA
+guardar (TI CU)
+HUAJCHU
+mirlo (TI)
+HUAJTA
+atrás (ZA)
+HUAJTACHINA
+engañar (IL)
+HUAJTAI
+golpe (ZA TR NI es SI GZ)
+HUAJTALA
+detrás de (ZA)
+HUAJTANA
+golpear (PESA TR NI SI GZ)
+azotar (SA NI SI SG)
+sobar (GZ SG)
+trillar a mano (IL ZA MI PE TR)
+segar (SG)
+HUAJTSAJ
+mirlo (ZA)
+HUAJTSU
+mirlo (MI)
+HUAJTSUJ
+mirlo (ZA CU PESA GU)
+HUALAJ
+sapo (IL)
+HUALAMBARI
+arco iris
+HUALCA
+collar (IL ZA)
+HUALMU
+palo para cavar papas (ZA) ---
+HUALPA
+gallina
+HUALUJ
+sucio (CS)
+HUALUTU
+poncho (TR)
+HUALLCA
+collar (MI TI PE TR NI es SI
+HUALLCARINA
+rebozo
+HUALLMU
+palo para cavar papas (MI CU
+HUALLPA
+gallina (SI GZ SG)
+HUALLPINCHI
+muslo (MI)
+HUALLU
+cántaro (PE SI GZ SG)
+HUALLU SHIRA
+tazón de barro (SG)
+HUAMAN
+gavilán (TR SG)
+HUAMBRA
+muchacho
+joven (m.) (IL MI CU PE NI SG)
+joven (f.) (ZA MI CU SG)
+soltera (SG)
+HUAMBRA UCHUJ
+humilde (TI)
+HUAMBUNA
+flotar (IL ZA CU PESA TR NI
+nadar (IL PESA TR NI CS SI
+HUANCA
+palanca
+HUANCANA
+sostener (TR)
+HUANCHINA
+matar (IL)
+HUANDUNA
+llevar entre varias personas
+cargar (SA SG)
+HUANGA
+palanca (IL ZA SA)
+HUANGU
+copo
+manojo (IL ZA TR NI CS)
+racimo (MI CU TI PE)
+trenza (MI CU)
+HUANGUNA CASPI
+palanca (TI)
+HUANLLA
+comida para llevar a la casa
+HUANLLANA
+guardar comida para llevar a la casa
+comida para llevar a la casa
+HUANLLINA
+comida para llevar a la casa
+HUANTUJ
+floripondio
+HUANTUJ SISA
+floripondio
+HUANU
+abono
+excremento
+HUAÑI
+muerte
+HUAÑU LANGUI
+delgado
+HUAÑUCHIJ JAMBI
+veneno
+HUAÑUCHINA
+matar
+amortiguar
+HUAÑUI
+muerte
+HUAÑUJ
+difunto
+cadáver
+HUAÑUJ ALMA
+difunto
+HUAÑUNA
+morir
+muerte
+HUAÑUNA JAMBI
+veneno
+HUAÑURINA
+amortiguar
+encogerse
+HUAÑUSHCA
+difunto
+cadáver
+alma
+HUAÑUSHCA ALMA
+cadáver
+HUAÑUSHCA CUIRPU
+calavera
+HUAPU
+elegante
+valiente
+fuerte
+HUAPULA
+elegante
+HUAQUICHINA
+guardar
+troje
+HUAQUIMBI
+a veces
+de repente
+HUAQUIMPI
+de repente
+HUAQUIN
+alguien
+de repente
+HUAQUIN RATU
+a veces
+HUAQUINLLABI
+a veces (ZA SA)
+de repente (SA)
+HUAQUINLLAMI
+a veces (SI)
+HUARANGA
+mil
+millón (SI)
+HUARANGA-HUARANGA
+millón (IL SA GU TR NI es GZ)
+HUARCANA
+echar (TR)
+HUARCUNA
+suspender
+colgar
+HUARCURINA
+colgar (NI CS)
+agarrar (IL ZA)
+HUARMI
+hembra
+mujer
+esposa
+HUARMI HUAGRA
+vaca (IM PE)
+HUARMI HUAHUA
+niña
+hija (SG)
+HUARMI HUAMBRA
+muchacha
+joven
+HUARMI MARA
+niña
+joven (f.) (SA)
+HUARMI TUCUSHCA
+disfrazado (NI)
+HUARTAJ
+sapo (NI)
+HUARRU
+gavilán
+HUASCA
+soga
+cuerda
+HUASI
+casa
+HUASI CANLLA
+patio (TR)
+HUASI CUIDAJ
+portero (CU)
+HUASI CUMBA
+techo (SI)
+HUASI C'ATA
+techo (GU SI)
+HUASI C'ATASHCA
+techo (NI)
+HUASI ÑAUPAJ
+corredor (TR)
+HUASI P'ATAJ
+techo (MI)
+HUASI TAPASHCA
+techo (PE)
+HUASI YATA
+ruina (TR CS)
+HUASICAMA
+portero (GU)
+HUASICHINA
+construir (IL TR)
+HUASHA
+atrás
+detrás de
+fuera de
+alrededor de
+sur (PE SI)
+espalda
+espaldilla
+HUASHA CUDU
+espaldilla (GZ)
+HUASHA CUNGA
+nuca (IL)
+HUASHA CUNGA TULLU
+espalda (SA)
+HUASHA LADU
+sur (PE)
+HUASHA LADUMAN
+al revés (IL TR)
+HUASHA PILIS TULLU
+espinazo (MI)
+HUASHA RIGRA
+espaldilla (SA)
+HUASHA RIMANA
+murmurar (IL CS)
+HUASHA TULLU
+espaldilla (ZA TI TR NI)
+espalda (TI CS)
+espinazo (IL SI)
+nuca (ZA)
+HUASHADA SHAMUNA
+atrasarse (TI)
+HUASHAI
+detrás de (SG)
+HUASHAMUNA
+atrasarse (MI)
+HUASHAN LANTANA
+trasplantar (PE)
+HUASHAYANA
+atrasarse (PESA)
+HUATA
+año
+HUATALLINA
+ceñir (SI)
+HUATANA
+atar
+amarrar
+nudo (IL ZA CU TI GU SI)
+ceñir (IL MISA GU TR)
+fajarse (MI GU GZ)
+cinturón (MI CU)
+prender (coger preso) (IL)
+HUATASHCA
+nudo (IL TR)
+HUATIA
+mudo (PE)
+HUATIAJ
+tartamudo (PE)
+HUAUQUI
+hermano
+HUICHAI
+cuesta (NI SI GZ SG)
+subida (SI GZ)
+HUICHAI SINGA
+boca arriba (GZ SG)
+HUICHCANA
+cerrar (PE TR NI es SI)
+corrál (SG)
+HUICHI
+cuesta
+subida (ZA MI CU PE GU TR CS)
+arriba (MI)
+cazuela
+HUICHI LADU
+norte (MI GU)
+sur (ZA)
+HUICHI LLAJTA JINTI
+extraño (ZA)
+HUICHI SICANA
+subir (MI)
+HUICHI SINGA
+boca arriba (ZA MI CU PE GU CS)
+HUICHICANA
+cerrar
+HUICHICUNA
+subir (SI)
+HUICHIYACHINA
+alzar (TR)
+HUICHIYANA
+subir (ZA TR CS)
+HUIGSA
+barriga
+vientre (SI)
+HUIJSA
+barriga
+vientre
+estómago
+panza
+HUIJSA JUNDA
+embarazada (SI)
+HUIJSA JUNDAJTA MICUNA
+hartarse (ZA)
+HUIJSA PAJTANA
+hartarse (TI)
+HUIJSA P'AJTANA
+hartarse (PE)
+HUIJSASAPA
+panza (TI)
+HUIJSAUN JUNDA
+embarazada (TI)
+HUIJSAYIJ
+embarazada (ZA)
+HUIJSAYUJ
+embarazada (TR)
+HUILU
+borde (TR)
+HUILLANA
+avisar
+HUILLIJANA
+chillar (.ZA)
+HUILLMA
+lana
+vello (TI)
+HUIÑACHINA
+criar
+educar (MI)--·
+alargar (NI)
+estirar (SG) ·
+HUIÑAGUI
+retoño
+HUIÑAJUI
+retoño
+HUIÑAMUNA
+brotar
+HUIÑANA
+crecer
+retoñar
+brotar
+retoño
+nacer
+HUIÑARIJUNA
+eructar
+HUIÑARINA
+retoñar (TR}
+nacer (CU)
+HUIÑASHCA
+retoño (TR NI es SI GZ)
+HUIQUI
+lágrima
+resina
+HUIRA
+manteca
+gordo (ZA TR SI GZ ·sG)
+HUIRACUCHA
+mestizo (PE TR)
+HUIRAC'UCHA
+mestizo (Mí)-
+HUIRAC'UCHA TUCUSHCA
+elegante (MI)
+HUIRAJUCHA
+mestizo
+HUIRFANU
+huérfano
+HUIRPA
+labio
+HUIRU
+caña dulce
+HUIRZADU YAICUNA
+obstruir
+HUISTU ÑAHUI
+bizco (SI)
+HUISHCANA
+cerrar (ZA MI CU TI GU)
+HUISHCUNA
+desgranar (PE)
+HUISHINA
+verter (GU)
+HUISHLA
+cucharón (ZA)
+HUISHUYANA
+torcer (palo, pie) (CS)
+HUISHTU
+sesgo
+manco (CS)
+HUISHTUYANA
+torcer (palo, pie) (ZA TI TR
+HUIZAJ NINA
+chillar (CS)
+IBARRA
+Ibarra
+ICU
+voz
+ICHA
+tal vez (SG)
+ICHCANA
+cerrar (SA)
+ICHI
+cuesta
+subida
+arriba
+cazuela (SA)
+ICHI SINGA
+boca arriba (SA)
+ICHI TAITA
+padrastro (SG)
+ICHI YAYA
+padrastro (SG)
+ICHIMU RINA
+subir (SA)
+ICHIQUILA
+pequeño (ZA)
+ICHISANA
+brujear (GZ)
+ICHIZIRU
+brujo (GZ)
+IDUCANA
+educar (SI)
+IGADU
+hígado (SI)
+IGNURANTI JINTI
+pagano (GU)
+IGRA
+bolsa tejida (MI CU)
+IGUAL
+igual
+juntos (MI)
+IGUALANA
+equivaler (NI GZ)
+nivelar (ZA SI GZ)
+IGUALTANA
+equivaler (CS)
+IGUALLADI BALINA
+equivaler (MI)
+IGUALLATA BALINA
+equivaler (SI)
+IGUL
+igual (ZA CU TI SA)
+transparente (ZA)
+IGULANA
+equivaler (SA)
+IGULDA
+juntos (SA)
+IGULMI BALINA
+equivaler (ZA)
+IGULTA BALINA
+equivaler (TI)
+IGULLADI BALINA
+equivaler (CU)
+IGZI
+sarna (CU TI)
+IJSA
+barriga
+estémago
+vientre
+panza (SA)
+ILA CHURI
+entenado (ZA MI CU TI PESA
+ILA HUAHUA
+entenado (ZA MI CU TI PESA GU
+ILA MAMA
+madrastra (ZA MI CU PESA GU
+ILA TAITA
+padrastro (PESA GU CS)
+ILA USHI
+entenada (SA)
+ILA USHUSHI
+entenada (MI PE GU CS)
+ILA YAYA
+padrastro (ZA TI SA GU CS)
+ILACHA
+fibra de cabuya (NI)
+ILAUSHUSHI
+entenada (ZA CU TI)
+ILI MAMA
+madrastra (MI)
+ILU
+hielo (CU)
+ILLAITA
+completamente
+totalmente (MI)
+ILLAJ
+sin
+suficiente (PE)
+ILLAJ TUCUNA
+empobrecer (PESA)
+ILLAJLLA
+escaso (PE SG)
+ILLAJTA
+totalmente (IL SA GU SG)
+completamente (CUSA)
+enteramente (SA GU)
+ILLAN
+no hay
+ILLANA
+faltar (IL PESA TR NI CS SI
+avisar (SA)
+ILLAUN
+no hay
+ILLIJ
+sin (ZA TI SA)
+todo
+ILLIJCANCHA
+juntos (TI)
+ILLIJTA
+completamente (MI TI SA GU)
+totalmente (CU TI SA)
+enteramente (MI TI SA)
+ILLIN
+no hay (SA)
+ILLITA
+completamente
+enteramente (TI)
+IMA
+¿qué?
+IMA CAIGA
+¿cuándo? (MI)
+IMA LAYA
+¿qué clase?
+¿cómo? (SA TR NI)
+IMA NISHA
+¿por qué? (MI CU TI SA)
+IMA RATU
+¿cuando? (SI)
+IMA SHINA
+¿como?
+¿qué clase? (TI)
+IMA URA
+¿cuándo? (IL ZA TI PESA TR NI
+IMA URABISH
+a veces
+IMA URAPISH
+a veces (TR)
+IMA URAS
+¿cuándo? (IL PE SA-TR NI CS SI
+IMA URUSTA
+¿cuándo? (ZA)
+IMA YALA
+¿qué clase? (ZA)
+IMABUJ
+¿para qué? (MI CU SA)
+IMAGUTI
+¿para qué? (TI)
+IMAJ
+¿para qué? (ZA)
+IMALAYASHCA RICUNA
+probar
+IMALYA
+¿cómo? (SA)
+IMAMANTA
+¿por qué? (TR NI SI GZ)
+IMAMUNDA
+¿por qué? (MI CU TI PESA GU CS)
+IMAMUNTA
+¿por qué? (ZA)
+IMANA
+¿cómo? (MI CU TI PE}
+IMAPA
+¿para qué? (SA)
+IMAPAJ
+¿para qué? (IL TR NT es GZ SG)
+IMAPUJ
+¿para qué? (PE}
+IMARSHA
+¿por qué? (SA)
+IMASHA
+¿por qué? (SA}
+IMASHNA
+¿cómo? (IL SA)
+IMASHPA
+¿por qué? (IL)
+IMAURA
+¿cuándo? (CU GU)
+IMAURAS
+¿cuándo? (MI CU TI)
+IMAUTI
+¿para qué? (MI GU)
+IMBUDIRA
+embudo (CS)
+IMBUDU
+embudo
+IMPAÑALIS
+pañal (MI)
+IMPAÑANA
+empeñar (ZA CU GU)
+IMURA
+¿cuándo? (GZ)
+IMURAS
+¿cuándo? (GZ)
+INA
+no (IL)
+INARAJ
+todavía no (IL)-
+INBITANA
+invitar (CU SG)
+INCUNU
+pus (NI SI GZ)
+absceso
+INDI
+sol
+INDI HUAICUNA LADU
+oeste (SA)
+INDI JATARIMUNA
+oriente (IL)
+INDI LLUJSHI LADU
+sur (PE)
+INDI LLUJSHINA
+oriente (IL)
+INDI TARDI
+tarde (s.) (SA)
+INDI VIÑAI
+oriente (IL)
+INDI YAICUNA LADU
+oeste (IL GZ)
+INDIJSIUNDA CHURANA
+inyectar (CUSA GU)
+INDIJSIUNDA SATINA
+inyectar (SA)
+INDINSIUTA CHURANA
+inyectar (NI.)
+INDISIUN SATINA
+inyectar (ZA)
+INDISIUNDA CUNA
+inyectar (TI)
+INDISU CHURANA
+inyectar (MI)
+INFIRNU
+infierno (CU GU TR NI GZ)
+INFLANA
+inflar (IL)
+INGA
+inca
+idioma quichua (TI GU NI es
+INGA PARLANA
+idioma quichua (SG)
+INGA PARLU
+idioma quichua (TI SG)
+INGA SHIMI
+idioma quichua (ZA MI PESA NI
+INGAÑANA
+engañar (ZA MI CU PESA GU GZ
+INGUICHU
+idioma quichua (MI CU)
+INGUIRU
+idioma quichua (MI CU)
+INIMIGU
+enemigo (NI es GZ SG)
+INQUITANA
+engañar (SI)
+INSIAS
+encías (SLSG) ___ _
+INSARTANA
+ensartar (GZ)
+INSULTANA
+insultar (MI)
+INTI
+sol
+INTI CHAQUI
+rayo (GU)
+INTI CHINGANA LLAJTA
+oeste (SG)
+INTI HUAISHICUI LADU
+oeste (CS)
+INTI LLUJSHINA LADU
+oriente (SA GU TR)
+INTI YAICUNA LADU
+oeste (TI GU TR NI).
+INTIDA RICUNA LADU
+oeste (ZA)
+INTIN TAMIA
+lluvia con sol (CU)
+INTINADA
+entenada (NI SI GZ SG)
+INTINADU
+entenado (NI SI GZ SG)
+INTINDIJ
+sabio (PE)
+INTINDINA
+entender
+INTIRANA
+enterrar (MI CU TI)
+INTIRU
+entero (ZA MI TI SA GU TR)
+INTRIGANA
+entregar (IL MI CU TI TR es
+devolver (MI CU)
+INTRIGUNA
+entregar (GU GZ)
+INTUNSIS
+entonces (SI)
+INUSINTI
+mudo (CU GU)
+tartamudo (SI)
+INYIJSIUN CHURANA
+inyectar (SI GZ)
+IÑACHINA
+criar
+alargar
+extender,
+estirar (SA)
+IÑANA
+crecer (SA)
+IÑU
+pequeño (CS)
+IPA
+suegra (TI)
+IPIJ
+dormilón (NI)
+IQUI
+lagrima (SA)
+IQUINA
+picar (IL TR)
+IRA
+patio (CU GU)
+troje (ZA)
+manteca (SA)
+IRIDA
+herir (GZ)
+IRIJI
+salvaje (MI)
+IRMANA
+hermana (de hombre o mujer)
+IRMANU
+hermano (de hombre o mujer) (SG)
+IRNU
+yerno (SI)
+IRQUI
+débil (IL ZA PESA TR SI SG)
+delicado (GU)
+flaco (IL PESA TR SG)
+charqui (TR)
+IRU
+caña dulce (SA)
+IRUCTANA
+eructar (SI)
+ISCAI
+dos (ZA)
+ISCALIRA
+escalera
+ISCALUFRIU
+fiebre (SG)
+ISCAPANA
+escapar (NI SG)
+ISCASU
+escaso (GU)
+ISCRIBINA
+escribir
+ISCUDILLA
+tazón de barro (GU)
+ISCUN
+nueve
+ISMA
+excremento
+caca
+ISMANA
+defecar
+ISMASCANA
+defecar (SG)
+ISMASHCANA
+defecar (SG)
+ISMU
+podrido (IL)
+ISMUNA
+pudrirse
+ISMUSHCA
+podrido
+ISPADA
+espaldilla (MI)
+ISPANTU
+muy (MI)
+ISPIGA TUCUMUNA
+espigar (TI)
+ISPIGANA
+espigar (SA)
+ISPIJANA
+espigar (GU)
+ISPIJU
+transparente (SA)
+ISPIJU CUINTA
+transparente (CU GU SI GZ)
+ISPILMA
+cera (IL MI CU TI GU TR NI CS)
+vela (ZA cu PE GU TR es SG)
+ISPINAZU TULLU
+espinazo (IL)
+ISPUMA
+espuma (ZA CU TI GU TR NI)
+burbuja (MI)·
+ISQUINA
+rincon (CU NI)
+ISQUIRBINA
+escribir
+ISQUIRDA
+izquierda (MI CU)
+ISTANCU
+chichería (TR)
+ISTRILLA
+estrella
+ISHCAI
+dos
+ISHCANDI
+ambos (IL SI)
+ISHCANDIJ
+ambos (NI GZ SG)
+ISHCUNA
+desgranar
+ISHPA
+orina (IL PESA TR)
+ISHPA FURU
+vejiga (IL)
+ISHPA JURU
+vejiga (ZAf
+ISHPA P'URU
+vejiga (PESA GU TR NI GZ)
+ISHPA YACU
+orina (IL TR)
+ISHPAI YACU
+orina (ZA)
+ISHPANA
+orinar (ZA MI CU TR NI CS SI)
+ISHQUI
+dos
+ISHQUINDI
+ambos
+ISHQUINDIJ
+ambos (SA TR CS)
+ISHQUINDIN
+ambos (ZA)
+ISHTA
+completament
+enteramente
+totalmente
+todos (ZA)
+todo
+ISHTACANA
+clavar (GU)
+ISHTANCU
+chichería (IL MI CU SG)
+ISHTINCU
+chichería (CU)
+ISHTU
+sesgo (SA)
+ISHTUDA RICUJ
+bizco (SA)
+ITSA CATAJ
+luciérnaga (ZA)
+IZI
+sarna (PESA GU)
+lobo (GU)
+IZISHCA
+herida (CU GU)
+IZUPU
+crespo (SA)
+JA NINA
+bostezar (PE)
+JABAS
+haba (IL TR es GZ)
+JABUS
+haba (ZA MI CU TI PESA GU)
+JACA
+peña (IL ZA PE)
+quebrada (PE)
+JACU
+vámonos (entre dos)
+harina
+máchica (IL)
+JACU RISHUN
+vámonos (más de dos) (SG)
+JACUCHI
+vámonos (más de dos) # (TR CS
+JACUCHIJ
+vámonos (más de dos) (TR CS)
+JACUICHI
+vámonos (más de dos) (SG)
+JACUNA
+fregar
+sobar (IL ZA PE)
+explotar (ZA)
+flotar (ZA PE)
+JACHA
+hacha
+JACHAJ NINA
+estornudar (SI GZ)
+JACHANA
+rajar (TI)
+JACHU NINA
+estornudar (CU TI)
+JACHUN
+cuñada
+nuera (IL ZA PE)
+JAHUA
+arriba
+encima de
+JAHUA CANLLA
+afuera (MI CUJ
+JAHUA LADU
+sur (CU)
+JAHUA LUMA
+cumbre (GZ)
+JAHUA LLAJTA
+sierra (IL MI PE GU TR NI)
+sur (SI)
+JAHUA PACHA
+cielo
+JAHUA PUNGU
+afuera (TI)
+JAHUA PUNTA
+cumbre (TR)
+JAHUA SILU
+cielo (ZA)
+JAHUACHINA
+alzar (SI)
+JAHUADA ANCHUCHINA
+desherbar (ZA)
+JAHUALA
+suave (TR)
+JAHUALAYACHINA
+suavizar
+ablandarse (TR)
+JAHUALLA
+facil (TI SA TR es SG)
+suave (CU PESA NI CS)
+frágil (SA CS)
+delicado (PESA)
+liviano (PE)
+tranquilo (CUSA)
+despacio (SA)
+falso (PE)
+JAHUALLA P'AQUINALLA
+frágil (PE)
+JAHUALLA TUCUNA
+ablandarse (SA)
+JAHUALLAYACHINA
+suavizar (PE)
+JAHUANA
+enjuagar (IL CU PESA TR NI CS
+lavar (TR NI SI GZ)
+saltar (SI)
+JAHUAYANA
+subir (IL ZA CU PESA TR SI GZ)
+JAHUAYACHINA
+alzar (SA TR)
+levantar (SA)
+JAHUINA
+batir (ZA cu PE)
+¡JAICA!
+¡toma! (IL ZA PE TR)
+¿cuándo? (SI SG)
+JAICUNA
+cansarse (ZA)
+JAICUSHCA
+cansado (ZA)
+¡JAIGA!
+¡toma! (GU)
+JAINAPU JAINANDI
+anteayer (PE)
+JAIRICHINA
+eructar
+bostezar (GZ)
+JAITANA
+patear
+JAJCHA
+pelo
+cabello (SA)
+JAJTUCU
+abuela
+abuelo (IL)
+JALADURA
+canasta (MI)
+JALINA
+rebozo (TI)
+JALMA
+aparejo (SA)
+JALMANA
+desherbar (IL)
+JALSANA
+amontonar (ZA)
+JALSU
+falso
+JALUN
+crudo (I°L)
+JALLA NINA
+bostezar (ZA)
+JALLALAN
+muela (NI)
+JALLMANA
+desherbar (ZA MI CU TI SA GU
+JALLU
+lengua (IL ZA PE)
+JAMBATU
+Ambato (IL MI CU TI PESA GU
+sapo (ZA MI TI)
+JAMBATU SUMBIRU
+sombrero (MI)
+JAMBATYU
+sapo (PE GU TR)
+JAMBATYUJ
+sapo
+JAMBI
+remedio
+medicina
+veneno
+JAMBI JIHUA
+hierba medicinal (IL SA)
+JAMBI YURA
+hierba medicinal (IL SA)
+JAMBICHINA
+curar (SI)
+JAMBIDUR
+curandero (CU PE GU TR CS SI)
+JAMBIJ
+curandero (IL MISA GZ SG)
+JAMBIJ YUMBU
+curandero (TI)
+JAMBINA
+curar
+sanar (CU TI GU SI GZ SG)
+JAMCHI
+afrecho (SI)
+heces
+JAMLLA
+desabrido (TR)
+JAMPIJ
+curandero (NI)
