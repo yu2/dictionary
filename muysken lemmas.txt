@@ -14879,10 +14879,6 @@ disfrazado (TI)
 LLUJSHINA
 salir
 derramar (GZ)
-
-
-
-
 brotar (plantas) (GZ)
 subir (TI PE)
 subida (TI CS)
@@ -14893,7 +14889,7 @@ disfrazado (IL MI PE)
 LLUJSHISHPA RINA
 abandonar (CS)
 LLULLA
-mentira # (IL)
+mentira
 falso (IL ZA MI TI TR CS SI GZ
 SG)
 LLULLAI
@@ -14905,7 +14901,6 @@ LLULLU
 tierno
 cogollo (CU)
 LLULLU CHUSPI
-LLULLU CHUSPI
 hormiga (CU)
 LULLU HUAHUA
 criatura (ZA TI SA)
@@ -14914,9 +14909,8 @@ cordero (TI)
 LLULLU MARA
 criatura (SA)
 LLULLU MUYU
-llullu huahua
 botón de planta (PESA TR)
-LLULLU QU' IHUA
+LLULLU QU'IHUA
 cogollo (CS)
 LLULLUNA
 azotar (MI)
@@ -14928,17 +14922,15 @@ LLUNCHINA
 luchar (MI)
 fregar (TI)
 LLUQUI
-izquierda# (MI)
+izquierda
 al revés (MI TI)
 LLUQUIMUN
 al revés (PE GU)
-243
 LLURU
 crespo (PE)
 LLURU LLURU
 áspero (MI)
 LLUSHCA
-LLUTANA
 resbaladizo (ZA MI CU TI GU TR)
 liso (MI CU)
 LLUSHCANA
@@ -14952,27 +14944,18 @@ LLUSHPI
 resbaladizo (MI)
 LLUSHPINA
 deslizar (IL)
-LLUSI-lPIRINA
+LLUSHPIRINA
 resbalarse (SA CS)
 LLUSHTI
 desnudo (GZ SG)
-~LUSHTINA
-pelar# (CS SI GZ)
+LLUSHTINA
+pelar
 desollar (IL GU)
-pelear Canimales) (TI)
+pelear
 LLUTANA
 pegar con goma (IL ZA MI TI SA
-GU TR es SI)
-IL - llumán, Imbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibule? San Pedro, Tun_gurahua; SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - TroJe, Ch1mborazo; NI - N1zag, Ch1mborazo; CS.
-Cachisahua, Bolívar; SI - _Sigsihuaicu, Cañar; G Z - Gullanshapa, Azua y; SG - Saraguro, Loja.
-(+)Señala que en la zona especificada se usa otra forma además de la primera palabra quichua.
-( - ) Señala que en la zona especificada no se usa la primera palabra qmchua.
-LLUTARINA
 LLUTARINA
 flotar (SI)
-M
 MACA MACAGUNA
 encías (GU)
 MACAI
@@ -14982,12 +14965,14 @@ pegar con golpes
 golpear {IL ZA MI GU TR SI SG)
 castigar (IL)
 MACANACUNA
-pelear I (IL SA)
+pelear
 luchar (ZA TR NI es SI GZ SG)
 MACANAJUNA
-pelear, luchar (IL)
+pelear
+luchar (IL)
 MACANUCUNA
-pelear, luchar (SA)
+pelear
+luchar (SA)
 MACHA
 borracho (MI CU TI GU)
 chumado (MI TI GU)
@@ -14996,9 +14981,8 @@ cueva (TI SI SG)
 MACHAJ
 chumado (CU)
 MACHANA
-chumarse ,/o (ZA)
-emborracharse I (ZA PE)
-244
+chumarse
+emborracharse
 MACHARINA
 emborracharse (IL SA TR SI)
 MACHARISHCA
@@ -15006,14 +14990,507 @@ borracho (MI)
 MACHASHCA
 borracho I (CU TI SA)
 chumado (IL MI PE TR NI CS SI
-GZ SG)
 MACHCA
 máchica (PESA TR NI SI GZ)
 MACHI
 peña (CS)
 MACHICA
-máéhica (CS SG)
+máchica (CS SG)
 MACHISHCA
-churnado (SA)
+chumado (SA)
 MADIJANA
 devanar (IL)
+MADRARSHA
+madrastra (GU TI SG)
+MADRASTA
+madrastra (ZA - GZ)
+MADRI
+placenta (TI PE TR)
+MADRI UMA
+placenta (SA)
+MADRINA
+madrina de matrimonio
+MADRINAMA
+madrina de matrimonio (ZA)
+MADRUGADU
+madrugado (TI)
+MADRUGANA
+madrugar (MI CU GU NI)
+MAGMA
+tinajón o vasija grande para
+guardar agua
+MAGUMA
+tinajón o vas1Ja grande para
+guardar agua (IL)
+MAI
+¿dónde?
+MAICAMPISH
+quienquiera (SG)
+MAICAN
+¿cuál? (GZ SG)
+¿quién?
+alguien (SG)
+MAIJAN
+¿cuál? (IL PE TR NI es SI GZ)
+alguien (IL TR NI SI GZ)
+¿quién? (PE)
+MAIJAN RATU
+de repente (NI)
+MAIJANCHARI
+quienquiera (PE)
+MAIJIMBISH
+quienquiera (ZA SA GU)
+MAIJIN
+¿cuál? (MI CU TI SA GU)
+alguien (PE NI)
+¿quién? (MISA GU)
+MAIJIN GASHASH
+quienquiera (SA GU)
+MAIJUN
+¿cuál?
+alguien
+¿quién? (ZA)
+MAILLANA
+lavar
+enjuagar (ZA PE)
+cribar (SG)
+MAIM
+¿a dónde? (SG)
+MAIMA
+¿a dónde? (SI)
+MAIMAN
+¿a dónde? (SI)
+MAIMU
+¿a dónde? (MI CU TI PESA)
+MAIMUN
+¿a dónde? (ZA MI TI PESA GU TR
+C S)
+MAIRAL
+mayoral (IL SI)
+MAISTRU
+profesor (MI CU TR SI)
+MAITUNA
+envolver a un bebé
+pañal (IL GU TR CS)
+MAJADA
+abono (MI CU TI PE SA GU TR CS)
+excremento (PE TR)
+suciedad (CU)
+MAJIN
+alguien (CU)
+¿quién? (CU TI)
+MAJIN GASHASH
+quienquiera (CU)
+MAJISH
+quienquiera (TI)
+MAL CRIADU
+terco
+MALINA
+probar
+gustar
+bocado (IL)
+MALPARISIDU
+feo
+MALQUI
+tama (IL)
+retoño
+racimo (IL ZA)
+MALQUINA
+deshojar (IL)
+MALQUIRIADU
+tosco (MI)
+MALRUSTA CHARINA
+desmayarse (ZA)
+MALTA
+mediano (TI)
+MALTA HUARMI
+joven (f.) (CS)
+MALTA RUNA
+joven (m.) (CS)
+MALTAHUA
+mediano (GU)
+MALTUNLLA
+mediano (ZA)
+MALU
+malo (CU GU)
+MALU JIHUA
+maleza (ZA)
+MALUYANA
+brujear (TR)
+MALLINA
+probar (MI cu TI PE GU TR es SI)
+MALLQUINA
+plantar (SI)
+MAMA
+madre
+MAMA ALPA CUYUI
+terremoto (IL)
+MAMA CUCHA
+mar (IL TR es GZ)
+MAMA CUCHARA
+cucharón
+MAMA CHANGA
+muslo (MI TI PE GU SI GZ SG)
+MAMA DIDU
+pulgar
+MAMA GANDI
+abuela (SG)
+MAMA JUCHARA
+cucharón (PE)
+MAMA MADRI
+placenta (TR)
+MAMA PUZUN
+estómago (SA)
+MAMA QUIRU
+muela (IL)
+MAN
+no (SG)
+MAN ALLI CU1DANA
+descuidar (SG)
+MAN ALLICHISHCA
+sin sal (SI)
+MAN PARLA
+mudo (SG)
+MAN UYAN MAN PARLAN MUDU
+tartamudo (SG)
+MAN VALIJ
+malo (SG)
+MAN VALIJ QU'IHUA
+maleza (SG)
+MANA
+no
+MANA ALLI
+malo (ZA MI CU PE TR)
+MANA ALLI QU'IHUA
+maleza (TR NI SI GZ)
+MANA ALLI RIMAJ
+tartamudo (TR)
+MANA ALLICHISHCA
+desabrido (SI)
+MANA ALLILLU CUIDANA
+descuidar (TI)
+MANA BALI
+flojo (IL TR SI)
+MANA CACHARINA
+detener (PE)
+MANA CAZUJ
+terco (CUSA)
+MANA CUIDARANA
+descuidar (MI)
+MANA CHARIJ
+pobre (TI SA)
+MANA IGUAL
+desigual (NI)
+distinto
+diferente (GZ)
+MANA INTINDIJ
+terco (CUSA)
+MANA JAHUALLA
+difícil (TR)
+MANA LLASHAJ
+liviano (IL)
+MANA PI
+nadie
+MANA PUDINACHU
+difícil (ZA)
+MANA P'ASIL
+difícil (MI CU GZ)
+MANA P'UCUNA
+sofocar (NI)
+MANA RICUJ
+ciego (SI)
+MANA RICURINA
+desaparecer (TI SI SG)
+MANA RIJSISHCA
+extraño (SA TR NI es SG)
+MANA RIQUI PUDIJ
+ciego (SA)
+MANA SAMI CACHANA
+sofocar (ZA)
+MANA SIRTU
+falso (TR)
+MANA SHUTICHISHCA JINTI
+pagano (CU)
+MANA USHAIPAJ
+difícil (IL)
+MANA USHANALLA
+difícil (IL)
+MANA UYAJ
+sordo (IL ZA CUSA TR)
+tartamudo (TR)
+MANA VALIJ JIHUA
+maleza (IL PE)
+MANA VALIJ QU'IHUA
+maleza (CU)
+MANADA
+hato (SI GZ SG)
+MANARAJ
+todavía no (IL TR NI es SI GZ
+MANARI
+todavía no (MI CU TI)
+MANARIJ
+todavía no
+MANARUJ
+todavía no (ZA)
+MANCHACHINA
+espantar
+MANCHAI
+miedo
+susto
+MANCHANA
+temer
+susto
+obedecer
+MANCHANI
+fuerte
+muy (MI)
+MANCHANI YACU
+mar (SA)
+MANCHARI
+susto (MI CU)
+MANCHARINA
+asustarse
+susto
+MANCHARISHCA
+susto
+MANCHI
+susto (SA GU)
+miedo (ZA)
+MANDA
+cama (IL PE)
+MANDANA
+convencer (ZA)
+MANGA
+olla (en general)·
+MANLLAI
+susto
+miedo
+MANLLANA
+temer
+MANLLANAI
+miedo (TI PE)
+MANLLARINA
+asustarse
+espantar (IL)
+MANLLI
+miedo (MI CUSA GU)
+MANSANA
+domesticar (TR NI CS)
+MANSAYACHINA
+domesticar (IL SI)
+MANSU TUCUNA
+domesticar (SG)
+MANSUNA
+domesticar
+MANSUYACHINA
+domesticar (ZA CU TI PESA)
+amortiguar (SA)
+MANTA
+rebozo
+cama
+MANTA
+en vez de (SG)
+MANTANA
+envolver
+cobija (TI)
+MANTICA
+manteca (SG)
+MANTININA
+sostener (IL)
+MANUJU
+manojo (CU)
+MANYA
+borde (IL MISA GlJ TR NI _SI_
+orilla (IL MI PESA TR CS)
+MANYALLA
+cerca (GU)
+MANZANA
+manzana
+MAÑACHINA
+prestar
+MAÑANA
+pedir
+rogar (IL MI CU TI _SA GU TR NI
+MAPA
+sucio
+suciedad
+basura (IL TR NI SI GZ SG)
+turbio (MI)
+MAPA QU'IHUA
+maleza (SA)
+MAPA YACU
+turbio (CS)
+MAPACHISHCA
+manchado (TR)
+MAPALA
+manchado (ZA)
+MAPALLA
+turbio (IL)
+MAPALLA ASUA
+heces (de chicha) (SA)
+MAPAYASHCA
+manchado (PESA GU es SG SI)
+turbio (SI)
+MAQUI
+mano
+manojo (SA)
+MAQUI ARU
+manilla
+MAQUI CUDU
+codo (MI TR CS SG)
+MAQUI CHUZU JUNDA
+manojo (TI)
+MAQUI HUALLCA
+manilla (NI)
+MAQUI HUAÑUI
+calambre (CU)
+MAQUI HUAÑUSHCA
+calambre (PESA)
+MAQUI HUATANA
+manilla (IL ZA PESA GU TR)
+MAQUI JUNDA
+puñado (IL ZA CU TR NI SI GZ
+manojo (IL ZA TI GU SG)
+MAQUI LUTSUN
+puñado (PE CS)
+MAQUI MANILLA
+manilla (MI CU TI PESA TR SI
+MAQUI MUCU
+muñeca (IL ZA MI PESA TR es
+codo (MI CU PE GZ SG)
+MAQUI MUDU
+codo (CS}
+MAQUI NUDU
+muñeca (SI)
+MAQUI PAMBA
+palma (de la mano) (IL ZA CU TI
+MAQUI PIGTUNA
+puño (SI)
+MAQUI PLANA
+palma (de la mano) (CS}
+MAQUI PLANTA
+palma (de la mano) (IL CS)
+MAQUI PLANTAS
+palma (de la mano) (MI)
+MAQUI SHUNGU
+palma (de la mano) i (IL ZA MI)
+MAQUI TABLA
+palma (de la mano) (IL)
+MAQUI TALUN
+codo (ZA TI PESA)
+MAQUI UPAYASHCA
+calambre (GU)
+MAQUILLA
+puñado ( IL)
+MAQUITA CURPASHCA
+puño (PE Gil)
+MAQUITI
+puño (ZA)
+MAR
+mar (MI CU SA NI)
+MARA
+niño
+joven (m.) (SA)
+MARAU MARAU NINA
+ronronear (TR)
+MARCAI
+racimo (CS)
+MARCAJ
+padrino de bautizo (MI CU)
+MARCAJ MAMA
+madrina de bautizo (IL TI PE
+MARCAJ TAITA
+padrino de bautizo (IL ZA PE
+MARCAJ YAYA
+padrino de bautizo (TI TR CS)
+MARCANA
+llevar en brazos
+alzar (ZA CU TI PE GU)
+nombrar (IL ZA)
+MARQUI UMA
+desgreñado (TI)
+MARQUIJ MAMA
+madrina de bautizo (SA)
+MARQUIJ TAITA
+padrino de bautizo (SA)
+MARQUIJ YAYA
+padrino de bautizo (SA)
+MASANA
+sobar (CU GU)
+MASCA
+máchica (ZA)
+MASCANA
+buscar (IL ZA MI CU TI GU)
+MASHA
+cuñado
+yerno
+cuñada (SI)
+MASHCA
+máchica (ZA MI CU TI GU)
+chumado
+borracho (MI)
+MASHCANA
+buscar (PESA TR NI es SI GZ
+rebuscar (PESA TR NI CS)
+MASHNA
+¿cuánto?
+MASHU
+murciélago (NI SI GZ SG)
+MATASHCA
+coágulo (TI)
+MATI
+pilche
+calabaza (SI)
+MATSAI
+cueva (TI)
+MATSI
+peña (CU)
+cueva (TI)
+MATSU
+música (TI)
+MAUCA
+viejo (de cosas, ropa) #- (ZA SA -NI)
+vieja
+MAUGA
+viejo
+MAYA
+lado
+al lado de
+borde
+MAYORAL
+mayoral (GZ SG)
+MAYURDUMU
+mayoral (ZA TI SA)
+MAZAMURA
+sopa (GU SG)
+MAZAMURRA
+mazamorra
+colada
+MICUCHINA
+dar de comer (PE)
+MICUI
+sopa (NI)
+MICUNA
+comer
+comida
+rumiar (NI)
+sopa (TR CS)
+MICHA
+luz (IL MI TI PE NI GZ)
+MICHI
+pasto (MI CU TI)
+MICHI PAMBA
+potrero (TR)
+MICHICUI
+pasto (SI)
+MICHIDURA
+pastora
+MICHIJ
+pastora
+MICHILUN
+pastora
+MICHINA
+pastar
+pasto (ZA MISA)
+MIDIDA
+medida
