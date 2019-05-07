@@ -14158,13 +14158,9 @@ JINTIL
 pagano (SG)
 JIÑA
 moco (ZA)
-
-
-
-
 JIPA
-después, menor (adj.) (IL PE
-NI)
+después
+menor
 siguiente (IL PE)
 detrás de (IL NI)
 último (IL)
@@ -14172,17 +14168,10 @@ JIPA HUAUQUI
 hermano menor (IL ZA PE NI)
 JIPAYACHINA
 detener (IL)
-IL - llumán, lmbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua; SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - Troje, Chimborazo; NI - Nizag, Chimborazo; CS -
-Cachisahua, Bolívar; SI - Sigsihuaicu, Cqñar; GZ - Gullanshapa, Azuay; SG - Saraguro, Laja.
-( +) Señala que en la zona especificada se usa otra forma además de la primera palabra quichua.
-( - ) Señala que en la zona especificada no se usa la primera palabra qmchua.
-JIPAYANA
 JIPAYANA
 atrasarse (IL ZA PE CS)
 demorar (ZA)
-JI RANA
+JIRANA
 girar (SG)
 JIRGA
 poncho (IL)
@@ -14206,10 +14195,12 @@ arisco (TI)
 JUACHAGYANA
 mojar (TR)
 JUACHAJ
-húmedo, mojado (TR)
+húmedo
+mojado (TR)
 JUAJCHA
-cabello, pelo (de cnbeza) (SA)
-230 JUCHA GANA
+cabello
+pelo
+JUCHA GANA
 JUASIL
 facil (SA NI SI)
 JUBIN
@@ -14218,7 +14209,6 @@ JUCU
 húmedo (ZA MI TR GZ)
 JUCUCHINA
 remojar (PE GU TR NI es SI GZ
-SG)
 mojar (MI)
 absorber (SI)
 JUCUNA
@@ -14228,7 +14218,7 @@ carrizo (MI)
 JUCHACHI
 culpa (IL)
 JUCHACHINA
-culpar f (NI SI SG)
+culpar
 JUCHADA URANA
 pegar (ZA)
 JUCUSHCA
@@ -14242,17 +14232,17 @@ culpa (PESA TR es SI GZ)
 JUCHA GANA
 pegar (TI)
 JUCHA RURANA
-JUCHA RURANA
 pegar (IL GU)
 JUCHA TUCUNA
 pegar (ZA PE)
 JUCHANA
 pegar (SA TR NI es SI GZ)
-JU CHA YANA
+JUCHAYANA
 pegar (SG)
 JUCHI
 chancho (IL PE)
 puerco (PE)
+JUCHU
 rincon (IL ZA PE)
 cerca (PE)
 JUCHULLA
@@ -14260,12 +14250,12 @@ cerca (PE)
 JUCHUNA
 perder (IL)
 JUDAS
-diablo, demonio (SI)
+diablo
+demonio (SI)
 JUHUALLA
 suave (MI)
 JUHUILA
 elegante (ZA)
-231
 JUILA
 bonito (ZA)
 JUIN
@@ -14274,16 +14264,15 @@ JUIN ALAJA
 elegante (SI)
 JUIN ALLI
 completamente (SI)
-JUIN NUTU
+JUIN ÑUTU
 diminuto (SI)
 JUIN RUPAI TIYANA
 hacer calor (SI)
-JU!NUTITU
+JUIÑUTITU
 suave (SI)
 JUIRA
 fuera de (SG)
 afuera (MI)
-JUIRTI TAMIA
 extraño (SI)-~---~~~---·~~~~
 JUIRSA
 músculo (ZA MI)
@@ -14294,25 +14283,18 @@ JUIRSTI JUIRSTI
 burbuja (IL)
 JUIRTI TAMIA
 invierno (MI)
-IL - llumán, Imbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tun_gurahua; SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - TroJe, Ch1mborazo; NI - N1zag, Ch1mborazo; CS -
-Cachisahua, Bolívar; SI - Sigsihuaicu, Cañar; GZ - Gullanshapa, Azuay; SG - Saraguro, LoJa.
-( +) Señala que en la zona especificada se usa otra forma además de la primera palabra quichua.
-( - ) Señala que en la zona especific¡,da no se usa la primera palabra quichua.
----J\-/IR-ZA- -------------,-2-32- --------..:.__ _JUR_JH_C,A~ ¡!f _ _J_U _RQ_U_I_T_A_ ___________2~ 3_3 _~ _________L_ A_BR_A_N_A_ _
-JUIRZA JUNDANA JUYAIPAJ
-fuerza# (IL TI PE) llenar (IL ZA MI TR) pobre (IL)
+JUIRZA
+fuerza
 JUISHTA
 fiesta (SG)
 JUJTU
 cueva (TR)
-JULLUQUIRISHA HUANUNA
+JULLUQUIRISHA HUAÑUNA
 ahogarse (TI)
 JUMBAJ
 lombriz (PE)
 JUMBI
-sudor# (TI GU ~I)
+sudor
 JUMBICHINA
 sofocar (IL)
 JUMBINA
@@ -14326,16 +14308,18 @@ JUMILDI
 humilde (IL CU TR)
 JUNDA
 lleno
-en tero (MI CU)
+entero (MI CU)
 fondo (SI)
 JUNDACHINA
-llenar f- (ZA)
-inflar (IL TR)
+llenar
+inflar
+JUNDANA
+llenar
 JUNDASHCA
 lleno (IL)
 JUNDU
-profundo f- (PESA)
-hondo # (ZA SG)
+profundo
+hondo
 JUNDU UCU
 hueco (TI)
 JUNDU YACU
@@ -14344,14 +14328,14 @@ JUNTANA
 unir (MI SG)
 juntar (SG)
 JUNTASHCA
-coyuntura- -(SG)- ---- ---- -------
+coyuntura
 JUNTU
-_ grup_o_(§_2: ) ________ _
-JUNA
+grupo
+JUÑA
 moco (IL PE)
 JUPA
 basura (ZA PE)
-paja (de cebada) (IL)
+paja
 abono (PE)
 JURCA
 horqueta (GZ)
@@ -14359,12 +14343,11 @@ JURCUN
 horqueta (MI)
 JURMIGA
 hormiga (SA)
-1
 JURQUITA
 horqueta (CU PESA GU TR)
 JURU
 gusano (IL CU PE)
-mufion (ZA)
+muñon (ZA)
 JURULA
 corto (ZA)
 JURZA
@@ -14378,7 +14361,7 @@ hueco (TR NI SI GZ SG)
 cueva (TR NI GZ)
 JUTCUNA
 perforar (NI SI GZ SG)
-JUTCURISHCA -
+JUTCURISHCA
 poroso (NI SI GZ SG)
 JUTYUQUIRINA
 ablandarse (SA)
@@ -14387,21 +14370,23 @@ acariciar (IL ZA)
 JUYAI
 amor (IL)
 JUYAILLA
-bonito, elegante (IL)
+bonito
+elegante (IL)
+JUYAIPAJ
+pobre
 JUYANA
-amar, amor (IL ZA PE)
+amar
+amor (IL ZA PE)
 acariciar (IL)
 JUYANAYAI
 amable (IL)
 JUYASHCA
 amable (PE)
 LA CHURI
-L
 entenado (IL TR)
 LA HUAHUA
 entenado
 LA MAMA
-(IL TR)
 madrastra (IL TR NI)
 LA TAITA
 padrastro (IL)
@@ -14413,24 +14398,16 @@ LABRANA
 tallar (MI cu TR es SG)
 pulir (MI)
 cuadrar (GU)
-IL - !lumán, Imbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - C~ibule? San Pedro, Tun_gurahua; SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - TroJe, Ch1mborazo; NI - N1zag, Chtmb?razo; CS -
-Cachisahua, Bolívar; SI - Sigsihuaicu, Cañar; GZ - Gullanshapa1 Azuay; _SG - Saraguro, LoJa.
-(+)Señala que en la zona especificada se usa otra forma ademas de la pnmera palabra qmchua.
-( - ) Señala que en la zona especificada no se usa la primera palabra qmchua.
-LABUDO SATINA
 LABUDO SATINA
 clavar (SA)
 LADIRA
 cuesta (IL)
 LADRANA
 ladrar (ZA GU TR NI es SI GZ
-SG)
 LADRANUNA
 ladrar (TI)
 LADU
-lado, al lado de
+lado
 borde (GZ)
 cerca (MI)
 lugar (CS)
@@ -14438,7 +14415,7 @@ LADUCHINA
 arrimar (MI)
 LADULA
 cerca (ZA)
-----LADULLA -
+LADULLA
 cerca (IL MI GZ)
 LADUMUN
 al revés (ZA)
@@ -14450,25 +14427,23 @@ LADUYASH RINA
 alargar (SG)
 LAGLA
 moco (SI)
-234
 LAICHA
 mestizo (SG)
 LAICHU
 mestizo (SG)
 LALI
-flac~, flojo (MI)
+flaco
+flojo (MI)
 LALIYACHINA
 aflojar (MI)
 LAMAR YACU
 mar (GU)
 LAMBINA
-lamer,
+lamer
 LAMPA
-LANSANAYANA
 pala (TR NI SI GZ SG)
 LANCHA
-lluvta con sol (IL PE TR NI CS
-SI GZ SG)
+lluvia con sol (IL PE TR NI CS
 llovizna (CUSA SI)
 LANDUCHINA
 suavizar (MI)
@@ -14480,7 +14455,6 @@ LANGANA
 trago (IL)
 LANSANAYANA
 tener náuseas (IL)
-LANTA
 LANTA
 planta (PESA)
 LANTANA
@@ -14494,24 +14468,24 @@ eructar (MI)
 LANZANA
 vomitar (IL ZA TR CS)
 LANZANACHINA
-tener nluseas {MI)
+tener náuseas {MI)
 LAPUGYACHINA
-mojar, remojar (SA)
+mojar
+remojar (SA)
 LAPUJ
 mojado (SA)
 LARCA
-acequia# (GZ TI)
+acequia
 zanja (MI NI CS SG)
 rio (TI)
 LARGANA
 alargar (SI)
-235 LATAHUANGU
 LARGU
 largo (IL CU PESA GU NI GZ)
 recto (CU GU)
 LARGU CAUCHU
 cuerda (PE)
-LARGU ílAN
+LARGU ÑAN
 recto (CU GU)
 LARGUYACHINA
 alargar (CU PE NI)
@@ -14533,46 +14507,37 @@ Latacunga (IL ZA TR NI SI GZ
 SG)
 LATAHUANGU
 Latacunga (MI)
-IL - IJumán, lmbabura; ZA,· Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibule? San Pedro, Tun,gurahua; SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - TroJe, Ch1mborazo; NI - N1zag, Ch1mborazo; CS -
-Cachisahua, Bolívar; SI - Sigsihuaicu, Cañar; GZ - Gullanshapa, Azuay; ~G - Saraguro, LoJa,
-( +) Señala que en la zona especificada se usa otra forma además de la primera palabra quichua,
-( - ) Señala que en la zona especificada no se usa la primera palabra quichua,
-LATAJ CHAQUI
 LATAJ CHAQUI
 descalzo (IL ZA)
 LATSAJ
 mojado (SA)
 LATU
-plato (ZA MI CU TI PESA GU TR
-CS)
+plato
 tazón de barro (ZA MI CU TI PE
-SA TR NI CS)
 LAUSA
-saliva, baba (ZA)
+saliva
+baba (ZA)
 LAUSHI
 entenada (IL)
 LAUTA
 flauta (SA)
 LAYA
 tipo
-clase ,/ (ZA)
+clase
 tamaño (TI)
-.. LAYA YAYA
+LAYA YAYA
 padrastro (SI GZ)
-LAY ACHINA
+LAYACHINA
 aplanar (SA)
 LIANA
 leer (CU)
 LIBRANA
 librar (CUSA GU NI SI SG)
 LIBRI
-completamente, enteramente
-(CU SA TR)
+completamente
+enteramente
 entero (TR)
 aparte (MI TI)
-236
 LIBRINA
 librar (IL)
 LIGAL
@@ -14588,8 +14553,8 @@ primogénito (IL SA GU)
 LIMANA
 afilar (CU GU)
 LIMPIU
-LINSHU
-completamente enteramente (MI)
+completamente
+enteramente (MI)
 claro (CS) '
 LIMPUNA
 tragar (ZA)
@@ -14600,15 +14565,14 @@ red (MI cu TI TR NI es SI GZ SG)
 LINSU
 tela (CU TR)
 LINSHU
-completamente, enteramente
-(CU SA)
------!-
-LINTRAS
+completamente
+enteramente
 LINTRAS
 liendre (GU)
 LIQUINA
-despedazar, arrancar, hender
-(IL)
+despedazar
+arrancar
+hender
 LISANA
 alisar (MI)
 LITUNA
@@ -14619,10 +14583,9 @@ LUBU
 lobo (MI TI SA SG)
 zorro (TI CS)
 LUCU
-..... ~•· loco # (IL MI)
+loco
 LUCU TUCUSHCA
 loco (IL)
-~· ~~ ----
 LUCHANA
 luchar (CU)
 LUDU
@@ -14632,9 +14595,9 @@ LUGAR
 amplio (IL TR NI es SI)
 lugar (CU TR SI GZ SG)
 país (GZ)
-LUGARY ACHINA
+LUGARYACHINA
 vaciar (IL PE TR NI)
-237 LULUNTA HUACHANA
+LULUNTA HUACHANA
 LUGRU
 sopa (PE SI GZ SG)
 LUGURYACHINA
@@ -14648,24 +14611,16 @@ moco (TI}
 LULUHUA
 huevo (MI)
 LULUN
-huevo# (SI GZ SG)
-testículo# (CS SI GZ SG)
-lulun
+huevo
+testículo
 LULUNDA HUACHANA
 poner huevos (MI CU)
 LULUNTA CHURANA
 poner huevos (CS)
 LULUNTA HUACHANA
 poner huevos (ZA)
-IL - llumán, Imbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua; SA - Salasaca,
-Tungurahua; GU - Guapante, Tungurahua; TR - Troje, Chimborazo; NI - Nizag, Chimborazo; CS -
-Cachisahua, Bolívar; SI - Sigsihuaicu, Cañar; GZ - Gullanshapa, Azuay; SG - Saraguro, Laja.
-( +) Señala que en la zona especificada se usa otra forma además de la primera palabra quichua.
-( - ) Señala que en la zona especificada no se usa la primera palabra qmchua.
 LUMA
-LUMA
-loma# (CU PE SI)
+loma
 cerro (IL MI TR).
 cuesta (CU)
 LUMA PUNDA
@@ -14676,32 +14631,31 @@ LUMBRANA
 nombrar (TI)
 LUMU
 espalda (CUSA GU G~ SG)
-· LUMU TULLU -
-espinazo (IL ZA PE GU TR NI es - . ·-- · ---- SI GZ)
+LUMU TULLU
+espinazo
 LUNA
----luna-(-IL-MI CU 'H PE SA GU)
-_-__-_.L_ :_N_~,-~-a-~-~-Z_A_)_ ____ J)fü
-LUNGA. _____ _
+luna
+LUNA MAMA
+luna
+LUNGA
 soltera (ZA MI NI CS)
-~uchacha (CU NI)
-_Joven (f.) (NI)
+muchacho (CU NI)
+joven (f.) (NI)
 LUNGU
-sol tero (IL MI)
-~uchacho (IL NI)
-Joven (m.) (IL MI NI)
----- LUNGUN- --
+soltero (IL MI)
+muchacho (IL NI)
+joven
+LUNGUN
 joven (m.) (ZA)
-~LUNT-A-HUACHANA -
+LUNTA HUACHANA
 poner huevo (ZA)
-238
-L
 LUNTSA
-racimo (S~)
+racimo
 LURINTI
 oriente (ZA :rr)
 LURIPUNDIU
 floripondio (GU)
-LURIP' UNDIU
+LURIP'UNDIU
 floripondio (MI)
 LUS
 luz (CUSA GU TR GZ)
@@ -14710,3 +14664,356 @@ librar (ZA)
 LUTSAI
 manojo, puñado (TR)
 LUTU
+perdiz
+LUZIRU
+estrella
+LUZIYANA
+brillar
+aclarar
+LLABI CHURANA
+poner llave
+LLABINA
+poner llave
+LLABITA CHURANA
+poner llave
+LLACHAPA
+trapo
+andrajoso
+haraposo
+pañal
+LLAGA
+sarna
+LLAGLLANA
+tallar
+acepillar
+rallar
+cuadrar
+LLAGMA
+mentira
+LLAGMANA
+mentir
+LLAGTA
+país
+LLAGYANA
+alisar
+LLAHUANA
+lamer
+LLAJTA
+pueblo
+país
+LLAMA
+oveja
+cordero
+llamingo
+llama
+LLAMBA
+resbaladizo
+hongo
+LLAMBAYACHINA
+suavizar
+LLAMBI
+embotado
+LLAMBU
+liso
+resbaladizo
+plano
+LLAMBUCHINA
+pulir
+alisar
+aplanar
+acariciar
+LLAMBULLA
+embotado
+LLAMBUNA
+pulir
+alisar
+aplanar
+LLAMBUYACHINA
+alisar
+pulir
+LLAMBUYANA
+pulir
+deslizar
+LLAMINA
+probar
+LLAMINGU
+llamingo
+LLANCANA
+jugar
+juego
+LLANDU
+sombra
+LLANGANA
+tocar
+LLANU
+llanuru
+LLANU PAMBA
+valle
+LLANUYACHINA
+aplanar
+LLAPA SINGA
+chato
+LLAPCHINA
+aplarstar
+LLAPI SINGA
+chato
+LLAPICHINA
+aplastar
+LLAPINA
+aplastar
+apretar
+explotar
+LLAPIRISHCA
+chato
+LLAQUI
+pena
+triste
+LLAQUICHINA
+castigar
+LLAQUILLA
+triste
+LLAQUILLA CAUSANA
+sufrir
+LLAQUINA
+sufrir
+LLAQUIRINA
+sufrir
+LLAQUISHQUITU
+triste
+LLASHA
+pesado
+LLASHAGYANA
+pesar
+LLASHAJ
+pesado
+LLASHANA
+pesar
+LLASHIJ
+pesado
+LLATAN
+desnudo
+LLATAN CHAQUI
+descalzo
+LLATANLLA
+descalzo
+desnudo
+LLAUGANA
+humear
+LLAUSA
+baba
+saliva
+resina
+LLIBACHINA
+azotar
+LLICA
+red
+LLIGLLA
+rebozo
+LLIJCHARINA
+despertarse
+LLINLLI
+red
+LLIPANA
+brillar
+LLIQUINA
+romper
+hender
+LLIQUIRISHCA
+haraposo
+LLUCA LLUCA
+despacio
+LLUCANA
+gatear
+LLUCHAYACHINA
+pulir
+LLUCHCA
+resbaladizo
+liso
+lodo
+LLUCHA RURANA
+alisar
+LLUCHCANA
+resbalarse
+deslizar
+LLUCHCARINA
+deslizar
+LLUCHCAYACHINA
+alisar (SA)
+LLUCHGARINA
+deslizar (SI)
+LLUCHICA
+resbaladizo (SG)
+LLUCHICANA
+resbalarse (SG)
+LLUCHU
+desnudo (ZA MI CU TI GU TR NI
+pobre (IL MI CU TI PE TR)
+haraposo (SI)
+LLUCHU CHAQUI
+descalzo (IL TI TR NI CS)
+LUCHULLA
+desnudo (IL SI)
+LLUCHUNA
+pelear (animales) # (TI MI CS)
+desollar
+pelar (ZA PE es SI GZ)
+desplumar (CU PE SA)
+LLUGCHINA
+sacar (SI)
+LLUGSHINA
+salir (SI)
+LLUGU
+arado
+LLUGZI ALLPA
+arena (CU)
+LLUGZI ASHPA
+arena (MI)
+LLUJCHINA
+sacar (IL TI SA NI GZ SG)
+LLUJSHICHINA
+sacar (ZA MI CU PESA GU TR CS)
+arrancar (SA)
+desatar (GZ)
+LLUJSHICHISHCA
+disfrazado (TI)
+LLUJSHINA
+salir
+derramar (GZ)
+
+
+
+
+brotar (plantas) (GZ)
+subir (TI PE)
+subida (TI CS)
+LLUJSHIRISHCA
+disfrazado (SI)
+LLUJSHISHCA
+disfrazado (IL MI PE)
+LLUJSHISHPA RINA
+abandonar (CS)
+LLULLA
+mentira # (IL)
+falso (IL ZA MI TI TR CS SI GZ
+SG)
+LLULLAI
+mentira (IL)
+LLULLANA
+mentir
+engañar (NI)
+LLULLU
+tierno
+cogollo (CU)
+LLULLU CHUSPI
+LLULLU CHUSPI
+hormiga (CU)
+LULLU HUAHUA
+criatura (ZA TI SA)
+LLULLU LLAMA
+cordero (TI)
+LLULLU MARA
+criatura (SA)
+LLULLU MUYU
+llullu huahua
+botón de planta (PESA TR)
+LLULLU QU' IHUA
+cogollo (CS)
+LLULLUNA
+azotar (MI)
+LLUMINGU
+llamingo (SG)
+LLUMIYACHINA
+amortiguar (SA)
+LLUNCHINA
+luchar (MI)
+fregar (TI)
+LLUQUI
+izquierda# (MI)
+al revés (MI TI)
+LLUQUIMUN
+al revés (PE GU)
+243
+LLURU
+crespo (PE)
+LLURU LLURU
+áspero (MI)
+LLUSHCA
+LLUTANA
+resbaladizo (ZA MI CU TI GU TR)
+liso (MI CU)
+LLUSHCANA
+resbalarse (ZA MI CU TI GU)
+deslizar (ZA CU TI GU GZ)
+LLUSHCARINA
+deslizar (MI GZ)
+LLUSHCAYACHINA
+pulir (TI)
+LLUSHPI
+resbaladizo (MI)
+LLUSHPINA
+deslizar (IL)
+LLUSI-lPIRINA
+resbalarse (SA CS)
+LLUSHTI
+desnudo (GZ SG)
+~LUSHTINA
+pelar# (CS SI GZ)
+desollar (IL GU)
+pelear Canimales) (TI)
+LLUTANA
+pegar con goma (IL ZA MI TI SA
+GU TR es SI)
+IL - llumán, Imbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
+Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibule? San Pedro, Tun_gurahua; SA - Salasaca,
+Tungurahua; GU - Guapante, Tungurahua; TR - TroJe, Ch1mborazo; NI - N1zag, Ch1mborazo; CS.
+Cachisahua, Bolívar; SI - _Sigsihuaicu, Cañar; G Z - Gullanshapa, Azua y; SG - Saraguro, Loja.
+(+)Señala que en la zona especificada se usa otra forma además de la primera palabra quichua.
+( - ) Señala que en la zona especificada no se usa la primera palabra qmchua.
+LLUTARINA
+LLUTARINA
+flotar (SI)
+M
+MACA MACAGUNA
+encías (GU)
+MACAI
+golpe (IL TR)
+MACANA
+pegar con golpes
+golpear {IL ZA MI GU TR SI SG)
+castigar (IL)
+MACANACUNA
+pelear I (IL SA)
+luchar (ZA TR NI es SI GZ SG)
+MACANAJUNA
+pelear, luchar (IL)
+MACANUCUNA
+pelear, luchar (SA)
+MACHA
+borracho (MI CU TI GU)
+chumado (MI TI GU)
+MACHAI
+cueva (TI SI SG)
+MACHAJ
+chumado (CU)
+MACHANA
+chumarse ,/o (ZA)
+emborracharse I (ZA PE)
+244
+MACHARINA
+emborracharse (IL SA TR SI)
+MACHARISHCA
+borracho (MI)
+MACHASHCA
+borracho I (CU TI SA)
+chumado (IL MI PE TR NI CS SI
+GZ SG)
+MACHCA
+máchica (PESA TR NI SI GZ)
+MACHI
+peña (CS)
+MACHICA
+máéhica (CS SG)
+MACHISHCA
+churnado (SA)
+MADIJANA
+devanar (IL)
