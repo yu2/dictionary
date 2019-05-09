@@ -11787,7 +11787,6 @@ pata
 huella (MI TI GU)
 sed
 seco
-
 CHAQUI ARCUYASHCA
 arco
 CHAQUI CURVAS
@@ -15494,3 +15493,1292 @@ pastar
 pasto (ZA MISA)
 MIDIDA
 medida
+MIDINA
+medir
+nivelar (IL MI PE CS SI)
+MIDISHCA
+medida (TI)
+MIGLLA
+falda
+MIGLLANA
+llevar en falda o en poncho
+MIGUIYASHCA
+resina (TI)
+MIJICU
+cabuya negra (SA)
+MIJTANA
+tropezar (GU)
+MIJTINA
+tropezar (MI)
+MIJUR
+mucho (SA)
+MILGA
+pedazo de tierra (PE SG)
+surco de arado (SG)
+m11cho
+bastante (SA)
+MILIN
+pasto (GU)
+MILMA
+pelo (de animal) (IL ZA)
+vello (ZA)
+MILPADUR
+goloso (SI)
+MILPUNA
+tragar {IL ZA NI)
+MILLAI
+malo {TR NI es SI)
+feo {TR es SI GZ)
+bravo (IL SG)
+terco (IL TR NI GZ)
+MILLAI PACHA
+infierno
+MILLAI OU'IHUA
+maleza (CS)
+MILLANA
+tener náuseas (CS SG)
+odiar (SG)
+MILLANACHINA
+tener náuseas
+MILLANAI
+feo (TI NI)
+MILLANANA
+tener náuseas (SA)
+MILLANAYAI
+feo (IL)
+MILLANAYANA
+tener náuseas
+MILLANI
+feo (CU SA)
+MILLAÑACHINA
+tener náuseas (ZA)
+MILLCANA
+llevar en falda o en poncho
+MILLHUA
+pelo (de animal) (TR)
+MILLI
+demonio
+diablo (MISA)
+feo (ZA)
+MILLINA
+abortar (TI)
+MILLMA
+lana
+pelo (de animal) ,¡. (IL ZA)
+vello
+MILLMA HUANGU
+copo (SA GU)
+MILLPUNA
+tragar
+MILLUN
+millón (ZA MI TI SG)
+MILLUN PATSAJ
+millón (CU)
+MIMURIANA
+pensar (TI CU)
+MINCHA PUNLLA
+pasado mañana
+día siguiente
+MINGA
+minga
+MINGACHINA HUASI
+posada (IL ZA)
+MINGAICHINA
+encargar (GZ)
+MINGANA
+encargar
+MINGANA HUASI
+posada (SA)
+MINISTINA
+necesitar (IL ZA- SA es SI , :: .óG;
+MINISHTINA
+necesitar (MI PE GU TR NI)
+MINISHTIRINA
+necesitar (MI CU TI PE TR)
+MINZHA PUNZHA
+pasado mañana (SG)
+MIRACHINA
+aumentar (IL ZA MI TI PESA TR)
+añadir (IL ZA PE TR NI)
+alargar (IL PESA)
+extender
+estirar (CS)
+crecer (ZA)
+MIRANA
+aumentar (IL MI CU NI CS SI GZ
+crecer (IL)
+dar a luz (SA GZ)
+MIRCADU
+mercado (PE TR SI GZ)
+MIRGA
+pedazo de tierra (IL SA TR)
+mucho
+bastante (SA)
+MIRINU
+crespo (IL CU)
+MISA
+tacaño
+miserable (GZ SG)
+MTSAJ
+tacaño
+miserable (SI)
+MISANA
+mezquinar (SI GZ SG)
+impedir (GZ SG)
+MISARINA
+defender (SI GZ)
+MISCLA
+mezcla (SI GZ)
+MISI
+gato
+MISTIZU
+mestizo (IL ZA GU TR NI SI)
+MISHANA
+convencer (TI GU TR NI)
+vencer (IL PE GU)
+ganar (vencer) (MI GU)
+MISHANACUNA
+vencer (ZA TR)
+MISHI
+gato (SI GZ SG)
+MISHQUI
+dulce
+sabroso
+panela (IL MI CU PE_NI)
+MISHQUI BALUN
+abeja (IL)
+MISHQUI CHUSPI
+abeja (PE TR GZ)
+MISHQUI HUIRU
+caña dulce (TI PE CS)
+MISHQUI TULLU
+espaldilla (CU)
+MISHQUICHIJUNA
+gustar (IL)
+MISHU
+mestizo (IL)
+MITAL
+metal (CU es SG)
+MITCANA
+tropezar (TR NI CS)
+MITCARINA
+tropezar (SI GZ SG)
+MITICUCHINA
+esconder (CU GU)
+desaparecer (GZ)
+MITICUJ
+curandero (GZ)
+MITICUNA
+huir (ZA PESA TR NI es SI GZ)
+escapar (SA TR NI SG)
+esconder (TR SI SG)
+curar (GZ)
+MITICUSHPA BULANA
+huir (TR)
+MITIJUNA
+huir (MI)
+escapar (ZA TI)
+MITINA
+huir (CU GU)
+esconder (MI)
+MITSA
+tacaño
+miserable
+MITSANA
+mezquinar
+impedir (MI GU)
+defender (IL ZA CU GU TR NI)
+MITSARINA
+defender (ZA)
+MIYADU
+orina (NI SI GZ)
+MIYANA
+orinar (SI GZ)
+MUCU
+coyuntura
+nudo
+tobilla (GU)
+rodilla
+músculo (SI)
+moco (GZ SG)
+MUCU LLUJSHINA
+dislocar (TI)
+MUCU P'AQUIRINA
+dislocar (MI CU)
+MUCUNA
+mascar (IL ZA CUSA GU TR CS)
+rumiar (SA GU TR CS)
+MUCUS
+moco (CU)
+MUCUSIADU
+fétido (!IH)
+MUCHA
+beso
+MUCHAI
+beso (IL)
+MUCHANA
+besar
+beso (GU SG)
+MUCHIJU
+sombrero (IL)
+MUCHILU
+bolsa tejida (MI)
+MUCHISHCA
+muñon (IL)
+MUCHU
+sin punta (MI)
+MUCHUNA
+cortar pelo (IL)
+MUDANA
+traducir (TR)
+MUDARINA
+vestirse (CU SG)
+MUDARISHCA
+disfrazado (GU TR)
+MUDU
+mudo
+zonzo (TI TR)
+tartamudo (ZA)
+MUDU JUNTI
+pagano (TI)
+MUDUSHCA
+disfrazado (SA)
+MUDUYASHCA
+tartamudo (SI)
+MULANA
+sucio
+suciedad (TI)
+MUGLLASHCA
+manchado (TI}
+MUGMU
+boton de planta
+MUGUNA
+fiesta
+MUJTINA
+oler (ZA MI GU)
+MUJUN
+borde (CS)
+MUJUSIYASHCA
+musgo (SG)
+MULANA
+afilar
+MULATU
+mestizo (GU)
+MULINA
+rumiar (PESA)
+MULISTANA
+molestar (ZA CU TI TR SI)
+MULMURANA
+murmurana (SA)
+MULLUNA
+ensartar (SG)
+MUNAI
+deseo (IL TR NI CS GZ SG)
+voluntad (IL TR NI es SI GZ SG)
+gana (IL ZA TR GZ SG)
+MUNANA
+querer
+desear
+gustar
+deseo
+voluntad
+MUNANANA
+gustar (MI CU)
+MUNANAYAI
+gana (PE)
+MUNANAYANA
+gustar (PE)
+MUNCHI
+ave
+pájaro (CS)
+MUNDA
+en vez de (MI CUSA)
+MUNDI
+muy (MI)
+MUNDU
+país (GU)
+MUNDUN
+montón (IL)
+MUNDUNANA
+amontonar
+reunirse
+MUNDUNGU
+cabeza (MI CU TI PESA GU)
+MUNDUNGU ÑUTCU
+seso
+cerebro (SA)
+MUNI
+deseo (TI PESA)
+voluntad (ZA CU TI SA GU)
+gana (SA)
+MUNTUN
+montón (ZA MI CU TI PESA TR CS
+hato (ZA MI TI TR CS)
+grupo (TI PESA GU)
+MUNTUNA
+arrimar (MI GU) ·
+montar a caballo (NI SI GZ SG)
+MUNTUNANA
+amontonar
+reunirse (TR)
+MUÑICA
+muñeca (TI NI SG)
+MUÑQUIRA
+muñeca (GU)
+MUQUITA
+puño (GZ SG)
+MUQUITI
+puño (IL TR NI)
+MURMURANA
+murmurar (ZA MI CU TI PE GU GZ)
+MURNICUNA
+ronronear (SI)
+MURU
+moteado
+grano (SA SI)
+pepa
+botan de planta (SG)
+chocho (GZ)
+MURU-MURU
+manchado (IL)
+MURU UNGUI
+viruela (MI TI SA GU)
+MURU UNGÜI
+viruela (IL ZA CU PE TR NI es
+MURUCHU
+granizo (MI)
+MURUYASHCA
+manchado (TR)
+MUSA
+joven (f.) (ZA GU)
+MUSCUI
+sueño (IL ZA PE TR-CS)
+MUSCULU
+músculo
+MUSCUNA
+soñar
+sueño (MI cu_ TI GU)_
+MUSICA
+música (IL MI CU SG)
+MUSPA
+zonzo (IL MISA TR)
+loco (MI CUSA GU)
+MUSPA JINTI
+pagano (GU)
+MUSPALLA
+humilde (MI)
+MUSPITU
+mudo (GU)
+MUSPUNA
+soñar (ZA NI- es SG)
+MUSHU
+nuevo (SI)
+MUSHUJ
+nuevo
+MUTI
+mote
+mojado (IL)
+MUTIJINA
+oler (IL)
+MUTIQUINA
+oler (PE)
+MUTIYANA
+mojar (IL)
+MUTIYASHCA
+mojado
+húmedo (IL)
+moteado (SG)
+MUTQUINA
+oler (SA TR NI es SI GZ SG)
+MUTU
+muñan (SI GZ SG)
+sin punta (SG)
+MUTULAYASHCA
+sin punta (SI)
+MUTULU
+embotado (GZ)
+MUTUSQUINA
+roer (SA)
+MUTUSHCA
+muñan
+MUTUYANA
+mojar (TR)
+MUYA
+potrero (SA)
+MUYI
+vuelta (GU)
+MUYU
+semilla
+pepa
+botan de planta (TI NI CS)
+grano (ZA MISA TR SI GZ SG)
+fruta (IL GU)
+redondo
+círculo (MI)
+MUYUCHINA
+enrollar (IL ZA TR)
+envolver (IL)
+voltear (ZA TR SI)
+MUYUCHISHCA
+círculo
+MUYUI
+vuelta (IL ZA TR NI SI GZ)
+recodo
+curva (SG)
+círculo (SI)
+MUYUNA
+dar vueltas
+girar
+rodear
+revolverse (ZA MI TI)
+rodar (MI CU TI)
+curva (GZ)
+vuelta (SG)
+MUYUNDI
+alrededor de (IL MI CU PE SI)
+círculo (IL PE SI)
+redondo (MI)
+MUYUNDIJ
+alrededor de (SA TR NI CS GZ SG)
+círculo (SA TR NI es GZ)
+redondo (SA TR CS)
+MUYURINA
+revolverse (IL CUSA)
+MUYUSHCA
+redondo (ZA)
+círculo (IL)
+MUZA
+soltera (MI CU)
+MUZGU
+musgo (GU)
+MUZU
+soltero (ZA MI CU PESA GU TR
+joven (m.) (IL GU TR SA)
+NA
+no
+NA ALI
+malo (IL)
+NA CUZU QU'IHUA
+maleza (TI)
+NA IGUL
+desigual
+NA IGULCHU
+diferente
+NA INTINDI
+sordo
+NA MAJIN
+nadie
+NA MITSA
+generoso
+NA NISHA JARCANA
+defender (TI)
+NA PI
+nadie (IL MI)
+NA RICUNAYANA
+odiar (TI)
+NA SHUTICHISHCACHU
+pagano (ZA)
+NA TAMIA TIMPU
+verano (IL)
+NA VALINLLU
+malo (TI)
+NABUS
+nabo
+NABUSYU
+nabo (NI)
+NADANA
+nadar
+flotar
+NALLI
+malo
+MANACHINA
+doler
+lastimar
+herir
+NANAI
+dolor (IL ZA MI TR NI es SI GZ
+NANANA
+doler
+NANI
+dolor
+NAPACHA
+nunca (IL)
+NARAJ
+todavía no (IL)
+NARUJ
+todavía no (ZA)
+NASINA
+nacer (IL TI)
+NASIRIJUJ
+cogollo (TI)
+NASIRINA
+nacer (CU)
+NI IMA
+nada
+NI IMA URA
+nunca (IL ZA PE SA TR SG)
+NI IMAMANDA
+nunca
+NI JAICA
+nunca
+NI PI
+nadie
+NIBADANA
+nevar
+NIGLLANA
+llevar en falda o en poncho
+NIJTANA
+tropezar (ZA CU TI)
+NINA
+decir
+candela
+fuego
+querer
+llama (TI GZ)
+luz (ZA)
+NINA CUNYAI
+llama (TR)
+NINA C'ALLU
+llama (CS)
+NINA C'URU
+luciérnaga
+NINA JURU
+luciérnaga (IL PE)
+NINA JUTCU
+fogón (SG)
+NINA LUS
+luz (PE)
+NINA LLAMA
+llama (IL ZA CU)
+NINA LLAMARA
+llama (SA)
+NINA LLAMARADA
+llama (PE SI)
+NINA LLAMAS
+llama
+NINA MICHA
+luciérnaga (TI)
+NINA MURU
+carbón (IL ZA TR)
+NINA PACHA
+infierno (CS)
+NINA PATA
+fogón (SI)
+NITU
+NINA UCU
+cocina (cuarto) (MI)
+NISHINA
+batir
+NITA
+nieta (TI GU) _
+NITCANA
+tropezar (SA)
+NITIJANA
+tropezar (IL TR)
+NITINA
+apretar (IL SI GZ SG)
+NITU
+nieto (TI GU)
+NITUNA
+cortar pelo (SI)
+NUCA
+nuca (CU TI PE GU GZ SG)
+NUCA TULLU
+nuca (MI)
+NUCALTU
+eucalipto (GZ)
+NUGAL
+nuez (CU SI GZ)
+NUGUL
+nuez (GU)
+NUIRA
+nuera
+NUMBRANA
+nombrar (ZA CU GU NI)
+NUNCA
+nunca (ZA MI CU TI PE GU NI CS
+NURTI
+norte (CU TI PE SG)
+NUYUCHINA
+remojar (IL ZA TR CS)
+NUYUNA
+disolverse (IL ZA MI CV SG)
+NUYURINA
+disolverse (TI)
+ÑA
+ya
+luego (ZA CU)
+entonces (ZA GU)
+ÑA ALI
+sificiente (IL)
+ÑA BASHTA
+suficiente (SI)
+ÑA P'AJTA
+suficiente (CS) -
+ÑA TUCUI ALLI
+suficiente
+ÑAGCHA
+peine (SI)
+ÑAGCHANA
+peinar (SI)
+ÑAGPA
+anterior (PE)
+ÑAGPA HUAHUA
+primogénito (PE)
+ÑAGPAI
+adelante (PE)
+ÑAGPANA
+guiar (PE)
+ÑAHUAR
+sangre (ZA)
+ÑAHUI
+cara
+ojo
+mejilla (SI)
+cogollo (MI PESA GU TR NI GZ)
+boton de planta (IL Sl)
+ÑAHUI ANJIL
+pupila
+ÑAHUI ANSAYANA
+desmayarse
+ÑAHUI CHICHU
+mejilla (ZA TI SA GU TR)
+ÑAHUI HUAHUA
+primogénito (MI)
+ÑAHUI HUIJSA
+mejilla (MI CU PE)
+ÑAHUI HUILLMA
+pestaña
+ceja (TI)
+ÑAHUI ICHI
+mejilla (SA)
+ÑAHUI LULUN
+ojo {TR)
+ÑAHUI MILMA
+ceja {ZA)
+ÑAHUI MILLMA
+pestaña {CU PESA GU TR)
+ceja {MI CU ·qu TR GZ)
+ÑAHUI MURU
+pupila (SI)
+ÑAHUI PATA
+ceja (TR NI)
+frente (ZA)
+ÑAHUI PATA MILLMA
+ceja
+ÑAHUI PISTAÑA
+pestaña
+ÑAHUI PUCA PUCA
+pálido
+ÑAHUI PUCASHCA
+pálido (PE)
+NAHUI P'ARP'ARA
+pestaña
+ceja (CS)
+ÑAHUI SIJAS
+pestaña (SG)
+ÑAHUI UJA
+pestaña (NI)
+ÑAHUI UJUTI
+pestaña (MI)
+ÑAHUI UYA
+mejilla (NI GZ)
+ÑAHUICHCANA
+cegar (SA)
+ÑAHUILAN
+ojo (ZA)
+ÑAHUILUN ANJIL
+pupila (ZA)
+ÑAHUILUN MILMA
+pestaña {ZA)
+ÑAJCHA
+peine
+ÑAJCHANA
+peinar
+ÑALLA
+casi
+luego
+ÑAN
+camino
+vía
+ÑAÑA
+hermana (de mujer)
+ÑAÑA CASPI
+vara (palo) (IL)
+ÑAÑA MASHA
+cuñada (GZ)
+ÑAÑU
+delgado
+delicado (IL TR NI SG)
+ÑAPASH
+luego (IL)
+ÑAPI SINGA
+chato
+ÑATU
+chato
+ÑATU SINGA
+chato
+ÑAUBA
+anterior
+mayor
+ÑAUBANA
+adelantarse (SA)
+ÑAUBU
+delante de (SA)
+ÑAUBUQUI
+adelante (SA)
+ÑAUJPU
+delante de (PE)
+ÑAUPA
+anterior (MI CU TI GU TR NI CS
+adelante (MI TR NI CS SG)
+frente a (GZ SG)
+mayor (adj.) (TR NI GZ)
+ÑAUPA HUAUQUI
+hermano mayor
+ÑAUPAJ
+delante de (IL CU GU TR NI CS
+adelante (IL CU'GU)
+frente a (TR)
+ÑAUPAJ UMA
+frente (CS)
+ÑAUPANA
+adelantarse
+guiar (IL NI CS)
+ÑÁUPI
+adelante (TI)
+ÑAUPU
+delante de
+frente a (TI)
+mayor (adj.) (GU)
+ÑAUPUJ
+frente a (GU)
+ÑAUSA
+ciego (IL ZA SI)
+ÑAUSAYACHINA
+cegar (IL)
+ÑAVI
+cara
+ojo (IL)
+ÑAVI ANJIL
+pupila (IL)
+ÑAVI CHICHU
+mejilla (IL)
+ÑAVI LULUN
+ojo (IL)
+ÑAVI MILMA
+pestaña
+ceja (IL)
+ÑAVI PATA
+ceja (IL)
+ÑAVI SANTA LUSIYA
+pupila (IL)
+ÑAZITU
+casi (SI)
+ÑIHUI
+cogollo (SG)
+ÑITA
+nieta
+ÑITINA
+aplastar (SI SG)
+ÑITU
+nieto
+ÑUCA
+yo
+ÑUCANCHI
+nosotros (IL GZ)
+ÑUCANCHIJ
+nosotros (ZA TR NI SI SG)
+ÑUCUNCHI
+nosotros (CU GU)
+ÑUCUNCHIJ
+nosotros (TI PESA TR CS)
+ÑUGÑU
+liso (SI)
+ÑUGPA
+delante de
+anterior (SI)
+ÑUGPAI
+adelante (SI)
+ÑUGPANA
+adelantarse (SI)
+ÑUJTU
+seso (ZA MI CU TI GU)
+cerebro (ZA CU TI GU)
+ÑUJTUHUA
+cerebro (MI)
+ÑUMPA
+anterior (SI GZ)
+ÑUMPAI
+adelante (SI GZ)
+delante de (GZ)
+ÑUMPANA
+adelantarse (SI GZ)
+guiar (SI)
+ÑUNCUCHI
+nosotros (MI)
+ÑUÑU
+seno (MI CU GU CS)
+teta (11 TI GU CS)
+ÑUÑUCHINA
+mamar (CU PE GU)
+remojar (MI)
+ÑUPANA
+guiar (GZ)
+ÑUTCU
+seso (PÉ SA TR NI es SI GZ SG)
+cerebro (PE NI GZ)
+ÑUTITU
+suave (SI)
+ÑUTU
+músculo (CU PESA GU)
+delgado (SG)
+ÑUTU ALPA
+polvo (IL ZA)
+ÑUTU ALLPA
+polvo (TI TR SG)
+ÑUTU IZI
+llovizna (SI)
+ÑUTU TAMIA
+llovizna (SI)
+ÑUTUCHINA
+suavizar (SI)
+alisar (GU)
+ÑUTUHUA
+suave
+liso (GU)
+ÑUTUJU
+seso
+cerebro (IL)
+ÑUTULLA
+suave (MI CU SI)
+ÑUTURINA
+ablandarse (CS)
+ÑUTUYANA
+ablandarse (GU)
+PACA
+nido (NI)
+PACA QUIRU
+muela (PE)
+PACACUCHINA
+esconder (CU)
+PACACUNA
+escapar (CU GU)
+PACAJUNA
+huir (IL)
+escapar (MI)
+PACALA
+secretamente (ZA TR)
+PACALLA
+secretamente
+PACANA
+esconder
+huir (SG)
+PACARI
+madrugada (IL ZA TR)
+PACARIMUNA
+amanecer (GZ)
+PACARINA
+amanecer
+madrugar (Z~ MISA TR)
+permanecer .(Z,!\)
+dar a luz (ZA)
+PACAYACHINA
+esconder (SA)
+PACHA
+tiempo (SA)
+lugar (SI)
+PACHALLI
+rebozo (CS)
+PADIDINA
+sufrir (IL)
+PADISINA
+sufrir (TR NI)
+PADRINU
+padrino de bautizo (MI CU)
+PAGANA
+pagar
+PAGTA
+suficiente
+igual (SI)
+PAGTACHINA
+cumplir (SI)
+PAGTANA
+alcanzar (SI)
+PAGUI
+gracias
+PAGUI NINA
+agradecer
+PAGUIRACHU
+gracias
+PAGUIRACHU NINA
+agradecer
+PAI
+él
+ella
+PAIGUI NINA
+agradecer (PE)
+PAIS
+país (CU}_
+PAJA
+paja (de cebada)
+PAJARITU
+pájaro (GZ)
+PAJPA
+fibra de cabuya (SG)
+PAJPA CUIRDA
+cuerda (SG)
+PAJTA
+cuidado (IL ZA PE TR NI es SG)
+completamente (GZ)
+justo (SG)
+PAJTACHINA
+cumplir (IL TR NI CS)
+completar (IL GZ)
+ajustar (GZ)
+equivaler (PE)
+PAJTANA
+alcanzar
+equivaler
+PALA
+pala
+PALA TULLU
+espaldilla (CS)
+PALABRA
+palabra (CUSA GU)
+FALAGAR
+paladar (MI CU PE GU TR GZ SG)
+PALAGARA
+paladar (GZ)
+PALAGRU
+paladar (CS)
+PALAGUIR
+paladar (ZA)
+PALITA
+espaldilla (IL·TI)
+PALITILLA
+espalda (PE)
+PALTANACUNA
+alllontonar (SI)
+PALTI
+cama (SG)
+PALU
+lagartija
+PALUDISMU
+paludismo (CU)
+PALUDISMU CHUJCHU
+paludismo (GU)
+PALUTISMU
+paludismo (MI)
+PAULLAJUNA
+espigar
+rebuscar (IL)
+PALLANA
+recoger (IL ZA MI CUSA GU TR
+segar (IL CU)
+cosechar (IL)
+juntar (MI CU TI GU)
+ensartar (CU PESA GU)
+PALLCA
+horqueta (NI_SI SG)
+catapulta
+PAMBA
+suelo
+llanura
+plano
+piso
+terreno (CU GU TR)
+sementera (ZA)
+valle (SA GU)
+amplio (PE)
+PAMBA CHOLO
+mestizo (GU)
+PAMBACHINA
+nivelar (TR NI CS)
+aplanar (GZJ
+enterrar (TR)
+PAMBADA RURANA
+aplanar (TI)
+PAMBALA
+bajo (lugar) (ZA TR)
+PAMBALLA
+plano (SI GZ)
+bajo (lugar) (IL TR)
+PAMBANA
+enterrar
+cavar (MI)
+PAMBARUCU
+llanura (CU GU)
+PAMBAYACHINA
+aplanar (IL ZA MI PE TR NI SG)
+nivelar (CU TI GZ SG)
+alisar (TI PE)
+PANDA
+al revés (CU NI)
+PANDANA
+equivocarse (IL SA)
+PANDARINA
+equivocarse
+PANGA
+hoja (SG)
+PANGALLA
+liviano (SI SG)
+PANGUILA
+suave
+PANI
+hermana (de hombre)
+hermana (de mujer) (SG)
+prima (CU)
+PANI MASHA
+cuñada (GZ)
+PANILA
+panela (NI SI GZ)
+PANTA
+al revés (MI)
+PANTALUN
+pantalón (IL TI SA TR)
+PANTANA
+equivocarse (TI)
+PANTARINA
+equivocarse (ZA)
+PANZA DE BURRU
+sombrero (MI)
+PAÑU
+pañal (NI)
+PAPA
+papa
+PAPACU
+padre
+PAPASHU
+padre
+PAQUI
+pedazo
+PAQUINA
+quebrar (SI)
+PAQUIRINAILLA
+frágil (SG)
+PAQUISHCA
+pedazo (IL)
+PARALISU JAPISHCA
+paralizado (MI)
+PARAMU
+llovizna (IL ZA TI TR NI GZ)
+PARANA
+demorar (SA)
+tardar (TR)
+PARASTRU
+padrastro (MI)
+PARASHU
+padrastro (MI CU)
+PARBA
+montón (PESA SG)
+PARCA
+horqueta (I_L }_A TR)
+PARCU
+acequia (GZ)
+PARCUNA
+regar agua (NI SI)
+acequia
+PARDU
+pardo (IL PE SI)
+PARGA
+montón
+grupo (MI)
+PARGATI
+sandalia (IL ZA CU TI GU TR)
+PARGATIS
+sandalia (NI)
+PARIJACHINA
+reparar (CUSA)
+PARIJANA
+arreglar (MI CUSA)
+PARIJU
+aparejo (ZA PE TR NI es SI GZ)
+juntos (IL ZA MI CU)
+igual (IL SI)
+mediano (ZA MI CU GU)
+transparente (MI)
+PARIJUHUALLA
+mediano (TI)
+PARINA
+parir (SI)
+PARISIRINA
+parecer (TI)
+PARLANA
+contar (un cuento) F (IL)
+conversar (ZA MI CU TI PESA
+PARLANACUNA
+conversar (MI TR NI CS)
+PARLANAJUNA
+conversar (IL)
+PARLANUCUNA
+conversar (SA)
+PARLU
+idioma (ZA MI CU TI)
+palabra (TI)
+voz (SG)
+PARTINA
+dividir
+partir (IL ZA CU TR)
+separar (ZA MI CU TI)
+desunir (MI TI TR)
+PASACHINA
+traducir (ZA CU TI PE TR NI SI
+ensartar (MI NI CS)
+dislocar (GZ)
+empreñar (MI)
+PASAJ
+cien
+ciento (SI GZ)
+PASAMANU
+sendero (CU GU)
+PASANA
+pasar
+cruzar (TR NI GZ)
+vadear (TI PE TR CS)
+traducir
+suceder
+exceder (SA)
+PASCACUNA
+escampar (CS)
+PASCANA
+abrir
+desatar (IL ZA CU PESA GU TR
+zafar (TI PE SA)
+desunir (GU)
+descargar (PE CS)
+destruir (MI es GZ)
+PASCARINA
+escampar (IL TI PE SA TR NI SG)
+soltar (IL)
+PASCARISHCA TIMPU
+verano (GU)
+PASIANA
+pasear (ZA CU TI SA GU TR SG)
+PASUNA
+cruzar (TI)
+PASHI
+gracias (IL)
+PASHI NINA
+agradecer (IL)
+PATA
+pared (IL ZA MI CU PESA GU
+muro (MI TI PE GU TR)
+cerco (TR)
+adobe (ZA MI CU GU TR)
+tapia (PE GU)
+orilla (ZA MISA TR SG)
+borde (IL)
+PATA ISQUINA
+rincón (MI)
+PATA MUYUCHINA
+cercar (GU)
+PATA MUYUSHCA
+cerca (IL)
+PATA TACANA
+cercar (GU)
+PAlAI
+subida (NI)
+PATAIYANA
+subir (NI)
+PATARINA
+doblarse
+envolver
+enrollar (MI)
+PATIU
+patio (IL_PE SA_.GU GZ SG)
+PATSAJ
+cien
+ciento
+PATU
+afrecho (SG)
+PATUJIANA
+cojear (ZA)
+PATUJU
+cojo (ZA MI CU GU TR)
+PAYA
+vieja (anciana)· I (PE)
+viejo
+PAYA HUASI
+ruina (TI)
+PAYA UCUCHA
+murciélago (TICS)
+PAYUZU
+bravo (GZ)
+PAZA
+áspero (CU TI PESA GU CS)
+PAZAN
+piso (GZ)
+PI
+quién
+PI GASHASH
+quienquiera (GU)
+PIBISH
+quienquiera (MISA)
+PICANA
+picar (un insecto) (TR)
+pegar (CU)
+PICHA
+cinco (IL)
+PICHANA
+barrer (ZA TI PE GZ ·sG)
+PICHARI
+alguien (ZA GU)
+quienquiera (PE)
+PICHCA
+cinco (ZA PESA TR NI es SI GZ
+PICHI
+orina (SG)
+PICHILA
+poco
+escaso
+diminuto (TR)
+PICHILLA
+escaso (TR NI)
+diminuto (NI)
+PICHINA
+orinar (SG)
+PICHU
+pecho
+PIDASU
+pedaso (PE CS)
+PIDASUCHINA
+despedazar (GU)
+PIDASUNA
+despedazar (SA CS)
+PIGANA
+pegar
+golpear (TR)
+azotar (TR GZ)
+castigar
+PILANA
+desplumar
+desollar
+pelear
+pelar
+PILARINA
+desplumar
+PILCHI
+pilche
+PILIANA
+pelear (CU SA)
+luchar (GU)
+PILIS
+piojo del cuerpo
+PILUTARINA
+rodar (SA)
+PILLCA
+tonto (PE)
+PILLIJ
+buho (SA)
+PILLUCHINA
+envolver (IL TI PESA GU TR)
+enrollar (SA GU NI)
+devanar (SA SG)
+PILLUNA
+enrollar
+envolver (ZA cu SA TR NI es SI
+PILLUSHCA
+nudo
+PINCA
+cabuya negra
