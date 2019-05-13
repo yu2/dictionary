@@ -16782,3 +16782,551 @@ PILLUSHCA
 nudo
 PINCA
 cabuya negra
+PINCU
+cabuya blanca
+cabuya negra
+PINGA
+vergüenza
+PINGAI TUCUNA
+avergonzarse
+PINGANANA
+avergonzarse
+PINGANACHINA
+avergonzarse
+PINGANAYANA
+avergonzarse
+PINGANAYACHINA
+avergonzarse
+PINGANAYAI
+vergüenza
+PINGANAYAN
+vergüenza
+PINGANAYARINA
+avergonzarse
+PINGARINA
+avergonzarse
+PINGUI
+vergüenza
+PINGUI TUCUJ
+humilde
+PINGUI TUCUNA
+avergonzarse
+PINGULLU
+flauta
+canilla
+rodilla
+PINSAMINTU
+pensamiento
+PINSANA
+pensar
+PINSARINA
+pensamiento
+PINTANA
+tinturar
+PINGTASHCA
+manchado
+PINZHI
+regalo
+PIÑA
+tosco
+PIÑANA
+enojar
+sufrir
+PIÑARINA
+iras
+PIÑASHCA
+bravo
+tosco
+PIPASH
+alguien
+quienquiera
+PIPISH
+quienquiera
+PIPUN
+enano
+PIPURABISH
+quienquiera
+PIPURISH
+quienquiera
+PIQUI
+pulga
+PIQUI RURU
+liendre
+PIRCA
+pared
+muro
+cerco
+adobe
+tapia
+PIRCA HUICHI
+pared
+PIRCANA
+cercar
+PIRCHANA
+cardar
+PIRDINA
+perder
+PIRDIS
+perdiz
+PIRDISH GASTANA
+exceder
+PIRICU
+pericote
+PIRICUTI
+pericote
+PIRURU
+rodela
+PISCADU
+pescado
+PISTI
+gripe
+PISH
+alguien
+quienquiera
+PISHCA
+cinco
+PISHCU
+pájaro { (CS GZ SG)
+ave (IL ZA MI CU TI PESA GU
+pene
+PISHI
+poco (IL ZA)
+débil (SI)
+alguien (PE)
+PISHILLA
+escaso (GZ)
+PISHIPI
+orina
+PISHQUITU
+ave
+PITACA
+canasta
+PITAJ
+alguien (NI SI GZ)
+PITILLAHUA
+manojo (PE)
+PITU
+boton de planta (GZ)
+PIYIRU
+extraño (ZA)
+PIZANA
+pesar
+PIZI
+pescado (IL ZA GU SG)
+FLAGRAN
+paladar (NI)
+PLANANA
+aplanar (NI)
+PLANITU
+plano (GU)
+PLANTA
+planta (IL)
+PLANTA BUTINYASHCA
+cogollo (IL)
+PLANTATA TARPUNA
+trasplantar (IL TR)
+PLANU
+plano (IL)
+PLANU PAMBA
+plano (TI)
+PLANU PAMBA RURANA
+alisar (TI)
+PLANUYACHINA
+alisar (CU)
+PLANYANA
+aplanar (SI)
+PLASA
+mercado (PE GU TR NI)
+PLATU
+plato (IL NI GZ)
+tazón de barro (IL)
+PLAYA
+playa (CU GU)
+PLAYAS
+playa (SI)
+PLICHA
+catapulta
+PLITUCHINA
+insultar (IL)
+PLUJANA
+aflojar (TI PE)
+PLUJU
+flojo
+PLUMA
+pluma
+PLUMA ANCHUCHINA
+desplumar (ZA)
+PLUMU
+pardo (CU)
+gris (CU TI)
+PRIMA
+prima
+PRIMA ÑAÑA
+prima (TI TR)
+PRIMA PANI
+prima (TI TR)
+PRIMU
+primo
+PRIMU HUAUQUI
+primo (TI TR)
+PRIMU TURI
+primo (TI TR)
+PRINDA CHURANA
+empeñar (PESA)
+PRINDA SAQUINA
+empeñar (PE SG TI)
+PRINDA SAQUIRINA
+empeñar (MI)
+PRINDANA
+empeñar (IL SA TR NI CS SI)
+PRINDIDUR
+prendedor (NI}
+PRIZU JAPINA
+prender
+PRIZUCHINA
+prender (coger preso) (TR)
+PRIZUNA
+prender (coger preso) (MI GU TR
+PRUBANA
+mallina (SA TR NI SI GZ SG)
+PRUBRIYANA
+empobrecer (CS)
+PRUPIU
+dueño (IL)
+PRUSISIUNDA JAPINA
+tomar
+PUBRI
+pobre
+PUBRI PURU TUCUNA
+empobrecer (MI)
+PUBRIYANA
+empobrecer (CU TI PE NI)
+PUCA
+rojo
+colorado
+PUCA AJCHA
+rubio (MI CS)
+PlTCA QU'IHUA
+maleza (CU)
+PUCA UMA
+rubio
+PUCUCHINA
+fermentar
+PUCUNA
+vejiga
+PUCHA
+hilo (IL)
+PUCHANA
+sobrar
+hilar
+ronronear (IL)
+PUCHANA HUANGU
+copo (PE)
+PUCHANA MAITU
+copo (PE)
+PUCHCA
+hilo (PESA TR NI es SI GZ)
+fibra de cabuya
+PUCHCANA
+hilar (PESA TR NI es SI GZ)
+ronronear (PESA)
+PUCHCANA HUANGU
+rodela (SA SG)
+PUCHCANA SIJSIJ
+huso (PE SA)
+PUCHICA
+hilo (SG)
+PUCHICANA
+hilar (SG)
+PUCHU
+residuo
+PUCHUCAI
+ultimo (IL SA SG)
+PUCHUCAI HUAHUA
+último bebe (IL PE)
+PUCHUCANA
+concluir (IL SA)
+terminar (IL)
+PUCHUJ
+heces
+PUCHUQUI HUAHUA
+último bebe (SA)
+PUDACHINA
+encargar (SG)
+PUDASH SAQUINA
+encargar
+PUDINA
+poder
+PUGLLAI
+juego
+PUGLLANA
+jugar
+juego
+broma
+chiste
+PUGLLI
+juego
+PUGLLIN HUAHUA
+último bebe (MI Gil)
+PUGRA
+corredor (MI)
+PUGRI
+pobre (IL)
+PUGRIYANA
+empobrecer (IL)
+PUGRU
+hondo
+hueco
+quebrada
+PUGRU PAMBA
+plano (SI)
+PUGYU
+fuente
+PUGZIN HUAHUA
+último bebe (MI Gil)
+PUIBLU
+pueblo (lugar) (PE)
+PUISTU
+puesto (PE TR NI es GZ SG)
+PULRU
+polvo TIL ZA MI TR es SI GZ)
+PULGA
+blusa (GZ)
+PULILLANA
+pulir (CU)
+PULIYASHCA
+liso (GU)
+PULMA
+pluma (MI)·
+PULMUN
+pulmones
+PULMUNIS
+pulmones (NI)
+PULSIRA
+manilla (SG)
+PULSU
+músculo
+PULUJ
+boton de planta
+PULUNQUIRIJUN
+llama (MI)
+PULUYASHCA
+desgreñado (NI)
+PULLIRA
+falda
+PULLITU
+pollito
+PULLU
+pollito (CU TR)
+rebozo (SI)
+PUNCHA
+día
+luz
+claro
+PUNCHAMI PASANA
+pasar
+PUNCHAYACHINA
+brillar (ZA)
+PUNCHAYANA
+aclarar
+amanecer
+PUNCHIRA
+tazón de barro
+PUNCHU
+poncho
+PUNDA
+primero
+anterior
+mayor (adj.),
+punta (IL)
+PUNDA HUAHUA
+primogénito (IL)
+PUNGU
+puerta
+corredor (SI)
+frente a (ZA)
+PUNGU CHAPA
+portero (SA)
+PUNGU CUIDAJ
+portero (ZA TI PE SI GZ SG)
+PUNGU PISHAYAJ
+portero (CS)
+PUNGUCAMA
+portero (IL)
+PUNGUI
+tumor (GZ SG)
+PUNGUICHINA
+hinchar
+PUNGUILLINA
+hinchar
+PUNGUILLISHCA
+tumor (SI)
+PUNGUINA
+hinchar (TR NI es SI GZ)
+PUNLLA
+día (IL TR NI GZ)
+luz (IL)
+PUNLLALLA
+claro
+transparente (IL)
+PUNLLAYACHINA
+aclarar (el día)
+brillar (IL)
+PUNLLAYANA
+aclarar (el día) (IL GZ)
+amanecer (IL)
+PUNSANA
+pinchar
+inyectar (SG)
+PUNTA
+punta
+anterior (SG)
+mayor (adj.) (TR GZ)
+PUNTA HUAHUA
+primogénito
+PUNTA HUAUQUI
+hermano mayor
+PUNTA ILLAJ
+sin punta
+PUNTA ILLIJ
+sin punta (TI SA)
+PUNTANA
+añadir (SG)
+PUNTU
+lugar (GU)
+PUNTSU HUASI
+choza (SA)
+PUNZHA
+día (SI SG)
+claro (SG)
+PUNZHAYANA
+aclarar
+PUÑADU
+manojo (SI GZ)
+PUÑI
+sueño (SA)
+PUÑI SIQUI
+dormilón (TI SA GU)
+PUÑITI
+puño (ZA CS)
+PUÑITIS
+puño (MI CU TI)
+PUÑU
+cántaro
+PUÑUI
+sueño (CU SG)
+PUÑUI ABIRISHCA
+dormilón (TI SA GU)
+PUÑUI SIQUI
+dormi16n (IL ZA MI cu PE TR es
+PUÑUNA
+dormir
+sueño (ZA SI)
+cama (IL ZA SG)
+PUÑUNA HUASI
+posada (IL)
+PUÑUNACHINA
+bostezar
+PUPU
+ombligo
+PURA
+obscuro (SI GZ)
+
+
+
+PURGATURIU
+infierno (SI)
+PURIJ UNGUI
+gripe (TR)
+PURINA
+andar, caminar
+viajar (IL ZA MI CU TI PESA
+TR)
+pasear -1- (ZA CU TI SG)
+pulmones (MI)
+PURTI
+tamaño -1- (CU PE GU)
+PURTIRA
+madrina de matrimonio (CU)
+PURTIRU
+portero (TR NI)
+PURTIRU TAITA
+portero (CU)
+PURUN PAMBA
+llanura (CS)
+PURUN QU' IHUA
+maleza (MI)
+PURUTU
+fréjol -1- (PE)
+PUSACHINA
+encargar (SG)
+PUSAJ
+ocho.¡ (ZA)
+Puscu
+··-q~ -
+espuma (ZA PESA TR NI es SI
+GZ SG)
+burbuja (SA NI SI GZ)
+PUSCUNA
+fermentar (SA)
+PU~CUSHCA
+agrio (ZA)
+PUSIJ
+ocho (MI)
+PUSUJ
+ocho (ZA MI CU TI SA_GU)
+PUSHAMUNA
+invitar (PE SI)
+PUSHANA
+guiar -1-- (NI CS-GZ)---------
+PUSHCA
+hilo (ZA MI CU TI GU TR)
+PUSHCAINA
+urdir (MI)
+PUSHCANA
+hi+ar (ZA MI CU TI GU TR)
+ronronear--{ZA-MI--CU--GU-TR NI--------- -------
+CS GZ)----- - - -
+PUSHCANA SIJSIJ
+huso (GU)
+PUSHTU
+puesto (IL ZA MI CU TI SA GU
+SI)
+lugar (ILZA MI _TI PE~SA_ T_R)
+sementera (GU)
+IL - Ilumán, lmbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
+Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - C~ibule? San Pedro, Tun_gurahua¡ SA-- Salasaca,
+Tunzyrahua; GU - Guapante, Tungurahua; TR - TroJe, Ch1mborazo; NI - N1zag, Ch1mb?razo; CS -
+Cach1sahua, Bolívar; SI - Sigsihuaicu, Cañar; GZ - Gullanshapa, Azuay; ~G - Saraguro, Lo¡a.
+( +) Se~ala que en la zona especificada se usa otra forma además de la primera palabra quichua.
+( - ) Senala que en la zona especificada no se usa la primera palabra quichua.
+1-
+PUTAN CHUSPI
+PUTAN CHUSPI
+abeja (ZA)
+PUTIRU
+potrero (TI)
+PUTRIRU
+potrero (PE NI es SI GZ)
+PUTRIRRU
+potrero (MI CU GU TR)
+PUTRU
+potrero (IL)
+PUTU
+sin punta, embotado, tronco,
+corto (IL)
+PUTU SHUNGU
+pulmones (SG)
+PUTUYASHCA
+tronco (TR)
+PUTSA
+troje (TR)
+PUTSUJU
+espuma (IL)
+PUTSUJUNA
+fermentar (IL)
+PlJYU
+neblina (SI)
+PUZADA
+posada # (IL)
+288 p
