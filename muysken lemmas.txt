@@ -17714,10 +17714,7 @@ quijada (ZA PESA TR CS)
 mejilla (CS)
 QUIJARU
 quijada (TI)
-
-
-
-QUILCAN/\
+QUILCANA
 escribir (IL)
 QUILILICU
 gavilán
@@ -17726,12 +17723,13 @@ tapar (IL TR SI)
 QUILLA
 mes
 luna (ZA MI TR NI CS SI GZ SG)
-ocioso-, (SG)
+ocioso
 flojo (GU)
 zonzo (TI)
 QUILLAYASHCA
-ocioso, terco
-QUILLA!
+ocioso
+terco
+QUILLAI
 metal (SI)
 QUILLALUN
 ocioso (SG)
@@ -17739,18 +17737,917 @@ QUILLAN
 ocioso (SG)
 QUILLAPUDIN
 ocioso (SG)
-(PE)
-296 QUIMIRINA
 QUILLCANA
 escribir (TR es SI SG)
 tallar (TR)
 QUILLMISHCA
-carb6n (SI) ·
+carbón (SI) ·
 QUILLPANA
 tapar (PE TR)
 QUILLU
 amarillo (ZA IL MI GU TR CS GZ
-SG)
 pálido (CU GU GZ SG)
 QUILLU QUILLU NAHUI
 pálido (GUL
+QUILLULA
+turbio
+QUILLULLA
+turbio
+QUILLUYASHCA
+pálido
+QUILLUYISHCA
+pálido
+QUIMICHINA
+arrimar (SA SG)
+sostener (IL)
+detener (PE)
+QUIMINA
+arrimar (IL ZA)
+unir (IL) ______ _
+QUIMIRINA
+acercarse (IL ZA)
+cercar (ZA) · --- -
+reclinarse (SA)
+QUIMSA
+tres
+QUINDI
+picaflor
+QUINDIYANA
+encogerse (IL SA TR)
+QUINGU
+recodo
+curva
+vuelta
+sesgo
+QUINLLA
+cerco
+corral
+QUINLLA RURANA
+cercar
+QUINLLANA
+cercar
+QUINLLU
+seno
+QUINLLULU
+seno
+QUINLLULLI
+seno
+QUINRI
+recodo (ZA)
+cerca (SA)
+QUINRILLAMI GANA
+reclinarse (ZA)
+QUINSA
+tres (ZA MI CU TI SA GU CS)
+QUINTI
+calambre (ZA)
+QUINZHA
+cerco
+QUINZHANA
+cercar
+QUIPA
+después (SG)
+QUIPAYANA
+tardar
+QUIPI
+bulto
+QUIPILUMUN
+jorobado
+QUIPINA
+envolver
+cargar
+tapar
+QUIPIPACHA
+bulto
+QUIPIRINA
+dejar (IL)
+QUIPITA ANLLUCHINA
+descargar (IL)
+QUIPU
+mayoral (MI CU TR NI CS)
+QUIQUIN
+usted (IL ZA MI TR CS)
+QUIRPANA
+tapar (SI)
+QUIRU
+diente
+muela (MI-GU CS SI GZ)
+palo (MI CU TI SI)
+madera (PESA GU NI)
+árbol (IL TI NI) -
+QUIRU AICHA
+encías (IL ZA CU TR NI CS GZ)
+QUIRU CARA
+corteza (IL TI)
+QUIRU CHAQUI AICHA
+encías (SA)
+QUIRU GUINSIAGUNA
+encías (MI)
+QU IRU HUINGUIS
+encías (PE)
+QUIRU JUCHU AICHA
+encías (PE)
+QUIRU SIQUI AICHA
+encías (TI SA)
+QUISAS
+tal vez (PE)
+QUISASLLACHARI
+tal vez (ZA)
+QUISIPRA
+ceja (SI)
+QUISUSCHARI
+tal vez (CU GU)
+QUISHA
+nido (MI CU TI)
+QUISHPACHINA
+tapar (TI)
+QUISHPANA
+tapar (MI CU)
+QUISHPICHINA
+librar (PE TR)
+defender (SG)
+QUISHPINA
+librar (IL)
+QUISHPIRINA
+escapar (IL MI PE CS)
+QUISHQUI
+estrecho (ZA MI CU TI GU)
+angosto (ZA CU TI GU)
+QUISHQUIYANA
+acercarse (TI)
+QUITAJ
+fiebre (NI)
+QUITAR
+anchuchina
+quichuna (-ZA +MI -CU -PE +SA
+anlluchina (-IL)
+QUITI
+calabaza (SG)
+QUITU
+calabaza (SA NI)
+quieto (MI)
+QUITU LLAJTA LADU
+norte (SA NI SG)
+QUITU MUSU
+calabaza (MI CU TI PESA GU)
+QUIVINA
+torcer
+dislocar
+QUIYA
+pus (IL ZA PESA TR CS SI SG)
+ocioso (MI)
+QU'IHUA
+hierba
+pasto (PESA TR NI es GZ SG)
+alfalfa (CUSA GU)
+QU'IHUA PAMBA
+potrero (GU SG)
+QU'IHUADA CUCHUNA
+cortar hierba (MI GU)
+QU'IHUANA
+cortar hierba (MI CU TI SA GU
+QU'IHUATA CUCHUNA
+cortar hierba (PE TR NI CS)
+QU'IHUATA C'UCHUNA
+cortar hierba (SI)
+QU'IHUATA P'ITINA
+cortar hierba (GZ)
+QU'IHUILLA CHAHUAR
+fibra de cabuya (PE)
+QU'IHUILLA PUCHCA
+fibra de cabuya (PE)
+QU'IHUINA
+dislocar (TR es SI)
+QU'IHUIRINA
+dislocar (MI CU PE)
+QU'ILLA
+flojo (CS)
+QU'ILLU
+amarillo [PESA NI CA)
+pálido (SA)
+QU'ILLU P'IRRU
+metal (CS)
+QU'IPA
+después
+último (CU PE TR
+siguiente (TR NI
+detrás de (SA)
+menor (adj.) (MI CU
+entonces (SI)
+mayoral (TI)
+QU'IPA HUAHUA
+último bebe (CU TR NI SI GZ SC)
+QU'IPA HUAUQUI
+hermano menor (MI
+QU'IPA HUIÑAI
+menor (adj.) (SI)
+QU'IPA P'UNLLA
+día siguiente (CS)
+QU'IPAHUA
+menor (adj.) (GU)
+QU'IPAMUN
+después (MI)
+QU'IPAYANA
+atrasarse (CU SA t~U TR)
+tardar (CUSA)
+QU'IRIJ
+enano (TR)
+QU'ITA
+arisco (SA TR NI es SI GZ SG)
+QU'IYA
+maleza (CU)
+RABI
+cólera (NI)
+RABIA
+iras (SI GZ SC)
+cólera (SI GZ)
+RABIACHINA
+molestar (SI
+RABIARISHCA
+cólera (SG)
+RABU
+cola (CU
+RACU
+grueso
+gordo (IL ZA PE)
+RACU CHANGA
+muslo (IL ZA)
+músculo (IL TR)
+RACULLA
+tosco (TI)
+RAHUA
+surco de arado (TR)
+RAJANA
+rajar (ZA TR)
+hender (TR)
+RALLANA
+rallar (SI GZ SG)
+RAMA
+rama
+racimo (TR)
+RAN RURANA
+repetir (SG)
+RANA
+hacer
+construir (PE)
+concluir (ZA)
+RANDI
+en vez de (IL ZA PE TR NI CS
+RANDICHI PLASA
+mercado (SG)
+RANDICHILUN
+vendedor (SC)
+RANDINA
+comprar
+RAPADURA
+panela (ZA MI CU TI PESA GU
+RAPUSU
+zorro (GZ SG)
+lobo (CZ)
+RAQUINA
+partir (ZA TR SG)
+separar (SI SG)
+RAQUIRISH NINA
+desunir (SG)
+RAQUISHCA
+separado (SC)
+RASIMU
+racimo (MI TR NI SI GZ)
+RASIUNAL
+inteligente (CU CU)
+RASPA
+paja (de cebada) (SI)
+RASPADURA
+panela (CU CS)
+RASPANA
+rallar (TI NI)
+cardar (GZ)
+RASTRU
+huella (SC)
+RASU
+nieve
+hielo (IL PESA GU TR GZ)
+granizo (CU PE CS)
+rocío (ZA)
+RASU CHIRI CHIRI
+hielo (SG)
+RASUCUNA
+nevar (SI)
+RASUNA
+nevar
+granizar (CU TICS)
+RATA
+ucucha (SG)
+RATAJ
+rígido (SI)
+RATU
+rápido
+ligero (SA)
+luego (SA GZ)
+RATU HUAÑUNA
+desmayarse (TR)
+RATUCAMA NINA
+despedirse (GZ)
+RATUHUALLAPI
+luego (PE)
+RATUJ
+rígido (SI)
+RAUMANA
+deshojar (IL)
+RAURANA
+arder (IL ZA CUSA)
+RAYA RAYA
+delgado (TI)
+RAYU
+rayo
+relámpago (MI .es SI GZ)
+trueno (IL ZA)
+RIBAJANA
+rebajar
+RIBAMBA
+Riobamba (TI)
+RIBULCANA
+revolcar (CU GU)
+RIBUSU
+bayeta (TI)
+RIBUZU
+rebozo (IL GU)
+RICU
+rico (IL ZA MI CU TI SA)
+RICUCHINA
+mostrar
+indicar
+RICUGRINA
+visitar (MI TR)
+RICUNA
+ver
+mirar
+cuidar (IL ZA TR CS)
+RICUNACHINA
+querer (MI)
+RICURANA
+cuidar (MI GU SI)
+RICURINA
+aparecer
+asomarse
+parecer I (IL TI)
+nacer (SA)
+transparente (PE CS)
+RICURISHCA
+transparente (SG)
+RICUSH CUIDANA
+cuidar (SG)
+RID
+red (CU PE SI)
+RIDUNDU
+círculo (ZA)
+redondo (CS)
+alrededor de (TI)
+RIGALANA
+regalar (NI CS SI GZ SG)
+RIGALASHCA
+gratis (NI)
+RIGANA
+regar agua (PE TR)
+regar cosas (ZA)
+regar paja (SG)
+RIGLANA
+arreglar (SA)
+RIGRA
+brazo
+hombro (CU PE TR NI es SI SG)
+ala (SA SI)
+espaldilla (SG)
+RIGRA AICHA
+músculo (CS SG)
+RIGRA CUDU
+codo (SI)
+RIGRA JAHUA
+hombro (IL SA)
+RIGRA JUCHU
+sobaco (ZA)
+RIGRA LUMA
+hombro (ZA TI)
+RIGRA MUCU
+codo (IL GU SI)
+RIGRA PALA TULLU
+espaldilla (PE)
+RIGRA TALUN
+codo (TI)
+RIGRA TULLU
+hombro (ZA)
+RIGRA UCU
+sobaco (MI TR NI es SI GZ)
+RIGULAR
+mediano (SI)
+RIGULTANA
+eructar (CU)
+RIJCHANA
+parecer (IL TR)
+RIJCHARINA
+despertarse
+RIJSINA
+conocer
+RTJTIYACHINA
+enderezar (GZ)
+RIJTU
+derecho (dirección) (ZA CU TI
+recto (MI PESA NI es SI GZ)
+tieso (SI)
+RIJTUYACHINA
+enderezar (ZA SG)
+RILAMPA
+relámpago (GU es SG)
+rayo (CS)
+RILAMPAGU
+relámpago (CU TI PE SA NI GZ)
+rayo (CU PE GZ)
+RlLAMPAJ
+relámpago
+rayo (SI)
+RILUJ
+muñeca (CU GU)
+RIMAI
+idioma
+palahra (CS SI)
+voz (TR CS)
+RIMANA
+hablar
+decir (IL TR SG)
+contar (un cuento) (IL)
+murmurar (MI GZ)
+insultar (MI TI GU NI ~z SG)
+palabra (PE NI SI)
+RIMANDANA
+zurcir (GU)
+RIMARINA
+hablar (MI SI)
+insultar
+murmurar
+odiar (SI)
+RIMASHCA
+voz (ZA TR)
+RIMBA
+Riobamba (PESA TR NI CS)
+RIMI
+palabra (ZA)
+RIMIDANA
+remedar
+RIMIDIU
+medicina
+RIMINDANA
+remendar
+RIMULINA
+rumiar
+RIMULINU
+rimolino
+RINRIN
+oreja (SA TR)
+RINA
+ir
+viajar (GU)
+pasar (CU)
+caminar (ZA TI)
+RINGRI
+oreja {CS SI SG)
+RINGU
+cojo (CUSA CS)
+RINGU RINGULLA PURINA
+cojear
+RINGUYANA
+cojear (CS)
+RINRI
+oreja
+RINRI HUACHCA
+arete (SA)
+RINRI MANA UYA
+sordo (SI)
+RINRI URIJIS
+arete (SA)
+RINRITA UNGUSHCA
+sordo (SI)
+RIPARANA
+murmurar (IL TR NI)
+escuchar (SI)
+RIPITINA
+repetir (CU)
+RISPIRANA
+respirar (GZ SG)
+RISPUNDINA
+responder (ZA)
+RISTITUINA
+restituir (SG)
+RISURTI
+catapulta (tirador) (NI)
+RITUÑU
+retoño
+RIUBAMBA
+Riobamba
+RIUBAMBA LLAJTA LADU
+sur
+RIZANA
+leer
+RUBAMBA
+Riobamba
+RUCU
+viejo (anciano) t, (PE NI)
+mayor (adj.) (ZA CU TI SG)
+anterior (MI)
+demasiado (SA SG)
+muy (SA)
+gordo (MI)
+RUCU HUARMI
+vieja (anciana) (SG)
+RUCU HUAUQUI
+hermano mayor (IL SG)
+RUGANA
+rogar
+RUHUANA
+hacer (CS GZ SG)
+construir (SI GZ SG)
+poncho (IL ZA)
+RUIDA
+redondo (NI~sr- GZ}
+ruido
+RUM NINA
+ronronear
+RUMADIS
+gripe
+RUMADISU
+gripe
+RUMASU
+gripe
+RUMI
+piedra
+RUMI BARBA
+musgo
+RUMI BARBAS
+musgo (IL)
+RUMI BARBUS
+musgo (MI TI SA GU)
+RUMI HUICHI
+peña (TI)
+RUMI MILMA
+musgo (IL ZA)
+RUMI MILLMA
+musgo (CU SA TR).
+RUMISHNA
+duro (IL)
+RUNA
+indígena
+hombre indígena
+persona
+gente
+RUNA CHAPUSHCA
+mestizo (GZ)
+RUNA LADU
+derecha (TR)
+RUNA LLAMA
+llamingo (IL ZA Tij
+RUNA SHIMI
+idioma quichua (IL PESA TR NI)
+RUNAUN BLANCAUN CHAPURISHCA
+mestizo (TI)
+RUNCANA
+ronronear (IL ZA)
+RUNDADUR
+rondador
+RUNDU
+granizo
+nieve (MI SI)
+RUNDU URMANA
+granizar (GU)
+RUNDUNA
+granizar t, (CU TICS)
+nevar (MI)
+rondador (TR NI CS) -------
+RUNDUSHCA
+nieve (GU) .
+RUPACHINA
+quemar (IL MI TI PESA GU TR
+chamuscar (IL ZA MI NI SG)
+hacer calor (GZ)
+cocinar (TI)
+RUPAGLLA
+caliente (PE)
+RUPAGYANA
+calentarse (IL CUSA)
+RUPAI
+calor (IL MI TR es SI SG)
+sol (SI)
+RUPAI SHITANA
+hacer calor (TR)
+RUPAI TAMIA
+lluvia con sol (CS)
+RUPAJ
+caliente (IL CUSA SI GZ)
+calor (PE GZ)
+RUPAJ UNGÜI
+fiebre (PE)
+RUPANA
+arder
+quemar (IL ZA MI cu NI es SI
+hacer calor (IL ZA MI CU)
+brillar (MI CU)
+RUPARI
+fiebre (GZ)
+RUPARINA
+hacer calor (GU CS)
+RUPARISHCA
+fiebre (MI)
+RUPASH TAMIA
+lluvia con sol (SG)
+RUPI
+calor (MI CU TI SA GU)
+sol (CÚ)
+RUPI TAMIA
+lluvia con sol (SA)
+RUPI TIMPU
+verano (SA)
+RUPUGYANA
+calentarse (ZA SA)
+RUPUJ
+caliente (ZA MI TI SA)
+calor (ZA)
+RUPUYAGUNA
+hacer calor (SA)
+RURANA
+hacer
+construir (IL ZA TI PESA NI
+trabajar (ZA SA GU TR)
+tallar
+concluir (GU)
+RURANALLA
+fácil (IL SA TR SI)
+RURU
+huevo
+testículo (SI GZ SG)
+RURU SURCUNA
+castrar (SI)
+RURUTA CHURANA
+poner huevos (SI)
+RURUTA HUACHANA
+poner huevos (SI)
+RUSIU
+rocio (CU)
+RUTINA
+cortar pelo (MISA GU TR NI
+RUTUCHINA
+cortar pelo (MI CU TI PESA)
+RUTUNA
+trasquilar
+esquilar
+RUZIRU
+estrella (CS)
+RUZU
+zorro (PE)
+SABRUZU
+sabroso (MI cu SA NI es GZ SG)
+SACUDINA
+sacudir (SG)
+SACHA
+monte
+selva
+montaña
+SACHA HUAGRA
+venado (SG)
+SACHA JAMBI
+hierba medicinal (SG)
+SACHA MILLMA
+musgo
+SACHA RUNA
+salvaje (IL ZA TR SG)
+SACHA URCU
+montaña (TI es SI)
+selva (TR)
+SAFACHINA
+librar (GZ)
+SAFANA
+zafar (IL)
+SAFARINA
+escapar (IL SI GZ)
+SAGRUZU
+aspero (SG)
+SAGSANA
+hartarse (SI)
+SAHUASANA
+ahumar (GU)
+SAJHUARINA
+dar a luz (SI)
+SAJSANA
+hartarse
+SALAMANCA
+brujo (PE)
+SALBAJI
+salvaje (ZA)
+SALTANA
+brincar
+saltar
+correr (SA)
+SALLA
+falda
+SAMAI
+vapor (IL TR NI SI GZ SG)
+SAMAI JARCARINA
+sofocar (CS)
+SAMAITA AISANA
+respirar (IL TR es SI)
+SAMAITA CHURANA
+soplar (IL TR)
+SAMAITA JARCANA
+sofocar (TR)
+SAMAITA MANA CACHAI PUDINA
+sofocar (CS)
+SAMANA
+descansar
+reclinarse (PE)
+respirar (ZA SA_SG)
+SAMARINA
+descansar (TR NI CS SI GZ SG)
+SAMBA
+suave (TR)
+SAMBAYACHINA
+suavizar (TR)
+SAMBAYANA
+ablandarse (TR SI)
+SAMBU
+calabaza (CU es SG)
+SAMI
+vapor (TI PESA GU)
+aire
+SAMI CACHANA
+respirar (MI CU-~I-GU)
+SAMI JARCARINA
+sofocar (PE)
+SAMI LUJSHINA
+eructar (ZA)
+SAMI LLUJSHINA
+respirar (PE)
+SAMPI
+canilla (TR)
+SANCA
+zanja (TI SI)
+cerco (SA)
+SAMURA LADU
+oriente (SG)
+SANCANA
+cercar (SA)
+SANGA
+zanja (MI)
+SANGU
+espeso
+turbio (TI PE GU TR NI es GZ
+colada (TI PE)
+SANJA
+zanja (IL ZA MI CU PE GU TR SI)
+cerco (CU PE)
+SANJANA
+cercar (PE)
+SANJASHCA
+cerco (GU)
+SANURIA
+zanahoria
+SANUYANA
+sanar (SA TR)
+SAÑURA
+zanahoria
+SAPALLA
+viuda (IL TR NI)
+huérfano (CU TI GU)
+SAPALLU
+calabaza (CS SI)
+SAPAPICU
+oz (SG)
+SAPI
+raíz
+tronco (CU GU SI SG)
+SAPU
+sapo
+gordo (SA)
+SAQUINA
+dejar
+abandonar (TR NI SG)
+descuidar (SA)
+SAQUIRINA
+quedarse
+permanecer (MI IL TI SA TR NI
+demorar (ZA)
+descuidar (CS)
+SARA
+maíz
+SARCUS
+rubio (SG)
+SARPA
+rocio (NI)
+SARNA
+absceso (SG)
+SARSILIS
+arete (ZA)
+SARSILLU
+arete (MI TR NI es SG)
+SARSILLUS
+arete (MI TR NI es SG)
+SARSISU
+arete (TI)
+SARUBAYANA
+trillar a caballo (MI)
+SARUCHINA
+trillar a caballo (ZA GU)
+empreñar (MI)
+SARUN
+anteayer (NI)
+anterior (SA)
+tiempo (PE)
+SARUN PUNCHA
+día siguiente (ZA)
+SARUN PUNZHA
+anteayer (SG)
+SARUN P'UNLLA
+anteayer (TI)
+SARUN P'UNZHA
+pasado mañana (TI)
+SARUNA
+pisar
+empreñar (CU TI)
+SARUSHCA
+huella (ZA SA SI GZ)
+piso (SI)
+SASUNA
+flotar (GU)
+SATINA
+meter
+pegar con goma (IL ZA)
+clavar (IL)
+SAUJANA
+aflojar
+zafar (SA)
+SAUNA
+almohada
+SIBU
+cera (SA)
+SICANA
+subir (IL MI CUSA GU SG)
+montar a caballo (MI CU TI SA
+subida (SG)
+SIDASUNA
+cribar (TI)
+SIFARINU
+huérfano (MI)
+SIGANA
+segar (SA TR NI CS SI GZ SG)
+espigar (SG)
+SIGRA
+bolsa tejida (TI SA)
+red (SA)
+SIGSI
+rodela (SI)
+ciego (PESA)
+tuerto (MI GU)
+SIGUIDILLUS
+diarrea (MI)
+SIGUYACHINA
+cegar (SA SI GZ SG)
+SIJA
+ceja (SI SG)
+SIJSI
+huso (IL MI SI GZ _SG)
+rodela (GZ SG)
+SIJSI HUASI
+choza (MI CU)
+SIJSIJ
+huso (ZA CU TI TR NI CS)
+rodela (PE TR NI CS)
+SILAJ
+celoso
+SILASHCA
+celoso
+SILU
+cielo
+SILU CLARUYANA
+escampar (MISA)
+SILU P'UNLLALLA TUCUNA
+escampar (MI)
+SILUJ
+mirlo (CS)
+SILUZU
+celoso
+SILLU
+uña
+garra
+casco (de animal)
+SIMBUNA
+revolcar (SI)
+SIMINTIRA
+sementera (CU)
+SIMPRI
+siempre
+SIN ÑAJCHA
+desgreñado (MI)
+SIN ÑAHUI
+tuerto (SI)
+SINCHI
+fuerte (TR NI es SI GZ SG)
+duro (TR NI CS SI GZ SG)
+rígido (TR NI GZ SG)
+tosco (SI)
+difícil (NI es SG)
