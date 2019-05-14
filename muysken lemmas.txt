@@ -17231,21 +17231,19 @@ PUPU
 ombligo
 PURA
 obscuro (SI GZ)
-
-
-
 PURGATURIU
 infierno (SI)
-PURIJ UNGUI
+PURIJ UNGÜI
 gripe (TR)
 PURINA
-andar, caminar
+andar
+caminar
 viajar (IL ZA MI CU TI PESA
-TR)
-pasear -1- (ZA CU TI SG)
+pasear
+PURMUN
 pulmones (MI)
 PURTI
-tamaño -1- (CU PE GU)
+tamaño
 PURTIRA
 madrina de matrimonio (CU)
 PURTIRU
@@ -17254,22 +17252,20 @@ PURTIRU TAITA
 portero (CU)
 PURUN PAMBA
 llanura (CS)
-PURUN QU' IHUA
+PURUN QU'IHUA
 maleza (MI)
 PURUTU
-fréjol -1- (PE)
+fréjol
 PUSACHINA
 encargar (SG)
 PUSAJ
-ocho.¡ (ZA)
-Puscu
-··-q~ -
+ocho
+PUSCU
 espuma (ZA PESA TR NI es SI
-GZ SG)
 burbuja (SA NI SI GZ)
 PUSCUNA
 fermentar (SA)
-PU~CUSHCA
+PUSCUSHCA
 agrio (ZA)
 PUSIJ
 ocho (MI)
@@ -17278,30 +17274,20 @@ ocho (ZA MI CU TI SA_GU)
 PUSHAMUNA
 invitar (PE SI)
 PUSHANA
-guiar -1-- (NI CS-GZ)---------
+guiar
 PUSHCA
-hilo (ZA MI CU TI GU TR)
+hilo
 PUSHCAINA
 urdir (MI)
 PUSHCANA
-hi+ar (ZA MI CU TI GU TR)
-ronronear--{ZA-MI--CU--GU-TR NI--------- -------
-CS GZ)----- - - -
+hilar (ZA MI CU TI GU TR)
+ronronear
 PUSHCANA SIJSIJ
 huso (GU)
 PUSHTU
 puesto (IL ZA MI CU TI SA GU
-SI)
 lugar (ILZA MI _TI PE~SA_ T_R)
 sementera (GU)
-IL - Ilumán, lmbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - C~ibule? San Pedro, Tun_gurahua¡ SA-- Salasaca,
-Tunzyrahua; GU - Guapante, Tungurahua; TR - TroJe, Ch1mborazo; NI - N1zag, Ch1mb?razo; CS -
-Cach1sahua, Bolívar; SI - Sigsihuaicu, Cañar; GZ - Gullanshapa, Azuay; ~G - Saraguro, Lo¡a.
-( +) Se~ala que en la zona especificada se usa otra forma además de la primera palabra quichua.
-( - ) Senala que en la zona especificada no se usa la primera palabra quichua.
-1-
-PUTAN CHUSPI
 PUTAN CHUSPI
 abeja (ZA)
 PUTIRU
@@ -17313,7 +17299,9 @@ potrero (MI CU GU TR)
 PUTRU
 potrero (IL)
 PUTU
-sin punta, embotado, tronco,
+sin punta
+embotado
+tronco
 corto (IL)
 PUTU SHUNGU
 pulmones (SG)
@@ -17325,8 +17313,444 @@ PUTSUJU
 espuma (IL)
 PUTSUJUNA
 fermentar (IL)
-PlJYU
+PUYU
 neblina (SI)
 PUZADA
-posada # (IL)
-288 p
+posada
+PUZANA
+posada
+PUZU
+gris
+pardo
+PUZU BUNGA
+abeja
+PUZU-PUZU
+madrugada
+PUZUJINA
+calambre (TI)
+PUZUN
+intestinos (MI PE GU SI
+tripas (MISA)
+panza (IL ZA CU TR GZ)
+estomago (IL ZA TR)
+PUZUNGUNA
+intestinos (CU)
+PUZUQUICHINA
+amortiguar (TI)
+P'ACA
+muela (MI CU)
+P'ACHA
+pañal (CU TI)
+tela (MI)
+red (ZA)
+P'ACHACHINA
+cobijar
+P'ACHAI URA
+haraposo
+P'ACHALINA
+abrigarse
+P'ACHALLI
+bayeta
+rebozo
+P'ACHALLINA
+rebozo (MI CU TI SA TR)
+P'AGLINIJUNA
+brillar (TI)
+P'AGNA
+obscuro (TI)
+P'AGNA PUZU
+pardo (TI)
+P'AINA
+faena
+P'AJCHA
+cascada (ZA CU PESA TR CS)
+P'AJNA P'AJNA
+estrella (TI)
+P'AJTA
+cuidado (MI CU TI SA)
+tamaño (GU)
+P'AJTACHINA
+completar (SA GU)
+ajustar (MI CU TI)
+brujear (TI GU)
+P'AJTANA
+cumplir
+suficiente
+P'ALA
+afrecho (MI CU PESA GU NI CS)
+áspero (ZA)
+P'ALA NINA
+brillar (PE SA)
+P'ALAQUINA
+brillar (SA)
+P'ALDA
+falda
+P'ALTANA
+faltar (ZA MI CU TI GU NI GZ
+P'AMILIA
+familia
+P'ANGA
+hoja
+P'ANGALA
+liviano (ZA)
+ligero (CU PESA TR_NI)
+fácil (PE GU)
+flojo (PE)
+P'ANTAZMU
+demonio (TI)
+P'AQUI
+pedazo (ZA CUSA)
+P'AQUI P'AQUIDA RURANA
+despedazar (SA)
+P'AQUICHINA
+aplastar (TI)
+P'AQUIJ
+delicado (TI)
+P'AQUINA
+romper
+quebrar
+despedazar (MI CU TI PE
+destruir
+aplastar (MI)
+tallar (SI)
+frágil (ZA)
+P'AQUINALLA
+frágil (TI)
+P'AQUIRI
+frágil (GU)
+P'AQUIRIGLLA
+delicado
+frágil (SA)
+P'AQUIRINA
+hender (MI)
+frágil (SI GZ)
+P'AQUIRINALA
+frágil (TR)
+P'AQUIRINALLA
+frágil (MI CU TR NI)
+P'AQUISHA TUCUCHINA
+destruir (GU)
+P'AQUISHCA
+pedazo (MI CU GU TR)
+P'ASIL
+fácil (ZA MI CU TI GU GZ)
+P'ATAJ
+ancho (SA)
+P'ATAJ SINGA
+chato (MI)
+P'ATIGARINA
+desmayarse
+P'IACHINA
+prestar
+P'IANA
+prestar (CU PE SA)
+deber (PE)
+P'IASHCA
+deuda (PE)
+P'ICHANA
+limpiar
+escoba
+barrer
+cardar
+acepillar
+P'IDIU
+sopa (TI)
+P'ILTRACHINA
+filtrar (CU)
+P'ILU
+agudo (MI cu TI PE GU TR NI es
+orilla (CU TI PE GU TR)
+borde (ZA CU PE GU TR)
+P'ILU ILLIJ
+embotado (TI)
+P'ILLA
+catzo (NI)
+P'ILLUNA
+enrollar (CS)
+P'INTILLA
+poco (SI)
+P'INU
+agudo
+P'IÑA
+bravo
+arisco
+agudo
+malo
+iras
+enemigo
+P'IÑACHINA
+molestar (ZA PE GU TR NI es SI)
+enojar (MI CUSA TR)
+P'IÑAI
+iras (TR)
+P'IÑANA
+odiar (MI cu TR NI es GZ SG)
+enojar (PE SI)
+iras (TR NI)
+P'IÑANACUNA
+enojar (NI)
+P'IÑARINA
+enojar (PE es GZ)
+cólera (TR CS)
+P'IRIA
+mercado (ZA SI)
+P'IRU
+feo (ZA MI CU TI SA GU TR SG)
+P'IRRU
+metal (MI GZ)
+hierro (TR)
+malo (GZ)
+P'ISTA
+fiesta
+P'ISTI
+fiesta
+P'ISHA
+fiesta
+P'ISHTA
+fiesta
+P'ITI
+pedazo
+poco (ZA SA GU)
+P'ITI P'ITIDA RURANA
+despedazar (SA)
+P'ITI P'ITILLA
+escaso (MI)
+P'ITICU
+bocado (CU TI)
+P'ITICUHUALLA
+escaso (TI)
+P'ITICULLA
+poco (TI)
+P'ITIHUA
+bocado (ZA)
+P'ITIHUALLA TUCUSHCA
+escaso (CU)
+P'ITILLA
+poco (MI CU PE GU NI SI)
+escaso (MI SI)
+P'ITILLAHUA
+bocado (PE)
+P'ITINA
+cortar
+cortar pelo (ZA)
+arrancar (ZA CU TR SI GZ SG)
+romper (SA SI GZ)
+segar (PESA)
+tallar (SI)
+despedazar (ZA GZ)
+esquilar (ZA)
+P'ITINACUNA
+despedazar (SG)
+P'ITIRINA
+herir (SI)
+escampar (TI)
+P'ITYILLA
+poco (TR)
+P'LACU
+delgado (TI)
+P'LAUTA
+flauta
+P'LICHA
+catapulta
+P'LUJANA
+aflojar (ZA SA TR NI CS SG)
+P'LUJAYANA
+ablandarse (TI)
+P'LUJU
+flojo (CU TI SA NI SI SG)
+débil (CU)
+P'LUJU P'LUJU
+flojo (ZA)
+P'LUJULLA
+débil (TI) - -
+P'LUMA
+pluma (SA)
+P'LUTANA
+flotar (SI)
+P'RIJUL
+fréjol (PE)
+P'RINTI
+frente
+frente a
+P'RINTI PATA
+frente (SA)
+P'RUNZI TUCUNA
+fruncir (MI)
+P'RUTA
+fruta
+P'UCUCHINA
+fermentar (MI PE GU TR NI GZ)
+brujear (PE)
+aventador (ZA)
+P'UCUNA
+soplar
+madurar
+inflar
+fermentar (ZA CU TICS)
+abanicar (TI GZ SG)
+aventar (ZA SG)
+respirar (NI)
+prender candela (CU PE GU)
+P'UCUNGU
+buho (MISA NI CS)
+P'UCURINA
+inflar ( IL)
+P'UCUSHCA
+maduro
+agrio (MI)
+mojado (GU)
+P'UCHU
+trapo
+haraposo (TR)
+P'UGA
+rocio (CS)
+P'UGYU
+fuente (PESA)
+P'UIN
+muy (GZ)
+P'UIRA
+afuera (SG)
+extraño (GZ)
+P'UIRTI
+fuerte (TR NI)
+P'UIRZASAPA
+fuerte (GU)
+P'UNDU
+tinajón o vasija grande para
+cargar agua
+P'UNGUICHINA
+inflar (GU)
+P'UNGUINA
+hinchar (ZA MI CU TI PESA GU)
+P'UNLLA
+día (MI CU TI PESA GU CS)
+P'UNLLA PASCARINA
+escampar (CU GU)
+P'UNLLALLA
+claro (MI GU)
+luz (SA)
+P'UNLLAYACHINA
+aclarar
+P'UNLLAYANA
+aclarar
+P'UNTSU
+basura (SA)
+P'UNZU
+basura (CS)
+P'URASTIRU
+extraño (CU GU)
+huérfano (NI)
+P'URU
+vejiga (TI)
+calabaza (ZA)
+P'URUN
+vejiga (SI)
+P'UTIUNA
+remendar (SA)
+P'UTZUTZU
+rocio (TI)
+P'UTSUL NINA
+burbuja (CS)
+P'UTYU
+haraposo
+andrajoso (SA)
+P'UYU
+nube
+neblina
+P'UYU TUCURINA
+escampar (ZA)
+P'YIRU
+terco (ZA)
+P'YIRRU
+hierro (CS SI GZ SG)
+QUI
+esta
+este
+esto
+QUIBI
+aqui (TI)
+QUIBIDU LADU
+oeste (TI)
+QUICHA
+diarrea
+excremento (IL)
+QUICHA YALINA
+diarrea (IL)
+QUICHAI
+diarrea (IL)
+QUICHANA
+diarrea (CU)
+QUICHIJI
+estrecho (IL)
+QUICHIQUI
+angosto (IL)
+QUICHQUI
+estrecho (PESA TR NI CS SI GZ
+angosto (SA TR NI CS GZ SG)
+QUICHQUIYANA
+cercar (TR)
+QUICHUA
+idioma quichua (GU SI)
+QUICHUNA
+quitar
+retirar (TR)
+perder (ZA)
+explotar (GZ)
+OUICHURINA
+atrasarse (MI)
+QUIDANA
+permanecer (MI CU)
+QUIHUANA
+desherbar (CS)
+QUIHUINA
+torcer
+dislocar (ZA NI SG)
+QUIJADA
+quijada (GU NI SI GZ) _____ _
+QUIJADAS
+quijada (SG)
+QUIJADUS
+quijada (ZA PESA TR CS)
+mejilla (CS)
+QUIJARU
+quijada (TI)
+
+
+
+QUILCAN/\
+escribir (IL)
+QUILILICU
+gavilán
+QUILPANA
+tapar (IL TR SI)
+QUILLA
+mes
+luna (ZA MI TR NI CS SI GZ SG)
+ocioso-, (SG)
+flojo (GU)
+zonzo (TI)
+QUILLAYASHCA
+ocioso, terco
+QUILLA!
+metal (SI)
+QUILLALUN
+ocioso (SG)
+QUILLAN
+ocioso (SG)
+QUILLAPUDIN
+ocioso (SG)
+(PE)
+296 QUIMIRINA
+QUILLCANA
+escribir (TR es SI SG)
+tallar (TR)
+QUILLMISHCA
+carb6n (SI) ·
+QUILLPANA
+tapar (PE TR)
+QUILLU
+amarillo (ZA IL MI GU TR CS GZ
+SG)
+pálido (CU GU GZ SG)
+QUILLU QUILLU NAHUI
+pálido (GUL
