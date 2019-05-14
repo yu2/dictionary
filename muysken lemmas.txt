@@ -18651,3 +18651,773 @@ duro (TR NI CS SI GZ SG)
 rígido (TR NI GZ SG)
 tosco (SI)
 difícil (NI es SG)
+SINCHIYANA
+animarse (SI)
+SINDINA
+encender (TI)
+SINGA
+nariz
+chato (CS)
+SINGA TABLAYASHCA
+chato (ZA)
+SINGUCHINA
+tumbar (IL ZA TR)
+SINGUNA
+rodar (IL ZA PE TR NI CS SI GZ
+revolcar (IL ZA PE TR NI CS GZ)
+caerse (ZAr- ----------------------
+SINI
+zorro (TR)
+SINIDUR
+faja (SA)
+SINLLI
+tieso (TR NI GZ SG)
+valiente (SI)
+SINLLIYAJUNA
+animarse (IL)
+SINSILLU
+humilde (GU)
+SINTAL
+viga (GU)
+SINTRU
+cinturón (MI)
+SINTURA
+cinturón (SI)
+SIÑAI
+huella (CS)
+SIÑAL
+huella (GZ)
+SIÑIDUR
+cinturón (GU)
+SIÑIHUI
+ciego
+SIPARACHINA
+desunir (ZA SG)
+SIPARADU
+separado (ZA CUSA NI Sf GZ)
+aparte (ZA SA SG)
+fuera de (TI)
+SIPARANA
+separar (CUSA NI SI GZ SG)
+desunir (SI GZ)
+abandonar (CU)
+SIPILLANA
+acepillar (MI CU TI PESA GU NI
+tallar (GU)
+SIPINA
+ahorcar
+apretar (ZA SA)
+SIPIRINA
+ahorcar (CS SI GZ)
+SIPU
+arruga (IL PESA TR NI es SI
+SIPUNA
+fruncir
+SIPURINA
+arruga (ZA)
+SIPUSHCA
+arruga (SG)
+SIPUYANA
+fruncir (SI)
+SIQUI
+trasero
+fondo
+nalgas (IL ZA MI PE TR NI SI
+ano (SA GU TR NI SI)
+detrás de (PE)
+alrededor de (GU TR)
+SIQUI LADU
+al revés (SA)
+SIQUI ÑUTU
+nalgas (CUSA)
+SIQUI PATA
+nalgas (SG)
+SIQUI PUNGU
+ano (CS)
+SIQUI TULLU
+trasero (TI)
+nalgas (CU TI GU es SG)
+ano (MI CU TI)
+SIQUI UJTU
+ano (ZA)
+SIQUI UTCU
+ano (PE SA)
+SIQUI UTUJU
+ano (IL)
+SIQUIYANA
+descender (TR)
+SIQUIA
+acequia (TI)
+SIRA
+vela (IL MI NI SI GZ)
+cera (SI GZ SG)
+SIRANA
+coser
+zurcir
+remendar (IL ZA SG)
+¡SIRBI!
+¡toma! (SI)
+SIRCALA
+cerca (ZA)
+SIRCANA
+cercar (MI)
+SIRCAYANA
+acercarse (MI)
+SIRICHINA
+echar (GU)
+SIRIJUNA
+reclinarse (IL)
+SIRINA
+yacer
+SIRINU
+rocio (IL GU TR)
+SIRIRINA
+acostarse
+reclinarse (MI cu GU TR NI es
+yacer (PE SA)
+SIRIUNA
+yacer (TI)
+SIRRA
+sierra (CU SÁ S-I -GZ SG)
+SISA
+flor
+SISA TUCUNA
+botan de planta (MI)
+SISACUNA
+florecer (SG)
+SISAGUNA
+florecer (SA)
+SISAMUCUNA
+florecer (SI)
+SISANA
+florecer
+brotar (plantas) (SG)
+SISAPICA
+picaflor (SI)
+SISAYANA
+florecer (GZ)
+SISU
+sarna (TR NI GZ -SG)
+absceso (SG)
+SISUHUA
+cerebro (MI)
+SITANA
+botar
+echar (MI CU TI GU)
+abandonar (TI)
+regar cosas
+descuidar (MI)
+SITARINA
+caerse (MI CU TI)
+SITASHA RINA
+abandonar (MI GU)
+SITASHCA
+desierto (adj.) (MI TI GU)
+SITASHCA HUASI
+ruina (MI CU)
+SITIBIDAS
+sandalia (MI)
+SIYA
+liendre (SI GZ)
+SUABIDA RURANA
+suavizar (TI)
+SUBACU
+sobaco (CU TI PESA GZ)
+SUBACU UCU
+sobaco (SG)
+SUBANA
+fregar
+sobar
+SUBRA
+residuo (PE TR)
+SUBRADA
+heces (de chicha) (ZA)
+SUBRANA
+sobrar (TR SG)
+SUBRINA
+sobrina
+SUBRINA ÑAÑA
+prima (IL)
+SUBRINA PANI
+priina (IL)
+SUBRINU
+sobrino
+SUBRINU HUAUQUI
+primo (IL)
+SUBRINU TURI
+primo (IL)
+SUBRITA
+residuo (SG)
+SUCABUN
+cueva (MI ZA)
+SUCU
+rubio
+pardo
+gris
+SUCUS
+carrizo
+SUCHU
+cojo
+paralizado
+manco (MI SI SG)
+SUCHU PURINA
+cojear (CU SG)
+SUCHUNA
+cojear (IL MI SI)
+descender (ZA)
+SUCHUYANA
+cojear (ZA TR es GZ)
+SUDA
+sudor (ZA)
+SUDANA
+sudar (ZA)
+SUDASHCA
+sudor (GU)
+SUDUR
+sudor (GU)
+SUFISINTI
+suficiente (CU GU)
+SUFRINA
+sufrir (IL cu TI PE GU TR es
+SUIDRA
+suegra (IL ZA MI CU TI PESA
+SUIDRU
+suegro (IL ZA MI CU PESA TR)
+SUIGRA
+suegra (GU NI es SI GZ SG)
+SUIGRU
+suegro (Gu NI es SI GZ SG)
+SUINU
+sueño (SI)
+SUIÑUNA
+dormir (NI SI)
+soñar (CUSA)
+sueño (SI)
+SUJITANA
+sostener (SG)
+SUJSUJ
+mirlo
+SUJTA
+seis
+SULIRA
+viga (ZA SI SG)
+SULTIRA
+joven (f.) (TI PE TR SI GZ)
+soltera
+muchacha
+SULTIRU
+soltero (IL TI TR NÍ SI GZ SG)
+joven (m.) (SI GZ SA)
+muchacho (PE)
+SULLA
+rocio (SA)
+SUMAIMANA
+elegante (SG)
+bonito (SI) -- -- ---- - ---- ---- - ---- -·- ---- --
+SUMAJ
+bonito (IL MI PESA es SI SGJ
+elegante (IL TR CS GZ SG)
+sabroso (SG) ·
+SUMAJ ALLI
+feliz (CS)
+SUMAJHUA
+elegante (PE)
+SUMBIRU
+sombrero (MI CU)
+SUMBIRRU
+sombrero (ZA GU)
+SUMBRA
+sombra (MI CU TR GU SI)
+alma (CU)
+SUMBRIRU
+sombrero (GZ SG)
+SUMBRIRRU
+sombrero (TI PE)
+SUMIRU
+sombrero (TR SI)
+SUMIRRU
+sombrero (CUSA TR NI)
+SUMITA
+bonito (SG)
+SUMU PUCHUSHCA
+heces (de chicha) (TI)
+SUNDINGUCHINA
+alargar (GU)
+SUNI
+largo (IL ZA TI PESA TR es SJ
+SUNIYACHINA
+alargar (IL TI PESA TR es SI
+extender (PESA)
+SUNLLU
+haraposo (IL)
+SUNSU
+zonzo (CU PE es SI)
+terco
+andrajoso (t:S)
+SUÑUDUR
+dormilón (SI)
+SUÑUI
+sueño (TR)
+SUÑUI SIGUI
+dormilón (SI)
+SUÑUNA
+soñar (CUSA)
+SUPA
+sopa (IL MI TR)
+SUPAI
+diablo (ZA GU TR NI es SI GZ
+demonio (TR NI es SI GZ)
+SUPANA
+lamer (NI)
+SUPAS
+fibra de cabuya (TR)
+SUPLADUR
+aventador (SG)
+SUPLANA
+aventar (SG)
+SUPUN
+enano (TR)
+SUR
+sur (TI NI GZ SG)
+SURCANA
+deshojar (PE)
+SURCUNA
+sacar (IL ZA MI CU TI SA TR)
+ordeñar (CUSA)
+SURDU
+sordo (IL ZA cu SA TR NI es
+izquierda (MI)
+SURDU MAN UYA
+sordo (SG)
+SURDU MUDU
+tartamudo (ZA)
+SURDU TARTSU UPA
+tartamudo (IL)
+SURIRU
+sombrero (IL)
+SURTIJAS
+anillo
+SURTIJIS
+anillo (MI CU _TI PESA GU)
+SURTIQUIS
+anillo (ZA)
+SURU
+carrizo (TI)
+SURUN
+vejiga (MI CU)
+troje (SG)
+SURRU
+zorro (SA TR NI)
+SUSIDINA
+suceder (IL)
+SUSTU
+susto (CS)
+pena (TI)
+SUSUGYANA
+fruncir (GU)
+SUSTARINA
+asustarse (T.I)
+SUSHTU
+susto (NI)
+SHAGRA
+áspero (IL TR NI SI GZ)
+SHAICUNA
+cansarse
+sofocar (SI)
+SHAICUSHCA
+cansado
+SHAIJUNA
+cansarse (IL)
+SHAIJUSHCA
+cansado (IL)
+SHAMBA
+suave (ZA)
+SHAMUI NINA
+invitar (IL TR)
+SHAMUNA
+venir
+SHANDU SURDU
+tartamudo (CU)
+SHAYACHINA
+construir (IL MI CU TI PESA
+levantar (IL ZA TI PESA TR)
+detener (GU SG)
+enderezar (IL)
+SHAYARINA
+pararse
+defender (MI)
+SHICAN
+aparte
+separado
+distinto,
+extraño (IL)
+SHICANYACHINA
+separar (IL)
+SHICU
+ternero
+becerro (IL)
+SHIGHUANA
+regar paja (IL TR)
+SHIGRA
+bolsa tejida
+red (SI SG)
+SHIJSHI
+comezón
+sarna (IL TR GZ)
+SHIJSHIN
+comezón
+SHILA
+tazón de barro (SI GZ)
+SHILUJ
+uña
+garra
+casco (d~ animal)
+SHIMBA
+trenza (IL ZA NI)
+SHIMBANA
+trenzar (IL ZA NI)
+SHIMI
+boca
+labio (ZA PE TR N1 SI GZ)
+voz (ZA NI GU TR SI GZ)
+idioma
+palabra (IL ZA MI PESA TR SI
+SHIMI CARA
+labio (IL MI cu SA es SG)
+SHIMI HUAICUPI
+boca abajo (TI)
+SHIMI JAHUA
+boca arriba (TI PE)
+SHIMI JITA
+quijada (MI)
+SHIMI JUNDA
+bocado (IL)
+SHIMI LABIU
+labio (MI)
+SHIMI PAMBAPI
+boca abajo (TI)
+SHIMI PASCANA
+bostezar (GU)
+SHIMILLAJ
+tartamudo (MI)
+SHINA
+así (IL MISA GU TR)
+SHINAI
+entonces (SG)
+SHINALLATAJ
+entero (IL)
+SHINCHACA
+entonces (PE)
+SHINGA
+borracho
+chumado (ZA PE)
+SHINGANA
+emborracharse (ZA)
+SHINGASHCA
+borracho (SA)
+SHINGAYANA
+emborracharse (IL PE _TR)
+SHINGAYISHCA
+chumado (ZA)
+SHINLLI
+fuerte
+duro
+tieso
+rígido,
+valiente
+difícil
+fuerza
+tosco (TR)
+SHIQUINA
+regar paja (ZA)
+SHIRA UMA
+desgreñado (GZ)
+SHITANA
+botar
+echar
+tirar
+abandonar
+sembrar (IL)
+SHITARINA
+descender
+desmontar
+SHITARISHCA HUASI
+ruina (ZA)
+SHITASHA RINA
+abandonar (SA)
+SHITASHCA
+desierto (adj.) (IL CU PE SA
+SHITASHCA HUASI
+ruina (IL TR NI SI GZ)
+SHITISHCA
+desierto (adj.) (ZA)
+SHUGLA
+único (ZA TR)
+SHUGLLA
+único
+SHUHUA
+ladrón
+SHUHUA SHUNGU
+murciélago (PE TR)
+SHUHUA UCUCHA
+murciélago
+SHUHUAJ
+ladrón (ZA MI)
+SHUHUANA
+robar
+explotar (SA GU NI SI)
+SHUHUARINA
+robar (MI)
+SHUJ
+uno
+otro (IL SA TR SI SG)
+alguien (TI SÁ)
+diferente ( IL)
+SHUJ CARU RUNA
+extraño (IL)
+SHUJ CUTIN
+vez (CS SI GZ)
+SHUJ LADUM TARPUNA
+trasplantar (SG)
+SHUJ LADUMAN
+al revés (SG)
+SHUJ LADUMUNDA JINTI
+extraño (TI)
+SHUJ LAYA
+distinto (ZA MI CU TI PE TR NI
+diferente (TI SA SI SG)
+desigual (SG)
+SHUJ RATU
+de repente (PE)
+SHUJ SHUJTA
+aparte (SA)
+SHUJ YALA
+diferente (ZA)
+SHUJCA
+alguien (SA)
+SHUJCUNA
+los demás (ZA)
+SHUJMI PASACHINA
+trasplantar (SA)
+SHUJTAJ
+otro
+diferente (TR NI CS)
+SHUJTAJ SHUJTAJ
+distinto (CS)
+SHUJTIJ
+diferente (PE)
+SHULU
+mestizo (SA)
+SHULLA
+rocio (IL ZA PE TR NI es SI GZ
+SHULLUNA
+abortar
+SHUNGU
+corazón
+estómago (IL ZA SG)
+hígado (SI SG)
+SHUNGU ANSAYANA
+desmayarse (MI)
+SHUNGU BULTACHINA
+vomitar (TI)
+SHUNGU BULTANA
+vomitar (MI)
+eructar (GU)
+SHUNGU BULTANAUNA
+tener náuseas (GU)
+SHUNGU BULTANAYANA
+tener náuseas (TI)
+SHUNGU BULTINA
+vomitar (CU GU)
+SHUNGU JAHUAYANA
+vomitar (SA)
+SHUNGU SHITANA
+vomitar (PESA)
+tener náuseas (SA)
+SHUNGU SHITANAYANA
+tener náuseas (PE)
+SHUNGU TIGRANAYACHINA
+tener náuseas (TR)
+SHUNGUI
+desayuno (IL)
+SHUNGUNA
+desayuno (CS)
+SHUNGUNCHI
+desayuno (ZA MI CU TI PE GU)
+SHUNGUTA TIGRANA
+vomitar (TR)
+SHUNLLU
+zonzo (IL)
+SHUNSHU
+zonzo (ZA)
+SHUPAJ CHURI
+entenado (IL)
+SHUPAJ USHI
+entenada (IL)
+SHURUNA
+retoñar (SG)
+SHURUSHCA
+retoño (SG)
+SHUSHANA
+filtrar (TR NI CS)
+SHUSHUNA
+cerner
+cribar
+filtrar
+residuo
+SHUTI
+nombre
+apellido (IL ZA MI-TR NI)
+SHUTI CUNA
+llamar (dar nombre) (ZA)
+SHUTICHI
+bautizo (MI- CU TI SG)
+SHUTICHINA
+bautizar
+llamar (dar nombre) ;. (TI es
+nombrar f. (CU TI GU NI)
+bautizo (ZA MI CU TI TR NI CS)
+SHUTISHINA
+llamar (dar nómbre) (ZA)
+SHUTU
+gota (MI CU TI PESA GU SI)
+mojado (TI CU)
+SHUTUCHINA
+derramar (MI CU)
+mojar (TI NI)
+remojar (TI)
+SHUTUGYANA
+mojar (TR)
+SHUTUI
+gota (IL ZA TR NI GZ SG)
+SHUTUJ
+mojado (TI TR CS)
+húmedo (TR NI CS)
+SHUTUNA
+mojar (ZA MI GU CS)
+filtrar (IL)
+SHUTURISHCA
+húmedo (TI)
+SHUTUSHCA
+mojado (IL ZA NI)
+SHUYANA
+esperar
+demorar (MI PE CS)
+permanecer (PE)
+SHUYU
+sucio (IL TR SI SG)
+
+
+
+TABACUNA
+fumar (CU SA TR)
+TABANU
+tábano (ZA)
+TABUDU SATINA
+clavar (CU)
+TACAI
+golpe (IL PE TR)
+TACANA
+TACUNGA
+golpear (IL ZA MI CU TI GU CS)
+trillar a_mano_ (CU-GU SLSG)-- -~
+clavar (PE GZ)
+castigar (MISA)
+luchar (TI)
+golpe (MI cu TI GU es SG)
+TACANACUNA
+pelear (CU SG)
+TACANUCUNA
+pelear (SA)
+TACARINA
+tocar (IL)
+tropezar (PE)
+TACAZU
+paladar (TI)
+TACUNGA
+Latacunga (MI CU TI PESA GU
+CS)
+TACHANA
+TACHANA
+zurcir (ZA)
+TAFIA
+pared (IL)
+TAFIANA
+cercar (IL)
+TAGSHANA
+lavar ropa (SI)
+TAITA
+padre (IL ZA MI cu PESA GU es
+SI GZ SG)
+TAITA CURA
+sacerdote I (IL GU NI)
+TAITA GANDI
+abuelo (SG)
+TAITA MAMA ILLAJ
+huérfano (PESA)
+TAJSHANA
+lavar ropa I (SI)
+enjuagar (MI)
+TAJSHI TUCUNA
+enjuagar (ZA)
+TALANQUIRA
+cerco (ZA MI CU)
+TALBIS
+tal vez (IL TI SA GU NI es SI
+GZ)
+327 TAHIA HUACANA
+TALINA
+verter, derramar, regar agua,
+vaciar (IL)
+TALPA
+blusa (SI)
+TALUN
+tal6n (TI TR NI)
+TALLINA
+verter I (IL SG)
+derramar (TI PESA TR NI)
+regar agua (ZA TR)
+vaciar (CU PESA GU)
+TAMBU
+posada (IL TR)
+TAMBUR
+tambor I (ZA SI GZ SG)
+TAMBURA
+tambor (SI GZ SG)
+TAMIA
+lluvia
+TA~HA CUCHA
+charco (CU)
+TAMIA HUACANA
+tronar (IL ZA)
+talun
+IL - llumán, lmbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
+Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua¡ SA - Sahsaca,
+Tungurahua; Gl) - Guapante, Tungurahua; TR - TroJe, Chimborazo; NI - Nizag, Chimborazo, CS -
+Cachisahua, Bohvar; SI - Sigsihuaicu, Cañar; GZ - Gu!lanshapa, Azuay; .SG - Saraguro, LoJa.
+( +) Señala que en la zona especificada se usa otra forma además de la pnmera palabra quichua.
+( - ) Señala que en la zona especificada no se usa la primera palabra quichua.
+TAMIA LAGUNA
+TAMIA LAGUNA
+charco (GU)
+TAMIA TIMPU
+invierno (ZA CU TI SA SI GZ)
+TAMIA TYIMPU
+invierno (IL PE TR NI CS SG)
+TAMIA USIA
+lluvia con sol (ZA)
+TAMIA YACU
+cha reo (TR)
+TAMIANA
+llover
+TAMIANA QUILLA
+invierno (TR)
+TAMIARINA
+llovizna (SG)
+.... -TAMIUN rn:rI
+lluvia con sol (TI)
+TAMU
+paja de cebada (ZA CU PE es
+SG)
+TANCANA
+moler (ZA)
