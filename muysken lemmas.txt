@@ -19306,9 +19306,6 @@ demorar (MI PE CS)
 permanecer (PE)
 SHUYU
 sucio (IL TR SI SG)
-
-
-
 TABACUNA
 fumar (CU SA TR)
 TABANU
@@ -19318,7 +19315,6 @@ clavar (CU)
 TACAI
 golpe (IL PE TR)
 TACANA
-TACUNGA
 golpear (IL ZA MI CU TI GU CS)
 trillar a_mano_ (CU-GU SLSG)-- -~
 clavar (PE GZ)
@@ -19338,7 +19334,6 @@ TACUNGA
 Latacunga (MI CU TI PESA GU
 CS)
 TACHANA
-TACHANA
 zurcir (ZA)
 TAFIA
 pared (IL)
@@ -19348,56 +19343,47 @@ TAGSHANA
 lavar ropa (SI)
 TAITA
 padre (IL ZA MI cu PESA GU es
-SI GZ SG)
 TAITA CURA
-sacerdote I (IL GU NI)
+sacerdote
 TAITA GANDI
 abuelo (SG)
 TAITA MAMA ILLAJ
 huérfano (PESA)
 TAJSHANA
-lavar ropa I (SI)
+lavar ropa
 enjuagar (MI)
 TAJSHI TUCUNA
 enjuagar (ZA)
 TALANQUIRA
 cerco (ZA MI CU)
 TALBIS
-tal vez (IL TI SA GU NI es SI
-GZ)
-327 TAHIA HUACANA
+tal vez
 TALINA
-verter, derramar, regar agua,
+verter
+derramar
+regar agua
 vaciar (IL)
 TALPA
 blusa (SI)
 TALUN
-tal6n (TI TR NI)
+talón (TI TR NI)
 TALLINA
-verter I (IL SG)
+verter
 derramar (TI PESA TR NI)
 regar agua (ZA TR)
 vaciar (CU PESA GU)
 TAMBU
 posada (IL TR)
 TAMBUR
-tambor I (ZA SI GZ SG)
+tambor
 TAMBURA
 tambor (SI GZ SG)
 TAMIA
 lluvia
-TA~HA CUCHA
+TAMIA CUCHA
 charco (CU)
 TAMIA HUACANA
 tronar (IL ZA)
-talun
-IL - llumán, lmbabura; ZA - Zámbizá, Pichincha; MI - San Miguel de Salcedo, Cotopaxi; CU -
-Cusubamba, Cotopaxi; TI - Tigua, Cotopaxi; PE - Chibuleo San Pedro, Tungurahua¡ SA - Sahsaca,
-Tungurahua; Gl) - Guapante, Tungurahua; TR - TroJe, Chimborazo; NI - Nizag, Chimborazo, CS -
-Cachisahua, Bohvar; SI - Sigsihuaicu, Cañar; GZ - Gu!lanshapa, Azuay; .SG - Saraguro, LoJa.
-( +) Señala que en la zona especificada se usa otra forma además de la pnmera palabra quichua.
-( - ) Señala que en la zona especificada no se usa la primera palabra quichua.
-TAMIA LAGUNA
 TAMIA LAGUNA
 charco (GU)
 TAMIA TIMPU
@@ -19414,10 +19400,758 @@ TAMIANA QUILLA
 invierno (TR)
 TAMIARINA
 llovizna (SG)
-.... -TAMIUN rn:rI
+TAMIUN INTI
 lluvia con sol (TI)
 TAMU
 paja de cebada (ZA CU PE es
-SG)
 TANCANA
 moler (ZA)
+TANCHANA
+adivinar
+TANDA
+pan
+juntos
+TANDACHINA
+juntar
+amontonar (ZA es SI)
+recoger (IL PESA GU TR NI CS)
+unir (PESA TR NI SI)
+arrimar (TI)
+completar (CS)
+ensartar
+devanar (ZA)
+cosechar (SA)
+segar (ZA SA)
+reunión (TI)
+TANDACHISHCA
+juntos (IL TR)
+TANDALLA
+juntos (TR)
+TANDANA
+recoger (CUSA GU NI SI GZ SG)
+juntar (MI CU TI SA GU SG)
+enrollar (TR) ·
+TANDANACUI
+reunión (CU PE NI es GZ)
+TANDANACUNA
+reunirse
+unir (ZA CU TI GU CS GZ)
+encogerse (MI GU)
+reunión {MI GU TR SI)
+TANDANACUSHCA
+juntos (TI PE GU TR NI SI)
+grupo (TI TR CS)
+TANDANACHI
+reunión {MI GU TR SI)
+TANDANAJUI
+reunión {MI GU TR SI)
+TANDANAJUNA
+unir
+reunirse (IL)
+TANDANAJUSHCA
+juntos (IL)
+TANDANUCUSHCA
+juntos (SA)
+TANDANUQUI
+reunión (SA)
+TANDARINA
+reunirse (ZA SG)
+encogerse (CS)
+reunión (SG)
+TANDARISHCA
+juntos (GZ)
+TANGANA
+empujar (IL ZA CS SI GZ SG)
+TANTIANA
+tocar (GU)
+TAPACHINA
+tapar (TR NI)
+TAPANA
+tapar (IL ZA SA GU TR SI GZ SG)
+TAPIA
+tapia (IL ZA MI CU SI GZ SG)
+TAPIAL
+tapia (PE TR NI)
+pared (ZA)
+TAPUNA
+preguntar
+averiguar
+TAQUI
+golpe (SA)
+troje (SI)
+TARBUNA
+plantar
+trasplantar (SA)
+TARDANA
+tardar (ZA MI TI GU SG)
+demorar (TI GZ SG)
+TARDI
+tarde (s.) (ZA MI CU TI PESA
+TARDIYAMUNA
+tardecer (CU)
+TARDIYANA
+tardar (PESA NI es GZ)
+tardecer (MI TI PESA GU SG)
+TARINA
+hallar
+encontrar (cosas)
+vaciar (ZA)
+TARIPANA
+averiguar (ZA SI)
+TARPUGRINA
+regar agua (CU TI GU)
+TARPUNA
+sembrar
+plantar
+trasplantar (CU TI GU NI GZ)
+TARPUNA ALLPA
+sementera (SG)
+TARTA
+mudo (PE)
+TARTA TUNTU
+tartamudo (TI)
+TARTUSU TUNTU
+tartamudo (GU)
+TARUGA
+venado
+TASAHUAI
+cascada (NI)
+TASANA
+adivinar (CUSA GU TR)
+TASQUI
+cascada
+TATACUHUA
+enano (MI)
+TATAMA QUIRU
+muela (SA)
+TAUBISCHARI
+tal vez (MI)
+TAUCA
+mucho (IL MI)
+TAUCA BIAJI
+vez
+TAUCAPURA
+grupo (ZA CU)
+TAUGA
+mucho
+hato (SA)
+TAUGAPURA
+grupo (SA)
+TAUNA
+bastón
+vara
+TAUNA CASPI
+bastón
+TAURI
+chocho
+TAZA
+canasta (ZA TR NI es SI SG)
+TAZA UMA
+desgreñado (IL)
+TAZAN
+nido (ZA)·
+TAZIN
+nido (IL ZA PESA GU TR CS)
+TIA
+tía
+TICHU
+techo
+TIGRA TARPUNA
+trasplantar
+TIGRACHINA
+devolver
+responder
+restituir
+traducir
+entregar
+TIGRACHISHPA CASHTUNA
+rumiar
+TIGRAMAN
+al revés (CS)
+TIGRAMUNA
+volver (IL TR es SG) ·
+TIGRANA
+regresar (IL ZA MI CU TR SI SG)
+voltear (IL PE TR NI es GZ SG)
+virar (IL PE TR NI es GZ SG)
+caerse (SA)
+TIGRARINA
+revolverse (IL es SI GZ SG)
+TIGYANA
+brotar (plantas) (SG)
+TIJANA
+zurcir (QU)
+TIJINA
+tejer (MI TI)
+TILA
+tela
+TILANA
+telar
+TILAR
+telar
+TILASHCA
+tela
+TILAYACHINA
+deslizar
+TILIR
+telar (GU)
+TIMBLACHINA
+temblar (SG)
+TIMBLANA
+estirar (IL)
+TIMBLUR
+terremoto (MI NI GZ SG)
+TIMBUCHINA
+hervir (IL PE TR NI SG)
+fermentar (S.I)
+TIMBUR SAMI
+vapor (ZA)
+TIMBUNA
+hervir (ZA PE CS)
+TIMPLANA
+estirar (ZA TR)
+tirar (estirar) (MI)
+TIMPLUR
+terremoto (CU)
+TIMPU
+tiempo (IL MI CU TI PE SA GU)
+TIMUN
+arado (MI)
+TiNCANA
+brincar
+saltar (ZA)
+TINDINA
+regar cosas (NI es SI GZ SG)
+regar paja (NI)
+estirar (NI)
+TINDUN
+tendón (SA GZ SG)
+TINGADUR
+catapulta (tirador) (IL)
+TINGU
+recodo (PE)
+TINGUINA
+unir (IL SA SI)
+TINTURANA
+tinturar (MI TI)
+TIÑINA
+teñir
+tinturar
+TIPINA
+deshojar
+TIPU
+crespo (SI GZ SG)
+TIRANA
+disparar (MI TI PE GU TR NI
+arrancar (TI PE GU NI CS)
+catapulta (tirador) (GU TR)
+TIRITANA
+temblar (SG)
+TIRSINA
+carnicero (IL)
+TIRU CACHARINA
+disparar
+TISANA
+cardana
+TISPINA
+pellizcar
+picar (SI SG)
+pinchar (PE)
+deshojar (TI)
+TISU
+tieso (IL MI SI TR CS)
+rígido (TR)
+paralizado (SG)
+orgulloso (SA)
+TISUYASHCA
+rígido (MI)
+TITAGYANA
+calentarse (NI)
+TITAJ
+fuego
+llama
+calor
+caliente
+TITI
+metal (IL)
+TIU
+tío
+TIYAGLLA
+quieto (SA)
+TIYAILLA
+quieto (PE)
+TIYAN
+hay
+TIYANA
+estar
+existir
+permanecer (SA GU IL)
+TIYARINA
+sentarse
+montar a caballo (IL ZA PE TR
+TIYAUN
+hay (ZA)
+TIYILLA
+quieto (PE)
+TIYU
+arena (IL SG)
+TRABAJANA
+trabajar
+construir (IL)
+tejer (MI CU)
+rallar (MI)
+TRABAJU
+difícil (IL TR)
+TRADUSINA
+traducir (SA)
+TRAGUYUJ
+poroso (TR)
+TRAMPA
+trampa (CU TI PESA GU TR CS)
+TRANCANA
+atrancar (IL CU TI PE SA TR NI
+impedir (IL TR)
+TRANDUSINA
+traducir (SG)
+TRANQUILLA
+tranquilo (SG)
+TRANSIA
+broma (IL)
+TRAPU
+trapo (ZA CU TI GU SG)
+TRAPUHUA
+pañal (ZA)
+TRAPUSU
+andrajoso (ZA GU)
+TRAPUZU
+haraposo (CU GU)
+TRASTI
+ropa (CU SI GZ SG)
+TRIGLI
+claro (TI)
+TRILLANA
+trillar a caballo
+trillar a mano (TI SA NI CS SI
+TRINCHI
+tenedor (ZA MI GU TR NI GZ SG)
+TRINTI
+tenedor (TI)
+TRINZA
+trenza (MI CU)
+TRUCANA
+convertirse (IL)
+TRUCHANA
+desmontar (IL)
+TRUINU
+trueno (SI GZ)
+TRUJA
+troje (TI CS)
+TRUJI
+troje
+TRUNANA
+tronar
+TRUNCU
+tronco
+TRUNIDU
+trueno
+TRUYINA
+trueno
+TRUYINANA
+tronar
+TRUZU
+pedazo
+TUCA
+saliva (IL ZA SI GZ)
+baba (ZA)
+TUCANA
+tocar
+escupir (IL ZA SI GZ)
+TUCUCHINA
+acabar
+concluir
+terminar
+completar (ZA MI CU TR NI SI
+gastar (IL PESA)
+destruir (IL TR)
+TUCUI
+todo
+todos
+entero
+TUCUI ALLI
+completamente (CS)
+TUCUI RATU
+siempre (IL SA TR)
+TUCUI RATU
+siempre
+TUCUI URAS
+siempre
+TUCUILA
+totalmente
+TUCUILLA
+completamente
+totalmente
+enteramente
+entero
+juntos
+TUCUITA
+enteramente (PE TR es SG)
+totalmente (CS SI)
+TUCUITA YALLI
+entero (CS)
+TUCUNA
+hacerse
+volverse
+convertirse
+suceder
+poder (ZA TR)
+TUCURI
+último (TR CS)
+TUCURINA
+morir (IL)
+TUGLLA
+trampa
+TUGLLAI
+trampa (ZA)
+TUGMU
+sir punta
+embotado
+TUGRU
+coágulo
+TUGYA
+tumor
+TUGYACHINA
+reventar
+disparar
+TUGYANA TUPAJ
+reventar
+brotar (plantas) (IL ZA TR)
+TUIRTU
+ciego (ZA MI CU GU TR NI CS SI)
+tuerto (CUSA GU TR NI CS GZ)
+bizco (ZA MI TI TR GZ SG)
+TUIRTUYANA
+cegar (ZA PE GU TR NI CS)
+TUJSINA
+picar
+pinchar
+inyectar (IL PE GU TR CS)
+TUJTI
+nuez (IL MI PESA TR NI SI GZ)
+TUJTITU
+humitas (SI)
+TUJTU
+brote floral de maíz (IL TR NI
+TUJYANA
+tronar (SG)
+TULA
+palo para cavar papas
+loma (IL)
+TULANA
+desmontar (CU)
+TULPA
+estufa (IL ZA
+fogón (IL ZA)
+TULUN NINA
+tronar (SI)
+TULLMU
+embotado
+sin punta (MI)
+TULLPA
+fogón
+estufa
+TULLU
+hueso
+flaco
+delgado
+delicado
+débil (CS GZ)
+tronco (CUSA)
+TULLUN CARAUN
+flaco
+TULLUYASHCA
+flaco
+TUMA
+acequia
+TUMUR
+absceso (CU)
+TUNDUJANA
+abrigarse (ZA)
+TUNGURI
+garganta (IL ZA PE
+manzana (coto) (IL
+TUNI
+derrumbe
+TUNINA
+derrumbar
+TUNIRISHCA
+terremoto
+TUNTAMINTI
+muy
+totalmente
+TUNTU
+mudo
+zonzo
+sordo
+tartamudo
+terco
+TUNTUHUA
+humilde
+TUNU
+música
+canción
+TUNUGYACHINA
+alargar
+TUÑI
+derrumbe
+TUÑINA
+derrumbar
+TUÑIRI
+derrumbe
+TUÑISHCA
+derrumbe
+TUPAJ
+murciélago
+TUPAN
+murciélago
+TUPANA
+encontrarse con
+hallar
+tocar
+TUPANACUNA
+encontrarse con
+TUPARINA
+encontrarse con
+tocar
+TUPARINALA
+delicado
+TUPU
+prendedor
+medida
+tamaño
+TUPUDA JAPINA
+medir
+TUPULINA
+prendedor
+TUPULLI
+prendedor
+TUPULLINA
+prendedor
+TUPUNA
+medir
+medida
+TUPUSHCA
+medida (SI)
+TUQUI
+todo
+todos (ZA MI CU PESA GU)
+entero (PE)
+TUQUI BIDA
+siempre (ZA)
+TUQUI TIMPU
+siempre (ZA)
+TUQUI TUQUITA
+totalmente (PE)
+TUQUILA
+totalmente (ZA)
+TURBARINA
+equivocarse (MI)
+TURI
+hermano (de mujer)
+sobrino (CU)
+TURSINA
+torcer (palo, pie) (CU PE SA
+retorcer (ZA CUSA TR CS SG)
+TURTILLA
+humitas (SA)
+TURTU
+ciego
+bizco (TI)
+TURU
+lodo
+barro
+turbio (CUSA)
+TURU PLATU
+plato (SG)
+TURUHUAN
+turbio (SG)
+TUSA
+tusa (MI)
+TUSCU
+tosco (IL ZA cu SA es GZ)
+TUSHAJ
+vacio (NI)
+TUSHUNA
+bailar (IL ZA PE)
+danzar (PE TR)
+brincar (SI)
+TUTA
+noche
+obscuro (PESA TR)
+TUTA PISHCU
+murciélago
+TUTAMANDA
+mañana
+madrugada
+TUTAMANTA
+mañana
+madrugada
+TUTAMANTA MICUNA
+desayuno
+TUTAMANTA RINA
+madrugar
+TUTAMUNDA
+mañana
+madrugada
+TUTAMUNDA JATARINA
+madrugar
+TUTAMUNDA RINA
+madrugar
+TUTAMUNTA
+mañana
+TUTAYANA
+anochecer
+tardecer
+TUTU
+ovilla de hilo
+embudo
+tobillo
+TUTUJ
+brote floral de maíz
+TUTUNA
+ovillar
+TUZULYASHCA
+tumor
+T'ACAZU
+paladar
+T'ACURINA
+fregar (GZ)
+T'ALA
+débil (MI GU)
+T'ALAYASHCA
+débil (MI)
+T'ALLINA
+derramar (SI)
+T'AMU
+paja (de cebada) (GU TR)
+T'ANGANA
+empujar (MI CU TI PESA GU TR
+T'IMBUCHINA
+hervir (MI CU TI SI GZ)
+T'IMBUNA
+hervir (MI CU TI SA GU GZ)
+T'ITAGYACHINA
+hacer calor
+T'IYU
+arena
+T'UCA
+saliva
+baba
+T'UCANA
+escupir
+T'UCU
+brote floral de maíz
+T'UJTU
+brote floral de maíz (MI CUSA
+T'UNI
+derrumbe (CUSA TR)
+T'UNIN
+terremoto
+T'UNINA
+derrumbar (CU TI SA)
+T'UNIRINA
+derrumbar (MI GU)
+T'UNISHCA
+derrumbe (MI)
+T'UÑI
+derrumbe
+T'UÑINA
+derrumbar (TR SI GZ)
+T'UÑIRINA
+derrumbar (MI PE es NI)
+T'UÑIRISHCA
+derrumbe (MI TI GU SI GZ)
+T'UZU
+muñon (SA PE)
+TSAGNANA
+amarrar (IL)
+TSAGRA
+sementera (TI)
+TSAHUAR
+cabuya blanca (IL)
+TSALA
+flaco (IL ZA MI CU TI SA GU)
+delgado (MI TI SA GU)
+mestizo (TR CS)
+TSARQUI
+charqui (IL MI PE NI)
+flaco (MI CU PE GU)
+TSATSA UMA
+desgreñado (TR)
+TSAÜR
+cabuya blanca (ZA)
+TSAÜR AJCHA
+fibra de cabuya (TI)
+TSAÜR MILMA
+fibra de cabuya (ZA)
+TSIGA HUIÑANA
+
+
+
+retoñar (PE)
+TSIGASHCA
+retoño (PE)
+TSlJTSI
+murciélago (MI)
+TSILINQUITSI
+TSILINQUITSI
+lagartija (GU)
+TSINI
+ortiga (IL ZA)
+TSIRAPA
+llovizna (IL MI CUSA GU TR)
+lluvia con sol (MI GU)
+crespo, desgrefiado (IL)
+TSIRAPAI
+llovizna (ZA)
+TSITSIQUINA
+pellizcar (SA)
+TSIYA
+liendre (IL ZA MI TI PESA TR
+NI)
+TSIYA LULUN
+liendre (CU)
+--TSUGRINA
+herir (GU)
+lastimar (TI)
+TSUGRISHCA
+herida, paralizado (TI)
+pus (TI)
+TSUJTSUJ
+mirlo (TR)
+TSUNGANA
+chupar (IL PESA GU CS)
+absorber (IL ZA SA GU SG)
+341 TY'UCA
+TSUNSHU
+tartamudo (ZA)
+TSUNTSU
+andrajoso (ZA MI CU TI PESA)
+haraposo (ZA MI CU TI PESA)
+TSUNZU
+haraposo (NI CS)
+TSUPANA
+chupar (NI SI)
+absorber (TR NI)
+fumar (NI)
+TSUTSUQUINA
+agarrar (SA)
+cefiir (CS)
+TY
+TYIMPU
+tiempo (CS SI GZ)
+TYUGMU
+embotado (NI)
+TY'
+TY'UCA
+saliva, baba (SA TR NI CS)
+
