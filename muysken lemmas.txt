@@ -20094,15 +20094,11 @@ fibra de cabuya (TI)
 TSAÜR MILMA
 fibra de cabuya (ZA)
 TSIGA HUIÑANA
-
-
-
 retoñar (PE)
 TSIGASHCA
 retoño (PE)
-TSlJTSI
+TSIJTSI
 murciélago (MI)
-TSILINQUITSI
 TSILINQUITSI
 lagartija (GU)
 TSINI
@@ -20110,28 +20106,28 @@ ortiga (IL ZA)
 TSIRAPA
 llovizna (IL MI CUSA GU TR)
 lluvia con sol (MI GU)
-crespo, desgrefiado (IL)
+crespo
+desgreñado (IL)
 TSIRAPAI
 llovizna (ZA)
 TSITSIQUINA
 pellizcar (SA)
 TSIYA
 liendre (IL ZA MI TI PESA TR
-NI)
 TSIYA LULUN
 liendre (CU)
---TSUGRINA
+TSUGRINA
 herir (GU)
 lastimar (TI)
 TSUGRISHCA
-herida, paralizado (TI)
+herida
+paralizado (TI)
 pus (TI)
 TSUJTSUJ
 mirlo (TR)
 TSUNGANA
 chupar (IL PESA GU CS)
 absorber (IL ZA SA GU SG)
-341 TY'UCA
 TSUNSHU
 tartamudo (ZA)
 TSUNTSU
@@ -20145,13 +20141,1108 @@ absorber (TR NI)
 fumar (NI)
 TSUTSUQUINA
 agarrar (SA)
-cefiir (CS)
-TY
+ceñir (CS)
 TYIMPU
 tiempo (CS SI GZ)
 TYUGMU
 embotado (NI)
-TY'
 TY'UCA
-saliva, baba (SA TR NI CS)
-
+saliva
+baba (SA TR NI CS)
+TY'UCANA
+escupir (ZA SA TR NI CS)
+TY'UNGIL
+sapo (CS)
+TY'UNGUCHINA
+tapar (SA)
+UBIANA
+beber
+tomar (MI
+UBIASHCA
+borracho (PE TR)
+UBIDISINA
+obedecer (GU SG)
+cumplir (GU)
+UBIJA
+oveja
+cordero (PE SA GU
+UBIN
+tal vez (SG)
+UBINA
+tomar (beber) (SA)
+UCA
+oca
+UCALITU
+eucalipto (IL CU PE TR NI SI
+UCSIDINTI
+oeste (MI)
+UCU
+adentro
+dentro de
+interior
+cuarto
+debajo de
+bajo (lugar) (TR NI GZ)
+profundo (IL ZA CUSA TR)
+hondo (IL ZA SA TR SI)
+fondo (IL CU GU TR NI)
+UCU LADU
+al revés (SA)
+UCU PACHA
+infierno (IL ZA MI CU TI PESA
+UCU PACHA JINTI
+enano (PE)
+UCU PAMBA
+piso (MI CUSA GU)
+UCU TABLANA
+piso (CU)
+UCU YANUNA
+cocina
+UCUCHA
+ratón
+pericote (TI SI SG)
+UCUCHU
+ratón
+UCUNCHI
+falda
+UCUTI
+ano (IL SA GZ SG)
+UC'U PACHA
+infierno (SI) -
+UCHA
+chico (adj,) (MI)
+UCHA-UCHA
+ligero (IL)
+UCHILA
+corto
+bajo (de persona) (TR)
+pequeño (TR TI)
+chico (adj.) (TR NI)
+enano (IL TR)
+UCHILLA
+bajo (de persona) (IL TR SI GZ
+corto (IL MI SI GZ)
+pequeño (IL MISA GU TR SI GZ)
+chico (adj.) (IL SA SI GZ)
+diminuto (SA)
+enano (NI GZ)
+UCHILLA HUAHUA
+criatura (SI)
+UCHILLACHINA
+encogerse (NI)
+UCHILLITU
+diminuto (GZ)
+UCHINLLA
+pequeño
+diminuto (SA)
+UCHIQUILLA
+chico
+UCHIQUILLAHUA
+diminuto (ZA)
+UCHPA
+ceniza
+UCHU
+ají 
+UCHU HUAQUI
+hermano menor
+UCHU SHUNGU
+delicado (ZA)
+UCHUFA
+ceniza (IL)
+UCHUIL UFIA
+cordero (SG)
+UCHUILLA
+chico (adj.)
+pequeño (SG)
+UCHUILLAYANA
+encogerse (SG)
+UCHUILLITU
+diminuto
+enano (SG)
+UCHUJ
+corto (TI)
+chico (adj.) (ZA)
+UCHUJ HUAQUI
+hermano menor (TI TR)
+UCHULA
+corto (ZA)
+UCHULLA
+chico (adj.) (MI)
+UCHUPA
+ceniza (SI GZ SG)
+gris
+UCHUPA LAYA
+polvo (SG)
+UFIANA
+tomar (beber) (IL)
+UFIASHCA
+borracho (IL)
+UFRISINA
+ofrecer (IL CU TI GU TR NI)
+UGLLANA
+abrazar
+acariciar (SI)
+UGLLARANA
+abrazar (MI)
+UGLLARINA
+abrazar (IL ZA MI CU PE TR)
+UGNINA
+vomitar (MI)
+UGSHA
+paja
+UJALITU
+eucalipto (MI TI GU)
+UJSIRICUNA
+ofrecer (SI)
+UJSHA
+paja
+UJSHA HUASI
+choza (MI CU TI SA)
+UJTA
+rápido (ZA MI CU TI GU)
+pronto (MI CU GU)
+ligero (ZA MI)
+UJTALLAHUA
+rápido (MI)
+UJTU
+hueco (ZA MI CU TI GU)
+cueva (ZA GU)
+UJTUNA
+perforar (ZA MI CU TI GU)
+cavar (ZA CU TI GU)
+madurar (CU GU)
+UJTURISHCA
+poroso (ZA MI CU PESA)
+UJTUSHCA
+pronto (ZA)
+UJU
+tos
+gripe (ZA MI TR NI)
+fiebre (SA)
+UJU UNGUI
+gripe (SA)
+UJU UNGÜI
+gripe (CS)
+UJUI
+tos (SG)
+UJUJU
+diablo (SG)
+UJUN CALURIAN
+fiebre (SA)
+UJUNA
+toser
+tos (SI)
+UJURINA
+toser (SI)
+sofocar (SG)
+ULCA
+copo (IL)
+ULTIMU
+último (ZA TI TR SG)
+ULTIMUHUA
+último bebe (ZA)
+ULUN MAQUI
+puño (CU SA)
+ULLIRA
+rebozo (NI)
+ULLU
+pene (IL PESA GU SG)
+UMA
+cabeza
+racimo (GU)
+UMA CALABIRA
+calavera (GU s,r)
+UMA CARPAYASHCA
+desgreñado (SA)
+UMA CHURUSHCA
+al revés (GU)
+UMA ÑUTCU
+cerebro (PE TR es SI SG)
+UMA ÑUJTU
+seso (TI)
+UMA ÑUTUJU
+cerebro (IL)
+UMA P'RINTI
+frente (GU)
+UMA SAPA
+desgreñado (IL CU PE GU SI SG)
+UMA SHAYARISHCA
+desgreñado (SA)
+UMA TULLU
+calavera
+UMACHINA
+explotar (IL TR CS)
+UMANA
+engañar (IL TR)
+convencer (TR)
+UMBRU
+hombro (IL SA GZ)
+UMIDU
+húmedo (CUSA)
+UMIJUCHINA
+acabar (MI)
+UMILDI
+humilde (ZA es SI GZ SG)-
+UMUTA
+corto (Gl.J)
+UMUTA GASHTA
+enano (ZA)
+UMUTU
+enano (IL CU
+UNAI
+tiempo (SG)
+UNAYANA
+demorar (IL SG)
+tardar (IL)
+UNDU
+hondo (SG)
+profundo (SA)
+UNGU
+hongo (ZA PE TR)
+UNGUI
+enfermedad (MI TI SA GU)
+UNGÜI
+enfermedad
+fiebre (SG)
+UNGUI JAPINA
+enfermarse (SA)
+UNGUNA
+enfermarse (MI CU TI PE GU NI
+dar a luz (IL MI GU)
+UNGURINA
+enfermarse (IL ZA TR SI)
+UNGUSHCA
+pálido (ZA MI)
+UNIJ
+caracol
+UNILLA
+tiempo (MI)
+UNIYANA
+demorar (TR NI)
+tardar (TR)
+UÑAI
+tiempo (MI)
+UPA
+zonzo (IL TR NI es GZ SG)
+mudo (CUSA TR NI SI)
+tartamudo (SA NI es GZ)
+UPA RINRI
+sordo (IL SI)
+UPA SHIMI
+mudo (IL ZA)
+UPACHINA
+acallar (NI)
+UPALA
+silencio (ZA TR)
+quieto (TR)
+secretamente (ZA)
+UPALANA
+callarse (ZA TR)
+acallar (ZA)
+UPALAYACHINA
+acallar
+UPALLA
+silencio
+quieto (MI)
+tranquilo (CS)
+secretamente
+UPALLACHINA
+acallar
+UPALLANA
+callarse
+acallar
+UPALLAYACHINA
+acallar
+UPALLICHINA
+engañar
+UPANA
+callarse (NI)
+UPAYACHINA
+acallar (SA GU SI)
+amortiguar (ZA CUSA)
+UPAYANA
+callarse (MI TI SA SI)
+amortiguar (IL CU 'GU)
+UPIANA
+beber (IL ZA NI GZ SG)
+tomar
+UQUI
+pardo
+URA
+abajo
+bajo
+debajo de (MI GU)
+sur (TR) - ·· · -
+hora (MI cu TI SA GU es
+URA LADU
+norte
+URA LLAGTA
+oeste
+URA LLAJTA
+valle
+oriente
+URA PAMBA
+playa
+URA SINGA
+boca abajo (ZA)
+URA UCU
+debajo de (CU)
+valle (MI)
+URAI
+norte (IL GZ)
+bajo (lugar) (IL)
+URAL SINGA
+boca abajo (IL SI GZ SG)
+URAICUCHINA
+descargar (SI SG)
+URAICUNA
+bajarse
+desmontar (SI SG) -
+URANA
+hacer
+construir
+trabajar
+URAS
+tiempo
+hora
+URCU
+cerro
+sierra
+loma
+selva
+URCU ASHCU
+lobo
+URCU LUMA
+cumbre
+URCU NABUS
+nabo
+URCU PAMBA
+valle (TI)
+URCU PUNDA
+cumbre (IL)
+URCU PUNTA
+cumbre (ZA MI CUSA NI SI SG)
+URCU P'ILU
+monte (TI)
+URCU UMA
+cumbre (IL TI PE)
+URDINA
+urdir (IL CU TI PESA GU)
+URI
+abajo (MI SA)
+al lado de (MI CU)
+URI LADU
+norte (CU PE)
+sur
+URI SINGA
+boca abajo
+URI SHIMI
+boca abajo
+URICACHINA
+descargar
+URICUCHINA
+descargar
+URICUNA
+bajarse
+descender
+desmontar
+URICHINA
+descender (CS)
+URIJIRIS
+arete (IL MI CU)
+URIJIS
+arete (MI CU)
+URIJUCHINA
+descargar (ZA MI CU GU)
+desmontar (CU)
+rebajar (GU)
+URIJUNA
+bajarse (ZA_MI CU GU)
+descender (ZA MI CU GU)
+URILLA
+orilla (TR GZ)
+borde (GZ)
+bajo (lugar) (MI)
+URINTI
+oriente (MI NI CS GZ SG)
+URIQUINA
+descender
+descargar
+desmontar
+URIS
+orilla (NI)
+URIYACHINA
+rebajar (SA TR SG)
+URIYAJUCHINA
+descargar (IL)
+URIYAJUNA
+bajarse
+descender (IL)
+URIYANA
+bajarse (SA TR CS)
+descender (TR)
+desmontar (CS)
+URMACUJ HUASI
+ruina (PE)
+URMACHINA
+tumbar (IL ZA SA TR NI es SI
+revolcar (TR SA)
+URMANA
+caerse
+rodar (GU)
+URMIGA
+hormiga (TI PE TR SI SG)
+URPI
+tórtola
+URQUITA
+horqueta (CS SI SG)
+URTANA
+descargar (TI)
+URTARIMUNA
+descender (TI)
+URTARINA
+bajarse
+desmontar (TI)
+URU
+oro (MI CU TI PESA GU)
+URUS
+hora
+tiempo (ZA)
+US
+oz (TI)
+USA
+piojo de la cabeza
+piojo del cuerpo (SG)
+USA CATINA
+despiojar (TI)
+USA JAPINA
+despiojar (CU PESA GU CS SI)
+USA MASCANA
+despiojar (ZA CU)
+USA PALLANA
+despiojar (IL MI CU GU)
+USANA
+despiojar (IL TR SG)
+USI
+oz (GZ)
+USIANA
+escampar (CU GZ SG)
+USIARINA
+escampar (SI)
+USIS
+oz
+USIUZU
+ocioso (IL MI PE)
+USIYA
+verano (TR SI SG)
+USIYA QUILLA
+verano (ZA TR NI CS)
+USIYA TIMPU
+verano (GZ SG)
+usus
+oz (ZA)
+USYANA
+aclarar
+USHANA
+poder (IL ZA)
+USHI
+hija
+USHPA
+ceniza (ZA MI CU TI PE GU TR
+polvo (CU)
+USHTINA
+desollar (SG)
+USHUSHI
+hija
+USHUTA
+sandalia (IL PE CS SI GZ SG)
+UTCA
+pronto {SA TR NI es SI GZ SG)
+rápido (PESA TR NI CS GZ)
+ligero (SA SI)
+UTCA PURINA
+correr (PE)
+UTCAI
+rápido (SG)
+UTCALLA
+ligero (SG)
+UTCASHPA RICUNALLA
+transparente
+UTCU
+hueco (PESA CS)
+cueva (PE TR CS)
+UTCUNA
+perforar (PESA TR CS)
+UTICU
+chico (adj.) (MI CU TI)
+diminuto (CU)
+UTICU HUIÑANA
+retoñar
+UTIJLA
+chico
+UTILA
+bajo
+pequeño
+chico
+UTILA ATULA
+pollito
+UTILA HUAUQUI
+hermano menor
+UTILA RITUÑAJUNA
+retoñar (TI)
+UTILAHUA HUIÑAMUJUI
+retoño (TI)
+UTILLA
+bajo (de persona) (MI PESA GU
+corto (MI CU PESA CS)
+pequeño (MI PESA GU NI CS)
+chico (adj.) (CU MI PE SA GU
+diminuto (SA) .
+angosto (MI PE)
+enano (CS SI)
+UTILLA CUCHAHUA
+charco (PE)
+UTILLA HUAHUA
+criatura (MI PE)
+UTILLA HUAMBRA
+criatura
+UTILLA HUAQUI
+hermano menor
+UTILLA YURA
+planta
+UTILLAHUA
+diminuto
+menor
+UTILLAHUAHUA
+diminuto
+UTILLAHUALLA
+diminuto
+UTILLAYANA
+encogerse (CU PE)
+UTINLLA
+pequeño (SA)
+enano (SI)
+UTIYA
+pronto
+rápido (IL)
+UTSIYA
+rápido (SG)
+UTU
+sombrero (CS)
+UTU CHAQUI
+manco (PE)
+UTU MAQUI
+manco (PE)
+UTU ULU
+embotado (CS)
+UTUJU
+hueco,
+cueva (IL)
+UTUJU SAPA
+poroso (IL)
+UTUJUNA
+perforar (IL)
+UTUNA
+despedazar (TR)
+UTUNLLA
+enano (SI)
+UYA
+cara
+mejilla (SG)
+quijada (SI)
+UYANA
+oir
+escuchar
+entender (IL ZA TI PE GU)
+obedecer (IL ZA SA TR NI SI)
+espiar (PESA)
+UYARANA
+escuchar (SI)
+UYINA
+huir (SG)
+UYISH MITIJUNA
+huir (TI)
+UYUN
+codo (TR NI)
+UZU
+huso
+rodela (IL)
+V
+VICHAI
+subida
+cuesta
+sur (IL)
+VICHAI SINGA
+boca arriba (IL)
+VICHCANA
+cerrar (IL)
+VICHI
+cazuela (IL)
+VIJSA
+barriga
+vientre
+panza (IL)
+VIJSAYUJ
+embarazada (IL)
+VILLANA
+avisar (IL)
+VIÑACHINA
+criar
+educar (IL)
+VIÑAMUNA
+brotar (plantas) (IL)
+VIÑANA
+crecer
+nacer (IL)
+VIÑARINA
+retoñar (IL)
+VIQUI
+lagrima
+resina (IL)
+VIRA
+manteca
+gordo (IL}
+VIRAJUCHA
+mestizo (IL)
+VIRU
+caña dulce (IL)
+VISHA
+cucharón (IL)
+VISHTUYANA
+torcer
+VITSANA
+subir (IL)
+YA
+ya (IL ZA)
+YACA
+casi (SI)
+YACU
+agua
+río
+YACU BULA
+burbuja (ZA CU TI)
+YACU BUMBA
+burbuja (GU TR)
+YACU CASHCA
+aguado (SG)
+YACU CUCHA
+charco (TI)
+YACU CUSHNI
+vapor (CS)
+YACU ISHPA
+orina (CU CS)
+YACU ISHPANA
+orinar (IL ZA)
+YACU LADU
+orilla (SI GZ)
+playa (TR)
+barro (PE)
+YACU LLUJSHIJ
+fuente (CS)
+YACU LLUJSHINA
+verter (CS)
+YACU MANYA
+playa (IL PE)
+YACU MAR
+mar (PE)
+YACU PAMBA
+playa (SA CS)
+YACU PATA
+playa (IL ZA PE TR)
+YACU PIRLAS
+burbuja (SI)
+YACU PLAYA
+playa (TI ,NI SI GZ)
+YACU PUZA
+charco (CS)
+YACU SAMI
+vapor (MI CU CS)
+YACU SIQUIA
+acequia (TI)
+YACU SITANA
+enjuagar (TI) ·
+YACU T'IMBU
+burbuja (CU)
+YACU UCU PLAYA
+playa (MI)
+YACU UJTU
+fuente (TI)
+YACULLA
+aguado (PE)
+YACUNAI
+sed (MI PE TR CS)
+YACUNAYAI
+sed (IL ZA cu TR es SI GZ SG)
+YACUNI
+sed (MI TI SA GU)
+YACURILLA
+orilla (SI)
+YACUSHPA
+orina (MI CU TI SA GU)
+YACUSHPANA
+orinar (MI CU TI PE SA GU)
+YACUYACHINA
+derretir
+YACUYANA
+disolverse (IL PESA GU TR NI es SI GZ)
+YACUYASHCA
+aguado (GZ)
+YACHABAYANA
+remedar (MI TI)
+YACHACUNA
+aprender (TR es GZ)
+enseñarse (SG)
+YACHACHIJ
+profesor
+YACHACHILUN
+profesor (SG)
+YACHACHINA
+enseñar
+educar
+indicar (ZA es GZ)
+domesticar (IL)
+YACHAGRINA
+adivinar (IL)
+YACHAGUNA
+aprender (SA)
+YACHAI
+costumbre (IL)
+YACHAJ
+sabio
+inteligente (CU PESA TR)
+brujo {IL ZA MI TR SI SG)
+YACHAJ TUCUSHCA
+orgulloso (CUSA CS)
+YACHAJUNA
+aprender (IL MI)
+YACHANA
+saber
+adivinar (IL)
+YACHAPA
+pañal (MI PE SG)
+YACHAPAYANA
+remedar (IL ZA CU PESA GU TR
+YACHARICHINA
+domesticar (GZ)
+YACHARINA
+enseñarse (IL MI SI GZ SG)
+YACHARISHCA
+costumbre (ZA)
+YACHASHCA
+costumbre (IL TR)
+YACHIJ
+sabio (ZrsK-GU)
+curandero (ZA)
+YACHINA
+adivinar
+YAHUAR
+sangre (IL MI PE TR NI CS SI -
+YAICUCHINA
+meter {IL TR SI)
+YAICUNA
+entrar
+YAICURINA
+encogerse (IL)
+YAIYUNA
+derramar (PE)
+YAIYURINA
+desunir (CS)
+YALA
+casi
+clase (ZA)
+YALI
+más (IL)
+YALICHINA
+traducir (IL)
+YALINA
+exceder (IL)
+YALISHPA RICUNALLA
+transparente (IL)
+YALLI
+más
+demasiado
+YALLI GANA
+exceder (SA)
+YALLI PARLANA
+convencer (CS)
+YALLIJTA
+demasiado (GU)
+YALLIJTA TAMIA
+invierno (GU)
+YALLIMANA
+demasiado (SI GZ)
+YALLINA
+exceder (MI cu TR NI es SI GZ
+convencer (PE)
+YAMDA
+leña (IL)
+YANA
+negro
+obscuro (IL ZA)
+YANA CHAHUAR
+cabuya negra (PE TR SI GZ SG)
+YANA CHAÜR
+cabuya negra
+YANA SHUNGU
+hígado
+YANA TSAHUAR
+cabuya negra (NI CS)
+YANA TSAÜR
+cabuya negra (ZA TI)
+YANAYASHCA
+manchado (NI)
+YANDA
+leña (IL)
+YANGA
+gratis
+YANGA MANGA
+obscuro (CU GU)
+YANGA SHIMI
+idioma quichua (IL)
+YANGALLA MICUNA
+sopa (IL)
+YANTA
+leña (IL)
+YANUI
+delgado
+YANUNA
+cocinar
+YANUNA UCU
+cocina
+YANUNAUCU
+cocina
+YAPA
+muy
+demasiado
+YAPA CHURI
+nieto
+YAPA HUAHUA
+nieto
+nieta (CS)
+YAPA MILLAI
+tosco (IL ZA)
+YAPA RURANA
+repetir (TI)
+YAPA SHUTI
+apellido (TI)
+YAPA USHUSHI
+nieta (CS)
+YAPACHINA
+añadir (IL ZA)
+repetir (ZA)
+YAPANA
+YARCANA
+añadir (MI CU TI SA GU TR CS
+aumentar
+repetir (TI SA)
+YAPUNA
+arar
+arado
+YAPUNA ARADU
+arado (IL PE)
+YAPUSHCA
+surco de arado (TR)
+YARCAI
+hambre (SI GZ SG)
+YARCANA
+dar hambre (SI GZ SG)
+YARICA CUNA
+dar hambre (NI)
+YARICACHINA
+dar hambre (CS)
+YARICAI
+hambre (PE TR NI)
+YARICANA
+dar hambre (PE TR)
+YARIJACHINA
+bostezar (SA)
+YARIJAI
+hambre (MI CU TI GU)
+YARIJANA
+dar hambre (IL ZA MI TI CU GU)
+hambre (ZA)
+YARIJANANA
+dar hambre (MI TI SA)
+YARIJAUNA
+dar hambre (GU)
+YARIJI
+hambre (TI SA)
+YARIQUI
+hambre (ZA CS)
+YARJA
+hambre (IL)
+YATA
+pared (PE)
+YATA PASCANA
+aplanar (CU GU)
+YAÜR
+sangre (MI CU TI SA GU)
+YAYA
+padre (MI CU TI SA GU TR NI CS
+YAYA CURA
+sacerdote (NI)
+YAYA MAMA ILLAJ
+huérfano (TR CS)
+YAYA SUIDRU
+suegro (TI)
+YAYA UMA
+suegro (TI)
+YAYUNA
+regar agua (CUSA)
+regar cosas
+YIRNU
+yerno
+YUCA
+yo
+YUCALITU
+eucalipto
+YUCALU
+eucalipto
+YUCANCHIJ
+nosotros
+YUGZI
+arena
+YUGZUJ
+fibra de cabuya (SA)
+YUMBU
+brujo (GU)
+YUMBUNA
+brincar
+danzar (IL)
+YUMPA
+anterior (ZA)
+YUMPANA
+adelantarse (ZA)
+YUMPI
+adelante (ZA)
+YUMPUJ
+delante de (ZA MI)
+anterior (ZA)
+YUNDA
+yunta
+YUNGA
+playa
+YUNTA
+yunta
+YUPANA
+contar (un número) # (ZA MISA)
+YURA
+árbol
+planta
+flor
+YURA CARA
+corteza (MI TR)
+YURA SHINA
+corteza (GU)
+YURAGYANA
+brillar (NI)
+YURAGYASHCA
+pálido (IL PE TR NI es SI)
+YURAJ
+blanco (IL PE TR Nr-cs-srGz~~SG)
+YURAJ CHAHUAR
+cabuya blanca (PE TICS! Gi SG)
+YURAJ SHUNGU
+pulmones (IL SA GU TR NI CS
+YURAJ TSAHUAR
+cabuya blanca (CS NI)
+YURUJ
+blanco (ZA MI CU TI SA GU)
+YURUJ CHAÜR
+cabuya blanca (MI CU GU)
+YURUJ SHUNGU
+pulmones (ZA CU TI SA)
+YURUJ UMA
+rubio (ZA)
+YURUJ YURUJ
+aguado (MI)
+YUSULPAGUI NINA
+agradecer (SI)
+YUTA
+perdiz (SG)
+YUTU
+perdiz (IL MI CU TI .PESA TR NI
+YUYA JAPINA
+pensar (TI)
+YUYACHINA
+acordar
+YUYAGLLA
+mayor
+YUYAI
+pensamiento
+YUYAJ
+viejo
+vieja
+mayor (adj.) (CS SI)
+inteligente (IL)
+YUYANA
+pensar
+acordar (IL SI GZ SG)
+recordar (IL ZA SG)
+YUYARINA
+acordarse
+recordar
+animarse (PE TR)
+YUYI
+pensamiento (ZA TI PESA GU)
+mayor (adj.) (MISA)
+YUYIJ
+viejo (anciano) (MISA GU)
+YUYU
+hierba medicinal (MI CU TI GU
+nabo (IL TI TR) ·
+planta (ZA TR)
+ZACAL
+poroso (GU)
+ZALA
+flaco
+débil
+ZAMBU
+calabaza
+ZANAJURIA
+zanahoria (ZA)
+ZANCA
+zanja (GU)
+ZANURA
+zanahoria (SI)
+ZAQUIL
+poroso
+transparente (GU)
+ZARZA
+aguado (TI)
+ZILI
+excremento (TR)
+ZIMBRARINA
+temblar (SA)
+ZINGUNA
+revolcar (SG)
+ZIPU
+crespo (GU)
+ZIRBU
+crespo
+ZIYA
+liendre
+ZUGZI
+arena
+ZUGZUG
+puñado (SA)
+ZUNLLU
+andrajoso
+ZUNZU
+zonzo (GU)
+ZUPI
+crespo (MI)
+ZUTIYACHINA
+mojar (SA)
+ZUZUGNINA
+fruncir (TI)
+ZUZUGYASHCA
+arruga (MI)
+ZUZUJ
+arruga (TI GU)
+ZHARU
+áspero
+ZHIRBU
+crespo
+ZHIRU
+gris
