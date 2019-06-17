@@ -1605,6 +1605,8 @@ silu
 jahua silu
 janaj pacha
 CIEN
+patsaj
+pasaj
 CIENTO
 patsaj
 pasaj
@@ -1676,7 +1678,6 @@ jatachina
 jatarina
 p'achachina
 COCINA
-CUARTO
 yanuna ucu
 cuzina ucu
 yanunaucu
@@ -3286,7 +3287,11 @@ bugllina
 sami lujshina
 shungu bultana
 ESA
+chai
+chi
 ESE
+chai
+chi
 ESO
 chai
 chi
@@ -3415,7 +3420,11 @@ ESQUILAR
 rutuna
 p'itina
 ESTA
+cai
+qui
 ESTE
+cai
+qui
 ESTO
 cai
 qui
@@ -3781,7 +3790,6 @@ huasha
 cancha
 siparadu
 juira
-FUERA DE FUERTE
 FUERTE
 sinchi
 jinchi
@@ -5483,7 +5491,6 @@ siqui pata
 NARIZ
 singa
 NAUSEAS
-TENER
 millanachina
 millanayana
 millana
@@ -6029,6 +6036,10 @@ jihua
 michicui
 milin
 PASTOR
+michij
+michidur
+michidura
+michilún
 PASTORA
 michij
 michidur
@@ -8024,6 +8035,10 @@ inaraj
 naruj
 mana ru
 TODOS
+tucui
+tuqui
+illij
+ishta
 TODO
 tucui
 tuqui
@@ -10082,7 +10097,6 @@ justo
 suficiente
 entero
 CABUYA
-CABUYA
 cabuya blanca
 CACA
 caca
@@ -10225,6 +10239,7 @@ diarrea
 CAMATIS
 diablo
 CAMBIADU
+en vez de
 CAMBIYANA
 convertirse
 CAMCHA
@@ -10677,7 +10692,9 @@ fiambre
 CUCAVI
 fiambre
 CUCAYI
+fiambre
 CUCAYU
+fiambre
 CUCU
 diablo
 demonio
@@ -10748,6 +10765,7 @@ contar
 CUIRDA
 cuerda
 CUIRPU UPA
+paralizado
 CUIRPU UPAYASHCA
 paralizado
 CUITSA
@@ -10850,7 +10868,9 @@ compadre
 CUMPAÑANA
 acompañar
 CUMPAÑASHA PURINA
+acompañar
 CUMPAÑASHA RINA
+acompañar
 CUMPAÑIRITU
 amigo
 CUMPARI
@@ -10882,6 +10902,7 @@ hoy
 CUNAN PUNLLA
 hoy
 CUNAN PUNZHA
+hoy
 CUNBIDANA
 regalar
 CUNCHU
@@ -10940,7 +10961,6 @@ educar
 CUNTININA
 sostener
 CUNTINTU
-CUNUGYANA
 contento
 alegre
 feliz
@@ -10976,10 +10996,13 @@ CUNUN
 ahora
 hoy
 CUNUN P'UNLLA
+hoy
 CUNUNA
 abrigarse
 calentarse
 CUNURINA
+abrigarse
+calentarse
 CUNYANA
 arder
 CUÑA
@@ -11111,6 +11134,7 @@ ahumar
 CUSHNIYACHINA
 ahumar
 CUSHNIYANA
+ahumar
 CUSHPANA
 orinar
 CUSHQUI
@@ -11774,8 +11798,11 @@ embarazada
 CHICHUCHINA
 empreñar
 CHICHUNA
+empreñar
 CHICHUYACHINA
+empreñar
 CHIJSA
+sin sal
 CHIJTANA
 partir
 rajar
@@ -11810,6 +11837,7 @@ merciélago
 CHIMUNDA
 entonces
 CHIMUNDAGA
+entonces
 CHINA
 así
 muchacha
@@ -12256,6 +12284,7 @@ disfrazado
 DISIGUALARISHCA
 desigual
 DISMAYACHANINA
+desmayarse
 DISMAYANA
 desmayarse
 DISMAYU JAPINA
@@ -13680,7 +13709,7 @@ agarrar
 recoger
 escojer
 recibir
-aceptar CIL SA
+aceptar
 tocar
 hallar
 encontrar
@@ -13983,7 +14012,6 @@ mojado
 JUAJCHA
 cabello
 pelo
-JUCHA GANA
 JUASIL
 facil
 JUBIN
@@ -14380,7 +14408,6 @@ lugar
 país
 LUGARYACHINA
 vaciar
-LULUNTA HUACHANA
 LUGRU
 sopa
 LUGURYACHINA
@@ -15847,7 +15874,6 @@ NINA PACHA
 infierno
 NINA PATA
 fogón
-NITU
 NINA UCU
 cocina
 NISHINA
@@ -16872,7 +16898,7 @@ pueblo
 PUISTU
 puesto
 PULRU
-polvo TIL ZA MI TR es SI
+polvo
 PULGA
 blusa
 PULILLANA
@@ -20812,7 +20838,6 @@ YAPACHINA
 añadir
 repetir
 YAPANA
-YARCANA
 añadir
 aumentar
 repetir
